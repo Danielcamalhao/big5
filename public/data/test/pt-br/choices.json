@@ -1,0 +1,46 @@
+{
+  "plus": [
+    {
+      "text": "Muito inadequado",
+      "score": 1
+    },
+    {
+      "text": "Relativamente inadequado",
+      "score": 2
+    },
+    {
+      "text": "Nem adequado, nem inadequado",
+      "score": 3
+    },
+    {
+      "text": "Relativamente adequado",
+      "score": 4
+    },
+    {
+      "text": "Muito adequado",
+      "score": 5
+    }
+  ],
+  "minus": [
+    {
+      "text": "Muito inadequado",
+      "score": 5
+    },
+    {
+      "text": "Relativamente inadequado",
+      "score": 4
+    },
+    {
+      "text": "Nem adequado, nem inadequado",
+      "score": 3
+    },
+    {
+      "text": "Relativamente adequado",
+      "score": 2
+    },
+    {
+      "text": "Muito adequado",
+      "score": 1
+    }
+  ]
+}

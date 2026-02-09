@@ -1,0 +1,46 @@
+{
+  "plus": [
+    {
+      "text": "Á mjög illa við mig",
+      "score": 1
+    },
+    {
+      "text": "Á illa við mig",
+      "score": 2
+    },
+    {
+      "text": "Á hvorki vel né illa við mig",
+      "score": 3
+    },
+    {
+      "text": "Á vel við mig",
+      "score": 4
+    },
+    {
+      "text": "Á mjög vel við mig",
+      "score": 5
+    }
+  ],
+  "minus": [
+    {
+      "text": "Á mjög illa við mig",
+      "score": 5
+    },
+    {
+      "text": "Á illa við mig",
+      "score": 4
+    },
+    {
+      "text": "Á hvorki vel né illa við mig",
+      "score": 3
+    },
+    {
+      "text": "Á vel við mig",
+      "score": 2
+    },
+    {
+      "text": "Á mjög vel við mig",
+      "score": 1
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "plus": [
+    {
+      "text": "Sangat Tidak Akurat",
+      "score": 1
+    },
+    {
+      "text": "Sedikit Tidak Akurat",
+      "score": 2
+    },
+    {
+      "text": "Antara Akurat Ataupun Tidak Akurat",
+      "score": 3
+    },
+    {
+      "text": "Sedikit Akurat",
+      "score": 4
+    },
+    {
+      "text": "Sangat Akurat",
+      "score": 5
+    }
+  ],
+  "minus": [
+    {
+      "text": "Sangat Tidak Akurat",
+      "score": 5
+    },
+    {
+      "text": "Sedikit Tidak Akurat",
+      "score": 4
+    },
+    {
+      "text": "Antara Akurat Ataupun Tidak Akurat",
+      "score": 3
+    },
+    {
+      "text": "Sedikit Akurat",
+      "score": 2
+    },
+    {
+      "text": "Sangat Akurat",
+      "score": 1
+    }
+  ]
+}

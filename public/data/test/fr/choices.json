@@ -1,0 +1,46 @@
+{
+  "plus": [
+    {
+      "text": "Fortement en désaccord",
+      "score": 1
+    },
+    {
+      "text": "Plutot en désaccord",
+      "score": 2
+    },
+    {
+      "text": "Ni en accord ni en désaccord",
+      "score": 3
+    },
+    {
+      "text": "Plutot en accord",
+      "score": 4
+    },
+    {
+      "text": "Fortement en accord",
+      "score": 5
+    }
+  ],
+  "minus": [
+    {
+      "text": "Fortement en désaccord",
+      "score": 5
+    },
+    {
+      "text": "Plutot en désaccord",
+      "score": 4
+    },
+    {
+      "text": "Ni en accord ni en désaccord",
+      "score": 3
+    },
+    {
+      "text": "Plutot en accord",
+      "score": 2
+    },
+    {
+      "text": "Fortement en accord",
+      "score": 1
+    }
+  ]
+}

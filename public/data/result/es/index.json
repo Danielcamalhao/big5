@@ -1,0 +1,262 @@
+[
+  {
+    "domain": "A",
+    "title": "Simpatía",
+    "shortDescription": "La simpatía refleja la capacidad de una persona para mantener la armonía y cooperar con otros.",
+    "description": "Una persona simpática busca llevarse bien con los demás.\nPor este motivo, son considerados, amistosos, generosos, serviciales y\nsiempre dispuestos a comprometerse con los intereses de los demás.\nLa gente simpática también tiene una percepción optimista sobre la\nnaturaleza humana, considerando que todo el mundo es honesto y digno\nde confianza.\n<br /><br />\nLos individuos más desagradables priorizan su propio bienestar a mantener\nuna buena relación con otras personas. Generalmente no se preocupan por\nel bienestar de los demás, y es muy raro que se ofrezcan a prestar\nayuda a otras personas. Su escepticismo sobre las motivaciones de otros\nhace que resulten desconfiados, ariscos y poco cooperativos.\n<br /><br />\nLa simpatía es un factor que supone una ventaja a la hora de ganar popularidad\nentre la gente, porque alguien simpática es más propenso a ganarse el\naprecio de otros. Por otro lado, esa simpatía es menos útil en circunstancias\ndonde se requiera tomar decisiones imparciales y objetivas. Las personas\ncon menos simpatía pueden ser brillantes como científicos, críticos o soldados.",
+    "results": [
+      {
+        "score": "low",
+        "text": "Tu puntuación en simpatía es baja, lo que indica que te\nprecupan más tus necesidades que las de los demás. Los otros te perciben\ncomo una persona difícil, crítica e inflexiva."
+      },
+      {
+        "score": "neutral",
+        "text": "Tu puntuación en simpatía es media. Aunque te preocupas por las\nnecesidades ajenas, generalmente no estás dispuesto a sacrificarte por otros."
+      },
+      {
+        "score": "high",
+        "text": "Tu alta puntuación en simpatía indica que te interesas por las\nnecesidades de otros tanto como de tu propio bienestar. Eres agradable,\ncompasivo y cooperativo."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Confianza",
+        "text": "Alguien que tenga un alto nivel de confianza asume que todos a\nsu alrededor son justos, honestos y con buenas intenciones. Quienes confían\npoco suelen percibir a los demás como egoístas, retorcidos y, potencialmente,\npeligrosos."
+      },
+      {
+        "facet": 2,
+        "title": "Moral",
+        "text": "Quienes tienen una alta puntuación en esta escala no ven necesidad\nde fingir o manipular nada en sus interacción con los demás. Esto los convierte\nen personas directas y sinceras. Los que obtienen menos puntos consideran que\nes necesario mantener un cierto nivel de engaño en situaciones sociales.\nLas personas encuentran relativamente fácil relacionarse con la gente directa\nque obtiene muchos puntos en esta escala, y les resulta más difícil comunicarse\ncon quienes obtienen menos puntos. Hay que aclarar que quienes sacan menos puntos\nen moralidad no necesariamente son inmorales e inescrupulosos; simplemente mantienen\nla guardia y más reticentes a revelar toda la verdad."
+      },
+      {
+        "facet": 3,
+        "title": "Altruismo",
+        "text": "Una persona altruista se siente bien con el simple hecho de ayudar a\notros. Es por eso que, normalmente, están dispuestos ayudar a quien lo necesita.\nPara esta gente, el ayudar a otros no es un sacrificio, sino algo que les llena.\nA quienes obtienen baja puntuación en esta escala, sin embargo, no les gusta\nespecialmente prestar ayuda a otras personas. Si acuden en ayuda de alguien,\nlo hacen más por imposición que por que hacerlo les haga sentir bien."
+      },
+      {
+        "facet": 4,
+        "title": "Cooperación",
+        "text": "Quienes sacan una alta puntuación en esta escala detestan los\nenfrentamientos. Están dispuestos a comprometerse o sacrificar sus propias\nnecesidades con tal de llevarse bien con otros. Los que obtienen menos puntos\ntienden a intimidar a los demás con tal de salirse con la suya."
+      },
+      {
+        "facet": 5,
+        "title": "Modestia",
+        "text": "A los que sacan una puntuación alta en esta escala no les gusta\ndecir que son mejor que los demás. En muchos casos, esta actitud puede derivar\nde una falta de autoestima. Por otro lado, alguien con mucha autoestima tiende\na no ser modesto en absoluto. Esta gente que se describe a sí misma como\nalguien superior a los demás suele ser percibida como antipática y arrogante."
+      },
+      {
+        "facet": 6,
+        "title": "Empatía",
+        "text": "Quienes obtienen una alta puntuación en esta escala son personas\nbondadosas y compasivas. Sienten el dolor de otros y es muy fácil hacerlos sentir\nlástima. Los que obtienen menos puntos no se ven muy afectados por el sufrimiento\najeno, y se enorgullecen de poder tomar decisiones de forma objetiva basándose\núnicamente en la razón. Les preocupa más la verdad e impartir una justicia e\nimparcial, en lugar de caer en la misericordia."
+      }
+    ]
+  },
+  {
+    "domain": "E",
+    "title": "Extroversión",
+    "shortDescription": "La extraversión se define por la relación de una persona con el mundo exterior.",
+    "description": "Las personas extrovertidas disfrutan estar con otra gente, están llenas\nde energía y tienden a ser optimistas. Suelen ser entusiastas y aventureros, personas\nque nunca dicen no ante la posibilidad de probar algo nuevo. Cuando están en grupo, les\ngusta hablar, reivindicarse y llamar la atención.\n<br /><br />\nLa gente introvertida carece de la exuberancia, energía y una vida tan activa como la\nde los extrovertidos. Suelen ser callados, discretos, prudentes y estar aislados del mundo exterior. El hecho de que se aislen no implica que sean tímidos o sufran depresión;\nuna persona introvertida simplemente no necesita tantos estímulos como alguien\nextrovertido, y prefieren estar solos.\n<br /><br />\nA veces se confunde esta independencia y cautela con frialdad y arrogancia. La realidad\nes que este tipo de personas, si tienen una buena puntuación en simpatía, aunque no den\nel paso de acercarse a otras personas, suelen ser muy agradables con quien se les acerca.",
+    "results": [
+      {
+        "score": "low",
+        "text": "Tu puntuación en extroversión es baja, lo que significa que\neres una persona introvertida, reservada y callada. Disfrutas estar solo\ny hacer cosas en solitario. Tu actividad social se restringe a un par de\namigos cercanos."
+      },
+      {
+        "score": "neutral",
+        "text": "Tienes una puntuación media en extroversión, lo que significa\nque ni eres un alma solitaria ni un charlatán alegre. Disfrutas la compañía\nde otros, pero también pasar tiempo solo."
+      },
+      {
+        "score": "high",
+        "text": "Has sacado una alta puntuación en extroversión, lo que significa\nque eres una persona sociable, extrovertida, enérgica y alegre. Prefieres estar\nacompañado la mayor parte del tiempo."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Cordialidad",
+        "text": "La gente cordial gusta de otros de forma genuina, y expresan\nabiertamente sus sentimientos positivos hacia los demás. Hacen amigos\nrápidamente y no les cuesta formar relaciones cercanas con otras personas.\nQuienes obtienen pocos puntos en esta escala no son necesariamente fríos y hostiles,\npero no suelen acercarse a otros y se les considera reservados y distantes."
+      },
+      {
+        "facet": 2,
+        "title": "Sociabilidad",
+        "text": "La compañía de otros resulta muy gratificante para las\npersonas sociables. Disfrutan estar rodeados de gente. Alguien que\nobtiene baja puntuación en este aspecto, sin embargo, tiende a evitar\nlas multitudes porque le resultan agobiantes. No es que no les guste\nla compañía de otros en ningún momento, pero necesitan mucha más\nprivacidad y pasar tiempo en solitario que una persona con alta\npuntuación en esta escala."
+      },
+      {
+        "facet": 3,
+        "title": "Confianza",
+        "text": "Quienes tienen una alta puntuación en confianza gustan\nde hablar, tomar la iniciativa y dirigir a los demás. Suelen asumir\nel papel de líder dentro de los grupos. Los que obtienen una puntuación\nbaja suelen hablar poco y dejarse llevar."
+      },
+      {
+        "facet": 4,
+        "title": "Nivel de actividad",
+        "text": "Los individuos muy activos llevan una vida muy ocupada y que\navanza a un ritmo muy rápido. Se mueven constantemente y tienen mucha energía,\ncon lo que es frecuente verlos involucrados en muchas actividades diferentes.\nLas personas que obtienen una baja puntuación en esta escala avanzan a un ritmo\nmucho más relajado."
+      },
+      {
+        "facet": 5,
+        "title": "Búsqueda de nuevas experiencias",
+        "text": "Quienes obtienen una alta puntuación en este aspecto se aburren con\nfacilidad y necesitan muchos estímulos. Adoran las luces brillantes y el ajetreo.\nEste tipo de personas son propicios a tomar riesgos y buscan nuevas experiencias constantemente. Por otro lado, las personas de más baja puntuación se agobian\nfácilmente con el ruido y el escándalo, y son bastante adversos al cambio."
+      },
+      {
+        "facet": 6,
+        "title": "Alegría",
+        "text": "Esta faceta mide únicamente el nivel de ánimo y sentimientos positivos\n(las emociones negativas son parte del apartado de Neurosis). Los que obtienen una\npuntuación alta en esta escala expresan con frecuencia un abanico de emociones\npositivas, tales como la felicidad, el entusiasmo, el optimismo o la alegría. Quienes\nobtienen menos puntos son menos propensos a mostrar tanta energía y entusiasmo."
+      }
+    ]
+  },
+  {
+    "domain": "N",
+    "title": "Neurosis",
+    "shortDescription": "La neurosis hace referencia a la tendencia a experimentar sentimientos negativos.",
+    "description": "Inicialmente, Freud usó el término \"neurosis\" para describir\nuna condición marcada por la angustia, el sufrimiento y la incapacidad de lidiar\ncon las tareas del día a día. Dijo que todos experimentamos algún signo de neurosis,\naunque los síntomas y el grado de gravedad varían de una persona a otra. Hoy en día\nse utiliza la palabra \"neurosis\" para describir la tendencia de una persona a\nexperimentar sentimientos negativos.\n<br /><br />\nLas personas que obtienen una alta puntuación en neurosis pueden verse afectados por\nun sentimiento negativo específico (como lo puede ser la ansiedad, la ira o la depresión),\naunque lo más normal es que sientan muchas de estas emociones.\n<br /><br />\nLas personas más neuróticas son muy reactivas a nivel emocional. Suelen presentar una respuesta\nemocional ante cosas que no tendrían impacto en la mayoría de la gente, y sus reacciones tienden\na ser más intensas de lo normal. Son muy propensos a interpretar situaciones normales como una\namenaza, y cualquier pequeña frustración les resulta tremendamente difícil de superar.\n<br /><br />\nSus respuestas negativas ante las situaciones suelen extenderse durante largos períodos de tiempo,\nlo que se traduce en que estén frecuentemente de mal humor. Esta incapacidad de controlar su\nnegatividad hace que una persona neurótica tenga dificultades para pensar con claridad, tomar\ndecisiones y lidiar con el estrés.",
+    "results": [
+      {
+        "score": "low",
+        "text": "Tienes una puntuación baja en neurosis, lo que significa que eres\nuna persona especialmente calmada, tranquila y serena. No respondes de forma\nmuy intensa, ni siquiera en situaciones que la mayoría de personas consideraría\nestresante."
+      },
+      {
+        "score": "neutral",
+        "text": "Tienes una puntuación media en neurosis, con lo que tu nivel\nde respuesta emocional ante las cosas coincide con el de la mayor parte de\nla población. Las situaciones de estrés y frustración te afectan, pero sueles\nser capaz de controlar esos sentimientos y superar estas situaciones."
+      },
+      {
+        "score": "high",
+        "text": "Tienes una puntuación alta en neurosis, lo que implica que cuesta\nmuy poco molestarte, incluso con cosas que la mayoría considera que son parte\nde una vida normal. La gente te considera alguien muy sensible y emocional."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Ansiedad",
+        "text": "Los individuos más ansiosos están constantemente dudando de si huir o enfrentar\nlas situaciones que se le presentan. Por este motivo, aquellos que presentan un alto nivel\nde ansiedad tienden a sentir que hay peligro acechándole a cada momento. Pueden temer a\nsituaciones concretas o ser miedosos en general. Se sienten tensos, agitados y nerviosos\ncon frecuencia. Quienes obtienen una baja puntuación en ansiedad suelen ser personas\nvalientes y tranquilas."
+      },
+      {
+        "facet": 2,
+        "title": "Ira",
+        "text": "La gente que tiene una alta puntuación en ira tiende a enfadarse cuando las\ncosas no salen como quiere. Son especialmente sensibles en cuanto a que se les trate de forma\njusta, y pueden mostrarse muy resentidos con quien sienten que los ha engañado. Esta\nescala mide la tendencia de una persona a enfadarse; que expresen abiertamente su enfado y\nhostilidad depende del nivel de simpatía de cada uno. Los que tienen baja puntuación\nen este aspecto no se enfadan con facilidad."
+      },
+      {
+        "facet": 3,
+        "title": "Depresión",
+        "text": "Esta escala mide la tendecia de una persona a sentirse triste,\ndesalentada y desanimada. Quienes tienen una alta puntuación tienen dificultades\npara iniciar actividades, mientras que los que obtienen menos puntos suelen ser\ninmunes a sentimientos depresivos."
+      },
+      {
+        "facet": 4,
+        "title": "Vergüenza",
+        "text": "Las personas que sienten mucha vergüenza son muy sensibles a la\nopinión que los demás tengan de ellos. Les preocupa hacer el ridículo y ser\nrechazados, lo que provoca que se sientan inseguros e incómodos alrededor de\notras personas. Tienen un miedo excesivo a que se les critique o se burlen de\nellos, pero esa inquietud y torpeza hacen de su miedo una realidad. Los que\nobtienen poca puntuación en esta escala, sin embargo, no se sienten observados\ny juzgados constantemente por la gente que hay a su alrededor. Por este motivo,\nno se sienten nerviosos en situaciones sociales."
+      },
+      {
+        "facet": 5,
+        "title": "Falta de moderacion",
+        "text": "Las personas con falta de moderación tienen problemas para\nresistirse a sus ansias y antojos. Suelen fijarse en obtener beneficios\na corto plazo en lugar de pensar en las consecuencias a largo plazo.\nQuienes obtienen una puntuación más baja no suelen tener deseos irresistibles\ny, en consecuencia, no suelen ceder ante las tentaciones con tanta facilidad."
+      },
+      {
+        "facet": 6,
+        "title": "Vulnerabilidad",
+        "text": "Las personas muy vulnerables experimientan pánico, confusión e\nimpotencia cuando están sometidos a presión o estrés. Los que obtienen puntuaciones\nbajas se mantienen mejor la calma, confianza y capacidad de pensar con claridad\nen situaciones de estrés."
+      }
+    ]
+  },
+  {
+    "domain": "C",
+    "title": "Meticulosidad",
+    "shortDescription": "La meticulosidad hace referencia a la forma en que controlamos y dirigimos nuestros impulsos.",
+    "description": "Los impulsos no son necesariamente malos.\nA veces tenemos que tomar una decisión en un corto espacio de tiempo,\ny actuar en base a un impulso puede ser una respuesta efectiva. Además,\nmás aplicado a nuestro tiempo libre que al trabajo, actuar de forma\nimpulsiva puede resultar divertido. Las personas más impulsivas pueden\nresultar extravagantes, alocados y divertidos a ojos de los demás.\n<br /><br />\nA pesar de esto, actuar en base a nuestros impulsos puede traernos\nproblemas en muchas ocasiones. Algunos de estos impulsos pueden ser\nantisociales. Realizar estos actos de forma incontrolada puede causar\ndaños a otras personas y provocar castigos en la persona que cedió\na esos impulsos. También suele ocurrir que estos actos impulsivos\ngenerar algún tipo de beneficio a corto plazo, pero unas consecuencias\nno deseadas a largo plazo. Ejemplos de esto son un exceso de socialización\nque cause que te echen de tu trabajo, lanzar un insulto que acaba por\nromper la relación con alguien importante, o caer en una droga que\neventualmente repercutirá negativamente en tu salud.\n<br /><br />\nUn comportamiento impulsivo, aunque no sea seriamente destructivo,\nlimita en gran medida la efectividad de una persona. Este comportamiento\nimpide que la persona contemple las distintas opciones posibles a la\nhora de decidir cómo actuar, y perder la posibilidad de escoger otro\ncamino más sabio que lo que pueda surgir en el momento. La impulsividad\ntambién desvía a la gente durante la realización de proyectos que\nrequieren ser planificados con cuidado en diferentes fases. Los logros\nque puede alcanzar alguien impulsivo, por tanto, son pequeños, dispersos\ne inconsistentes.\n<br /><br />\nUna de las principales características de la inteligencia, lo que diferencia\na los seres humanos de otras formas de vida, es la capacidad de evaluar\nnuestras opciones de cara al futuro antes de actuar. Esta inteligencia\nnos permite analizar nuestras metas a largo plazo y planificar los pasos\na seguir para alcanzar dichos objetivos, además de ser capaces de persistir\nen la persecución de esas metas frente a cualquier impulso que pueda surgir.\nEl término prudencia describe muy bien la idea de que podamos usar la\ninteligencia para controlar nuestros impulsos, término que también se puede\nemplear como alternativa a nuestro concepto de meticulosidad. La prudencia\nindica sabiduría y precaución.\n<br /><br/>\nLas personas que obtienen una alta puntuación en meticulosidad suelen ser\npercibidos por los demás como gente inteligente. Los beneficios de ser\nmeticuloso son evidentes. Este tipo de personas pueden evadir los problemas\ny lograr buenos resultados a través de una buena planificación y persistencia.\nTambién son considerados inteligentes y responsables. El lado negativo de esto\nes, sin embargo, que pueden ser muy perfeccionistas y adictos al trabajo.\nEn algunos casos esto puede causar que resulten aburridos y sosos a ojos de\notras personas.\n<br /><br />\nPor otra parte, a la gente más inconsciente puede ser criticada por su falta\nde ambición, irresponsabilidad y la incapacidad de mantenerse constante en\nla persecución de una meta concreta. No obstante, personas que persiguen\ntantos placeres a corto plazo nunca serán consideradas sosas.",
+    "results": [
+      {
+        "score": "low",
+        "text": "Tienes una puntucación baja en meticulosidad, lo que indica que\nte gusta vivir el momento. Tiendes a ser descuidado y desorganizado."
+      },
+      {
+        "score": "neutral",
+        "text": "Tienes una puntuación media en meticulosidad. Esto quiere decir que\neres razonablemente responsable, organizado y que eres capaz de controlar tus impulsos."
+      },
+      {
+        "score": "high",
+        "text": "Tienes una puntuación alta en meticulosidad. Tienes muy claras tus metas y\nlas persigues con gran determinación. Se te considera responsable y trabajador."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Autoeficacia",
+        "text": "La autoeficacia describe la confianza de uno en sus propias\nhabilidades para lograr cosas. Quienes tienen una alta puntuación en esta faceta\ntienen la inteligencia, voluntad y autocontrol necesario para alcanzar el éxito.\nLos que obtienen una puntuación más baja no se consideran tan efectivos y sienten\nque no tienen las riendas de su propia vida."
+      },
+      {
+        "facet": 2,
+        "title": "Orden",
+        "text": "Las personas con un alto nivel de orden son muy organizadas. Les gusta\nvivir siguiendo una rutina y planificar sus horarios. Mantienen listas con sus asuntos\npendientes y hacen planes. Los que tienen una puntuación más baja son desorganizados y\nmás dispersos."
+      },
+      {
+        "facet": 3,
+        "title": "Sentido del deber",
+        "text": "Esta escala refleja cuánto de fuerte es el sentido del deber de una persona.\nQuienes sacan una alta puntuación tienen un alto nivel de compromiso con sus obligaciones.\nLos que tienen baja puntuación consideran que los contratos o las reglas suponen una gran\nlimitación y no se rigen tanto por ellas. Se les suele considerar irresponsables."
+      },
+      {
+        "facet": 4,
+        "title": "Orientación a objetivos",
+        "text": "Los que obtienen una alta puntuación en esta escala se esfuerzan muchísimo\npara alcanzar la excelencia. Su ambición por ser reconocidos por sus éxitos hace que\nse muevan constantemente en dirección a sus nobles metas. Suelen tener un camino muy\nmarcado en la vida, pero si su puntuación es muy alta, pueden llegar a estar demasiado\nobsesionados con el trabajo. Las personas con baja puntuación se contentan con hacer\nuna mínima cantidad de trabajo, con lo que es fácil que los clasifiquen como vagos."
+      },
+      {
+        "facet": 5,
+        "title": "Disciplina",
+        "text": "La disciplina (también conocida por muchos como la fuerza de voluntad) es la\nhabilidad de una persona para persistir en una tarea difícil o desagradable hasta que logre\ncompletarla. Aquellos dotados de mucha disciplina pueden superar la reticencia a iniciar\nnuevas tareas y mantenerse en ellas a pesar de las distracciones. Las personas que carecen\nde disciplina, en cambio, posponen constantemente las cosas y tienen dificultades para\ncontinuarlas. Es frecuente que no logren completarlas, incluso aquellas que realmente\ntienen ganas de terminar."
+      },
+      {
+        "facet": 6,
+        "title": "Prudencia",
+        "text": "La prudencia describe la tendencia a considerar distintas opciones antes de actuar.\nQuienes sacan una alta puntuación en prudencia suelen tomarse su tiempo para tomar una decisión.\nLos que tienen pocos puntos en este aspecto tienden a decir o hacer lo primero que les viene a la\ncabeza, sin replantearse posibles alternativas o las posibles consecuencias de cada una."
+      }
+    ]
+  },
+  {
+    "domain": "O",
+    "title": "Apertura a experiencias",
+    "shortDescription": "La apertura a experiencias describe el estilo cognitivo de una persona y permite distinguir entre la gente imaginativa y creativa de personas más sensatas y convencionales.",
+    "description": "Las personas de mente abierta son personas con una gran curiosidad\nintelectual, que aprecian al arte y son sensibles a la belleza. Suelen ser mucho más\nconscientes de sus sentimientos que personas más cerradas, y tienen una forma peculiar\nde pensar y actuar. Estas personas más intelectuales tienen una alta puntuación en\ncuanto a apertura a experienca, una categoría que también puede recibir el nombre de\ncultura o intelecto.\n<br /><br />\nA pesar de eso, el intelecto es, probablemente, el aspecto más relevante dentro de la\napertura a experiencias. La puntuación obtenida en esta categoría depende ligeramente\nde los años de educación de la persona y de su rendimiento en pruebas de integencia.\n<br /><br />\nOtra característica de un estilo cognitivo abierto es la facilidad de pensar en abstracto\nen lugar de centrarse en experiencias concretas. Dependiendo de la habilidad intelectual\nde cada uno, la cognición de la persona puede tomar forma de símbolos matemáticos, lógicos,\npensamiento geometríco, artístico o un uso metafórico en el lenguake, así como las artes\nescénicas o la composición de música, entre muchas otras formas visuales.\n<br /><br />\nLas personas que obtengan baja puntuación en esta categoría suelen tener una visión más\nlimitada del mundo y tienen mucho más en común. Prefieren las cosas simples, directas y\nevidentes en lugar de lo sutíl, ambiguo y complejo. Pueden poner en duda las ciencias y\nel arte, calificándolas como difíciles de comprender o sin uso práctico. La gente más\ncerrada prefiere la familiaridad de lo conocido frente a la innovación; son conservadores\ny resistentes al cambio.\n<br /><br />\nLos psicólogos consideran que ser abierto es un signo de más madurez y es más sano, y ellos\nmismos son, generalmente, gente abierta a nuevas experiencias. No obstante, ambas formas de\npensar pueden resultar útiles en distintos contextos. El intelecto de una persona abierta\npuede ser muy positivo para un profesor, pero un estudio ha demostrado que unestilo más\ncerrado funciona mejor para lograr un buen rendimiento como policía, comercial y otros muchos\ntrabajos de prestación de servicios.",
+    "results": [
+      {
+        "score": "low",
+        "text": "No estás muy abierto a experiencias, lo que implica que ves el mundo en términos\nmás simples y convencionales. Se te puede describir como una persona práctica, sensata y\nconservadora."
+      },
+      {
+        "score": "neutral",
+        "text": "Tienes una puntuación media en apertura a experiencias. Esto indica que, aunque te\ngusta seguir la tradición, también estás dispuesto a provar cosas nuevas. No tienes una forma de\npensar muy simple ni tampoco demasiado compleja. Otros te perciben como una persona educada, pero\nno un intelectual."
+      },
+      {
+        "score": "high",
+        "text": "Tu puntuación en apertura a experiencias es alta, lo que indica que disfrutas con el\ncambio, variedad y cualquier novedad. Eres curioso, imaginativo y creativo."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Imaginación",
+        "text": "Este mundo es demasiado simple y ordinario para las personas más imaginativas.\nQuienes obtienen una alta puntuación en esta escala usan la fantasía como una forma de recrear\nun mundo más rico e interesante. Los que tienen una puntuación baja se centran más en los hechos\ny menos en fantasías."
+      },
+      {
+        "facet": 2,
+        "title": "Interes artístico",
+        "text": "Los que obtienen una alta puntuación en este aspecto aprecian la belleza, tanto en el\narte como en la naturaleza. Es frecuente verlos involucrados en eventos artísticos y naturales. No\nnecesariamente tienen que dedicarse a las artes o tener talento en este campo, aunque en muchos casos\nlo son; esta escala mide el interés y capacidad de apreciar la belleza tanto natural como artificial,\ndespués de todo. Las personas que tengan una baja puntuación en esta categoría cuentan con muy poco\nsentido de la estética y no se interesan por el arte."
+      },
+      {
+        "facet": 3,
+        "title": "Sensibilidad",
+        "text": "Las personas con un alto nivel de sensibilidad son muy conscientes de sus propios\nsentimientos. Los que tienen baja puntuación en esta escala no tienen tan claros sus sentimientos\ny tienen a no expresar sus emociones abiertamente."
+      },
+      {
+        "facet": 4,
+        "title": "Ansias de aventura",
+        "text": "Las personas más aventureras buscan constantemente probar nuevas actividades, viajar\na otros países y experimentar cosas distintas. Les aburre la rutina y limitarse a lo conocido,\ncon lo que no dudarán en probar caminos distintos para llegar a casa sólo por cambiar. Quienes\ntienen menos puntuación en este aspecto se sienten incómodos ante los cambios y prefieren mantenerse\nen la rutina."
+      },
+      {
+        "facet": 5,
+        "title": "Intelecto",
+        "text": "El intelecto y el interes por el arte son las dos características clave que definen\na una persona abierta a experiencias. Los que obtienen una alta puntuación en intelecto gustan\nde jugar con las ideas. Tienen la menta muy abierta a formas de pensar nuevas y poco convencionales,\ny les encanta participar en debates. Disfrutan resolviendo puzzles, acertijos y rompecabezas.\nLos que obtienen menos puntos en esta escala prefieren enfrentarse a personas o cosas concretas en\nlugar de ideas abstractas. Consideran estos ejercicios intelectuales una pérdida de tiempo.\nNo hay que confundir el intelecto con la inteligencia. La intelectualidad se refiere a una forma de\nver el mundo, no una habilidad. Aún así, es frecuente que una persona intelectual obtenga un\nrendimiento ligeramente mejor en pruebas de inteligencia que una persona que no lo es."
+      },
+      {
+        "facet": 6,
+        "title": "Liberalismo",
+        "text": "El liberalismo psicológico hace referencia a la predisposición de\nuna persona de desafiar a la autoridad, las costumbres y los valores tradicionales.\nEn su forma más extrema, este liberalismo puede presentarse como hostilidad hacia\nlas reglas, apoyo a criminales y aprecio a la ambigüedad, caos y el desorden. Los\nque tienen una mente más conservadora prefieren la seguridad y estabilidad que les\nofrece el seguir con la tradición. Ser psicológicamente liberal o conservador no\nnecesariamente se traduce en ideales políticos, pero lo normal es que las personas\nse inclinen a partidos que se alineen más con su forma de pensar."
+      }
+    ]
+  }
+]

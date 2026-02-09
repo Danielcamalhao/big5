@@ -1,0 +1,262 @@
+[
+  {
+    "domain": "A",
+    "title": "Verträglichkeit ",
+    "shortDescription": "Verträglichkeit zeigt die individuellen Unterschiede für die Bereitschaft zur Kooperation für die soziale Harmonie. Menschen mit stark ausgeprägter Verträglichkeit ist es wichtig sich mit anderen zu verstehen.",
+    "description": "Daher sind sie rücksichtsvoll, freundlich, großzügig, \nhilfsbereit und zu Kompromissen für das Wohl anderer bereit.  \nWohltuende Personen haben ebenfalls eine optimistische Sichtweise auf die \nmenschliche Natur. Sie glauben, dass Menschen ehrlich, anständig und \nvertrauenswürdig sind. <br /><br /> \nUnverträgliche Individuen stellen ihr eigenes Interesse über das soziale Wohl.\nDas Wohlergehen anderer ist ihnen generell gleichgültig, damit ist es unüblich\nfür sie sich für das Wohl anderer zu verausgaben. Gelegentlich hat ihre Skepsis\nzur Folge, dass sie von anderen als verdächtig, unfreundlich und nicht kooperativ \ngesehen werden.\n<br /><br />\nVerträglichkeit ist offensichtlich von Vorteil um Popularität zu erlangen und zu \nhalten. Verträgliche Menschen sind eher beliebt als unverträgliche Menschen.\nAndererseits ist Verträglichkeit nicht in Situationen hilfreich, in \ndenen harte oder absolut objektive Entscheidungen gefällt werden müssen. \nUnverträgliche Menschen können exzellente Wissenschaftler, Kritiker und Soldaten sein.",
+    "results": [
+      {
+        "score": "low",
+        "text": "Deine Punktzahl für Verträglichkeit ist niedrig, was auf weniger\nInteresse auf das Wohl anderer als dein eigenes hindeutet. Leute sehen dich als\nhart, kritisch und kompromisslos."
+      },
+      {
+        "score": "neutral",
+        "text": "Dein Verträglichkeitslevel ist normal, welches auf etwas Interesse\nauf das Wohl anderer hindeutet. Allerdings würdest du dich nicht unbedingt für\ndas Wohl anderer aufopfern."
+      },
+      {
+        "score": "high",
+        "text": "Dein hohes Level an Verträglichkeit deutet auf ein starkes\nInteresse für die Bedürfnisse anderer. Du wirst als angenehm, sympathisch\nund kooperativ angesehen."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Vertrauen",
+        "text": "Eine Person mit ausgeprägtem Vertrauen geht davon aus, dass\ndie meisten Leute fair, ehrlich, und guter Dinge sind. Personen mit niedrigem\nVertrauen sehen andere als egoistisch, hinterhältig und potentiell gefährlich."
+      },
+      {
+        "facet": 2,
+        "title": "Moral",
+        "text": "Menschen mit hohen Punkten auf dieser Skala sehen keine Notwendigkeit\nauf Manipulation oder Täuschung zu greifen, wenn sie es mit anderen \nMenschen zu tun haben und wirken aufrichtig, offen und ehrlich. Menschen mit\nniedrigen Punktzahlen glauben, dass eine gewisse Unehrlichkeit in sozialen\nBeziehungen dazugehört. Leute empfinden es als einfach sich mit einem Menschen\nmit hoher Punktzahl zu verknüpfen. Generell finden es Leute schwer sich mit\neinem Menschen mit wenigen Punkten zu verknüpfen. Hier sei gesagt, dass eine\nniedrige Punktzahl nicht bedeutet, dass jene Menschen unmoralisch sind; sie\nsind lediglich verschlossener und halten sich mehr bedeckt."
+      },
+      {
+        "facet": 3,
+        "title": "Altruismus",
+        "text": "Altruistische Leute finden den Akt des Helfens anderer als \nwirklich bereichernd. Infolgedessen sind sie generell gewillt anderen Menschen\nin Not zu helfen. Altruistische Menschen empfinden es als eine Form von \nSelbsterfüllung statt Selbstaufopferung, wenn sie Leuten in Not helfen. Menschen\nmit wenig Punkten in dieser Skala mögen es nicht besonders Menschen in Not zu\nhelfen. Sie sehen den Aufruf zur Hilfe eher als Zwang statt einer Chance\nzur Selbsterfüllung."
+      },
+      {
+        "facet": 4,
+        "title": "Kooperation",
+        "text": "Individuen mit einer hohen Punktzahl in dieser Kategorie mögen\nkeine Konfrontationen. Sie sind durchaus zu einem Kompromiss bereit oder\nstellen ihre eigenen Bedürfnisse für das Wohl anderer zurück. Jene Menschen \nmit einer niedrigen Punktzahl sind eher dazu veranlagt andere einzuschüchtern\num ihren Willen durchzusetzen."
+      },
+      {
+        "facet": 5,
+        "title": "Bescheidenheit",
+        "text": "Menschen mit hoher Punktzahl in dieser Skala geben nicht gerne\nzu, dass sie besser als andere Leute sind. In einigen Fällen leitet sich\ndiese Einstellung von niedrigem Selbstbewusstsein oder Selbstwertgefühl ab.\nDennoch finden manche Leute mit hohem Selbstbewusstsein Unanständigkeit als\nungehörig. Diejenigen die gewillt sind sich als überlegen zu beschreiben, \ntendieren dazu von anderen Leuten als arrogant gesehen zu werden."
+      },
+      {
+        "facet": 6,
+        "title": "Sympathie",
+        "text": "Menschen mit einer hohen Punktzahl in dieser Skala sind \nweichherzig und mitfühlend. Sie empfinden viel Mitleid und lassen sich leicht\nvon diesem berühren. Menschen mit niedriger Punktzahl sind nicht stark von\nmenschlichem Leid betroffen. Sie sind stolz auf ihre auf Tatsachen begründeten\nobjektiven Entscheidungen. Sie sorgen sich mehr um Wahrheiten und\nunparteiischer Gerechtigkeit als Mitleid."
+      }
+    ]
+  },
+  {
+    "domain": "E",
+    "title": "Extraversion",
+    "shortDescription": "Extraversion beschreibt das ausgeprägte Engagement mit der Außenwelt.",
+    "description": "Extrovertierte lieben die Gesellschaft anderer Leute, \nsind voller Energie, und empfinden oft positive Gefühle. Sie sind \nenthusiastische, handlungsorientierte Individuen, die dazu neigen mit \n\"Ja!\" oder \"Auf geht's\" auf neue Chancen für aufregende Aktivitäten zu antworten.\nIn Gruppen reden sie gerne, setzen sich durch und ziehen die \nAufmerksamkeit auf sich.\n<br /><br />\nIntrovertierten fehlt die Ausgelassenheit, die Energie, und die Lust auf \nAktivitäten des Extrovertierten. Sie tendieren dazu leise, \nzurückhaltend, wohlüberlegt, und von der sozialen Welt losgelöst zu \nsein. Ihr Mangel an sozialer Beteiligung sollte nicht als Schüchternheit \noder Depression interpretiert werden; die Introvertierten brauchen \nlediglich weniger Stimulation als ein Extrovertierter und sind gerne \nallein.<br /><br />Die Unabhängigkeit und die zurückhaltende Weise eines \nIntrovertierten wird manchmal als Unfreundlichkeit oder Arroganz \nmisverstanden. In Wirklichkeit wird ein Introvertierter mit hoher \nVerträglichkeit nicht auf Menschen zugehen, ist aber ein geselliger Typ \nwenn sie/er von anderen angesprochen wird.",
+    "results": [
+      {
+        "score": "low",
+        "text": "Deine Punktzahl in Extraversion ist niedrig, was darauf \nhinweist, dass du introvertiert, zurückhaltend und leise bist. Du magst \ndie Einsamkeit und Aktivitäten die du alleine machen kannst. Deine \nsozialen Aktivitäten beschränken sich auf wenige, aber nahe Freunde."
+      },
+      {
+        "score": "neutral",
+        "text": "Deine Punktzahl in Extraversion ist mittelmäßig, was darauf \nhinweist, dass du weder ein leiser Einzelgänger noch eine heitere \nLabertasche bist. Dir gefällt es Zeit mit anderen als auch mit dir \nselbst zu verbringen."
+      },
+      {
+        "score": "high",
+        "text": "Deine Punktzahl in Extraversion ist hoch, was eine \ngesellige, extrovertierte, energetische und lebendige Art hinweist. Du \nziehst es vor so viel Zeit wie möglich mit anderen Leuten zu \nverbringen."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Freundlichkeit",
+        "text": "Freundliche Menschen zeigen aufrichtige positive Gefühle \ngegenüber anderen Leuten. Sie finden schnell Freunde und es fällt ihnen \nleicht enge, intime Beziehungen zu knüpfen. Menschen mit niedriger \nPunktzahl in Freundlichkeit sind nicht unbedingt kalt und feindselig, \naber sie neigen dazu nicht auf Leute zuzugehen und werden von anderen \nals distanziert und zurückhaltend angesehen."
+      },
+      {
+        "facet": 2,
+        "title": "Geselligkeit",
+        "text": "Gesellige Menschen empfinden die Gesellschaft anderer Leute \nals positive Stimulation und belohnend. Sie genießen eine Aufregung für \nMenschenmengen. Menschen mit niedrigen Punkten in Geselligkeit sind \nleicht von Menschenmassen überfordert und meiden diese oft. Sie hassen \ndie Gesellschaft anderer Menschen nicht, aber ihr Bedürfnis nach \nPrivatsphäre und Zeit für sich selbst ist viel größer als das der Leute, \ndie eine hohe Punktzahl in dieser Skala haben."
+      },
+      {
+        "facet": 3,
+        "title": "Durchsetzungsvermögen",
+        "text": "Menschen mit einer hohen Punktzahl in Durchsetzungsvermögen \nlieben es ihre Meinung zu sagen und das Kommando zu übernehmen. Sie \ntendieren dazu der Leiter in Gruppen zu sein. Menschen mit niedriger \nPunktzahl neigen dazu nicht viel zu reden und überlassen anderen das \nKommando in Gruppenaktivitäten."
+      },
+      {
+        "facet": 4,
+        "title": "Tatendrang",
+        "text": "Aktive Individuen leben einen schnelles, beschäftigtes \nLeben. Sie sind energisch und nehmen an vielen Aktivitäten teil. \nMenschen mit einer niedrigen Punktzahl in dieser Skala führen ein \nlangsameres und müßigeres, entspannteres Leben."
+      },
+      {
+        "facet": 5,
+        "title": "Risikobereitschaft",
+        "text": "Menschen mit hoher Punktzahl in dieser Skala sind \nohne ein hohes Stimulationsniveau oft gelangweilt. Sie lieben grelle Lichter \nund das Gedränge der Massen. Sie gehen oft ein Risiko ein und suchen den \nNervenkitzel. Menschen mit einer niedrigen Punktzahl sind oft von Lärm \nund Tumult überfordert und von Nervenkitzel abgeneigt."
+      },
+      {
+        "facet": 6,
+        "title": "Heiterkeit",
+        "text": "Diese Skala misst die positive Stimmung und die Gefühle, \nnicht die negativen Gefühle (diese sind Teil der Neurotizismus Domäne). \nPersonen mit hoher Punktzahl auf dieser Skala empfinden typischerweise \noft zahlreiche positive Gefühle, einschließlich von Glückseligkeit, \nEnthusiasmus, Optimismus und Freude. Menschen mit niedriger Punktzahl \nsind nicht so anfällig für diese energetische Munterkeit."
+      }
+    ]
+  },
+  {
+    "domain": "N",
+    "title": "Neurotizismus",
+    "shortDescription": "Neurotizismus beschreibt die Tendenz zu negativen Gefühlen.",
+    "description": "Freud benutzte ursprünglich den Begriff Neurose um den \nZustand der mentalen Verzweiflung, emotionalen Leidens und der \nUnfähigkeit die normalen Ansprüche des Lebens effizient zu bewältigen zu \nbeschreiben. Er behauptete, dass jeder ein paar Zeichen von Neurose zeigt, \naber dass sich diese in dem Ausmaß des Leidens und der spezifischen \nSymptome der Verzweiflung unterscheiden. Heutzutage bezieht sich \nNeurotizismus auf die Tendenz negative Gefühle zu durchleben. \n<br /><br />Die Menschen, die eine hohe Punktzahl in Neurotizismus haben, \nerleben primär ein spezifisches negatives Gefühl wie Angst, Wut, oder \nDepression, sind aber Anfällig dafür mehrere dieser Emotionen zu fühlen.\n<br /><br />Diese Leute sind emotional reaktionsfreudig. Sie reagieren \nemotionaler auf Ereignisse als andere Menschen und ihre Reaktionen sind \nmeist intensiver als bei anderen Menschen. Sie interpretieren gewöhnliche \nSituationen eher als bedrohlich, und kleine Frustrationen als \nhoffnungslose Fälle.\n<br /><br />Ihre negativen emotionalen Reaktionen neigen dazu länger als \ngewöhnlich zu sein, was eine öftere schlechte Laune zur Folge hat. Diese \nProbleme bei der emotionalen Regulation reduziert sich bei einem Neurotiker \nauf die Fähigkeit klar zu denken, Entscheidungen zu treffen und Stress \neffektiv zu bewältigen.",
+    "results": [
+      {
+        "score": "low",
+        "text": "Deine Punktzahl in Neurotizismus ist niedrig, was auf eine \naußergewöhnliche Ruhe, Gelassenheit und Unerschütterlichkeit hinweist. \nDu reagierst nicht mit starken Emotionen, auch wenn die meisten Leute \ndie Situation als stressvoll beschreiben würden."
+      },
+      {
+        "score": "neutral",
+        "text": "Deine Punktzahl in Neurotizismus ist mittelmäßig, was auf \neine Reaktionsweise hindeutet, die typisch für die Allgemeinbevölkerung \nist. Anstrengende und frustrierende Situationen verärgern dich, aber du \nbist generell in der Lage Herr über deine Gefühle zu sein und die \nSituationen zu bewältigen."
+      },
+      {
+        "score": "high",
+        "text": "Deine Punktzahl in Neurotizismus ist hoch, was darauf \nhindeutet, dass du schneller verärgert bist, selbst bei dem was die \nmeisten Menschen als normale Anforderungen des Lebens erachten. Leute \nsehen dich als sensibel und emotional."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Angst",
+        "text": "Die \"Kampf-oder-Flucht\"-Reaktion wird bei ängstlichen \nIndividuen zu einfach und zu oft ausgelöst. Deshalb fühlen Menschen mit \nhoher Angst oft, dass jederzeit etwas gefährliches passieren wird. Sie \nkönnen vor einer spezifischen Situation Angst haben oder sind generell \nängstlich. Sie fühlen sich angespannt, zitterig und nervös. Personen mit \nwenig Angst sind in der Regel ruhig und furchtlos."
+      },
+      {
+        "facet": 2,
+        "title": "Wut",
+        "text": "Personen mit einer hohen Punktzahl in Wut sind oft erzürnt \nwenn etwas nicht auf ihre Weise passiert. Ihnen ist es wichtig fair \nbehandelt zu werden und sie reagieren gereizt wenn sie das Gefühl haben, \ndass sie getäuscht werden. Diese Skala misst die Tendenz zur Wut; ob die \nPerson Verärgerungen und Feindseligkeit zeigt hängt von der \nVerträglichkeit des Individuums ab. Personen mit niedriger Punktzahl in \nWut werden weder schnell noch leicht böse."
+      },
+      {
+        "facet": 3,
+        "title": "Depression",
+        "text": "Diese Skala misst die Neigung dazu Traurigkeit, \nSchwermütigkeit, und Entmutigung zu fühlen. Personen mit hoher Punktzahl \nin Depression fehlt Energie und haben Schwierigkeiten Aktivitäten zu \nbeginnen. Personen mit niedriger Punktzahl neigen dazu, diese depressiven \nGefühle nicht zu haben."
+      },
+      {
+        "facet": 4,
+        "title": "Selbstbewusstsein",
+        "text": "Selbstbewussten Individuen ist es wichtig, was andere über \nsie denken. Ihre Sorge über Ablehnung und Spot lassen die Person \nschüchtern und ungemütlich in der Gesellschaft von anderen Leuten. Sie \nsind leicht und oft beschämt. Ihre Ängste, dass andere sie kritisieren \noder über sie herziehen, sind oft übertrieben und unrealistisch, aber \nihre Ungeschicklichkeit und Unwohlsein machen diese Ängste zu einer \nselbsterfüllenden Prophezeiung. Menschen mit niedriger Punktzahl \nhingegen leiden nicht unter diesem irrtümlichen Eindruck, dass jeder \nsie überwacht und verurteilt. Sie fühlen sich in sozialen Situationen \nnicht nervös."
+      },
+      {
+        "facet": 5,
+        "title": "Übermaß",
+        "text": "Übermäßige Individuen durchleben oft starke Gelüste und \nTriebe, denen sie nur schwer widerstehen können. Sie neigen zu \nkurzzeitigen Befriedigungen und Belohnungen statt langfristigen Zielen. \nMenschen mit niedriger Punktzahl erleben keine starken, \nunwiderstehlichen Gelüsten und können diesen somit nicht verfallen."
+      },
+      {
+        "facet": 6,
+        "title": "Empfindlichkeit",
+        "text": "Leute mit hoher Punktzahl in Empfindlichkeit erleben Panik, \nVerwirrung und Hilflosigkeit unter Druck oder Stress.\nMenschen mit niedriger Punktzahl fühlen sich unter Stress \nselbstsicherer, zuversichtlicher und denken klarer."
+      }
+    ]
+  },
+  {
+    "domain": "C",
+    "title": "Gewissenhaftigkeit",
+    "shortDescription": "Gewissenhaftigkeit beschäftigt sich mit der Art, wie wir unsere Impulse kontrollieren, regulieren und steuern.",
+    "description": "Impulse sind nicht grundsätzlich schlecht; gelegentlich ist es \nnotwendig wegen Zeitdruck mit einer spontanen Entscheidung zu reagieren\nund mit dem ersten Impuls ist es eine effektive Reaktion. Außerdem\nkann es in nicht ernsten Lagen spaßig sein spontan und impulsiv zu reagieren. \nImpulsive Individuen können von anderen als facettenreich, kasperhaft und \ngesellig angesehen werden.\n<br /><br />\nDennoch kann impulsives Handeln zu Problemen führen. Manche Impulse sind\nasozial. Unkontrolliertes asoziales Handeln kann nicht nur anderen schaden,\nes kann ebenfalls zu Rachegelüsten gegenüber dem Täter der impulsiven \nHandlungen führen. Ein weiteres Problem sind die ungewollten langfristigen\nKonsequenzen, auch wenn vorerst sofortige Belohnungen entstehen. Zum Beispiel\nder Verlust eines Jobs nach übermäßigem Sozialisieren, der Zusammenbruch einer\nwichtigen Beziehung nachdem eine Beleidigung gefallen ist oder die Zerstörung\nder eigenen Gesundheit durch rekreative Drogen.\n<br /><br />\nImpulsives Verhalten, auch wenn dieses nicht wirklich schädlich ist, reduziert\ndie Effektivität der Person in mehreren signifikanten Weisen. Das impulsive \nHandeln verhindert alternative Herangehensweisen an ein Problem, welche\nweiser als die impulsive Entscheidung gewesen wären. Impulsivität lenkt \nden Menschen ab, wenn ein Projekt einen organisierten Plan verfolgt. \nErrungenschaften einer impulsiven Person sind daher klein, weit gestreut und\ninkonsistent.\n<br /><br />\nEin Kennzeichen von Intelligenz, etwas was potentiell den Menschen von früheren\nLebensformen unterscheidet, ist die Fähigkeit über zukünftige Konsequenzen\nnachzudenken, bevor nach einem Impuls gehandelt wird. Intelligente Aktivitäten \nerfordern das Reflektieren über Langzeitziele, das Planen und Organisieren der\nSchritte zu diesem Ziel, sowie das Durchhaltevermögen für das Ziel gegenüber\nkurzzeitigen Impulsen. Die Idee, dass Intelligenz das Kontrollieren von Impulsen\nbeinhaltet, deckt sich mit dem Begriff Vernunft, welches ein anderer Titel für\ndie Gewissenhaftigkeitsdomäne ist. Vernunft bedeutet hier sowohl Weise als auch\nBehutsam zu sein.\n<br /><br/>\nPersonen mit hoher Punktzahl in der Gewissenhaftigkeitsskala werden in der Tat\nvon anderen als intelligent wahrgenommen. Die Vorteile von hoher \nGewissenhaftigkeit sind offensichtlich. Gewissenhafte Individuen vermeiden \nSchwierigkeiten und haben ein hohes Maß an Erfolg durch zielgerichtetes Planen\nund Beständigkeit. Sie sind außerdem von anderen als intelligent und \nzuverlässig angesehen. Auf der anderen Seite können sie zwanghafte \nPerfektionisten und Workaholics sein. Des weiteren könnten extrem gewissenhafte\nLeute als spießig und langweilig angesehen werden.\n<br /><br />\nUngewissenhafte Menschen können für ihre Unzuverlässigkeit, Mangel an Ehrgeiz,\nund das Scheitern im Rahmen zu bleiben kritisiert werden, aber sie durchleben\nviele kurzzeitige Vergnügungen und werden niemals als spießig angesehen.",
+    "results": [
+      {
+        "score": "low",
+        "text": "Deine Punktzahl in Gewissenhaftigkeit ist niedrig, was darauf \nhinweist, dass du für den Moment lebst und tust, was sich für dich im Moment gut\nanfühlt. Deine Arbeitsweise neigt dazu unbekümmert und unorganisiert zu sein."
+      },
+      {
+        "score": "neutral",
+        "text": "Deine Punktzahl in Gewissenhaftigkeit ist mittelmäßig. Das \nbedeutet, dass du ziemlich zuverlässig und organisiert bist und dich selbst\nbeherrscht."
+      },
+      {
+        "score": "high",
+        "text": "Deine Punktzahl in Gewissenhaftigkeit ist hoch. Das bedeutet, dass\ndu dir klare Ziele setzt und diese mit Entschlossenheit verfolgst. Andere Leute\nsehen dich als zuverlässig und fleißig."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Kompetenz",
+        "text": "Kompetenz beschreibt die Selbsticherheit in die eigene Fähigkeit\nDinge zu erreichen. Menschen mit hoher Punktzahl glauben, sie haben die nötige\nIntelligenz (gesunden Menschenverstand), Trieb und Selbstkontrolle, um einen\nErfolg zu erzielen. Menschen mit niedriger Punktzahl fühlen sich ineffektiv,\nund können den Gedanken haben, ihr Leben nicht im Griff zu haben."
+      },
+      {
+        "facet": 2,
+        "title": "Ordnungsliebe",
+        "text": "Personen mit hoher Punktzahl in Ordnungsliebe sind gut \norganisiert. Sie lieben es, ihr Leben in Routinen und Termine einzuteilen. Sie\nschreiben Listen und machen Pläne. Menschen mit niedriger Punktzahl neigen dazu\nunorganisiert und zerstreut zu sein."
+      },
+      {
+        "facet": 3,
+        "title": "Pflichtbewusstsein",
+        "text": "Diese Skala reflektiert die Stärke der Pflichtauffassung einer \nPerson. Jene, die eine hohe Punktzahl in dieser Skala erzielen, haben einen starken\nDrang ihren moralischen Pflichten nachzugehen. Menschen mit niedriger Punktzahl\nfinden Verträge, Regeln, und Vorschriften zu begrenzend. Sie neigen dazu als \nunzuverlässig oder sogar verantwortungslos gesehen zu werden."
+      },
+      {
+        "facet": 4,
+        "title": "Leistungsstreben",
+        "text": "Individuen, die eine hohe Punktzahl in dieser Skala erreichen, \nstreben sehr nach Spitzenleistungen. Ihr als erfolgreich angesehenes Streben\nhält sie auf der Spur für ihre hoch gesteckten Ziele. Sie haben oft einen\nkonkreten Lebensweg, aber Menschen mit extrem hohen Punktzahlen sind möglicherweise zu \nzielgerichtet und besessen mit ihrer Arbeit. Menschen mit niedriger Punktzahl\ngenügt es ihre Arbeit mit minimalem Aufwand zu erledigen und können von\nanderen als faul gesehen werden."
+      },
+      {
+        "facet": 5,
+        "title": "Selbstdisziplin",
+        "text": "Selbstdisziplin, welches viele Leute auch Willenskraft nennen,\nbeschreibt die Fähigkeit an einem Problem oder einer unangenehmen Tätigkeit\nkonsequent zu arbeiten, bis diese erledigt ist. Leute mit hoher Selbstdisziplin\nsind in der Lage den Widerwillen zu bezwingen um Aufgaben zu beginnen und \nbis zum Ende zu führen, ohne abgelenkt zu werden. Jene mit wenig Selbstdisziplin\nschieben ihre Arbeiten auf und zeigen wenig Durchhaltevermögen. Dabei scheitern\nsie daran ihre Aufgaben zu erledigen, auch wenn sie das durchaus möchten."
+      },
+      {
+        "facet": 6,
+        "title": "Besonnenheit",
+        "text": "Besonnenheit beschreibt die Einstellung die möglichen Ergebnisse\nzu durchdenken, bevor gehandelt wird. Menschen mit hoher Punktzahl in \nBesonnenheit nehmen sich die Zeit und denken über ihre Entscheidungen nach.\nMenschen mit niedriger Punktzahl handeln oft nach dem ersten Gedanken ohne \nüber Alternativen und mögliche Konsequenzen dieser Alternativen nachzudenken."
+      }
+    ]
+  },
+  {
+    "domain": "O",
+    "title": "Offenheit für Erfahrungen",
+    "shortDescription": "Offenheit für Erfahrungen beschreibt eine geistige Dimension, die zwischen einfallsreichen, kreativen Menschen und bodenständigen, konventionellen Menschen unterscheidet.",
+    "description": "Offene Menschen sind geistig neugierig, schätzen Kunst, und \nhaben ein Auge für Schönheit. Sie tendieren dazu, im Gegensatz zu geschlossenen\nLeuten, mehr im Einklang mit ihren Gefühlen zu sein. Sie neigen dazu, in \nungewöhnlicher Weise zu denken oder zu handeln. Intellektuelle erzielen \nüblicherweise eine hohe Punktzahl in Offenheit für Erfahrungen; \nInfolgedessen wird dieser Faktor auch Kultur oder Intellekt genannt.\n<br /> <br />\nNichtsdestotrotz wird Intellekt besser als einer der Aspekte von \nOffenheit für Erfahrungen betrachtet. Punktzahlen in Offenheit für \nErfahrungen sind nur bedingt mit der Bildung oder Ergebnissen von \nstandardisierten Intelligenztests verbunden. <br /><br />\nEine andere Charakteristik des geistig offenen Stils ist eine \nLeichtigkeit für abstraktes Denken, weit entfernt von konkreten \nErfahrungen. Je nachdem was genau diese spezielle Fähigkeit des \nIndividuums ist, kann sie in der Form vom Mathematik, logischem \noder geometrischem Denken, kunstvoller oder metaphorischer Nutzung der \nSprache, musikalischen Kompositionen oder Auftritten, oder eine der \nvielen visuellen oder darstellenden Künsten ausgeprägt sein.\n<br /><br />\nMenschen mit niedriger Punktzahl in Offenheit für Erfahrungen tendieren \nzu üblichen, knappen Interessen. Sie bevorzugen das Einfache, \nUnkomplizierte, und Offensichtliche gegenüber dem Komplexen, Mehrdeutigen, und \nSubtilen. Sie könnten Kunst und Wissenschaft gegenüber misstrauisch sein \nund die Bemühungen als abstrus und ohne praktischen Nutzen sehen. \nVerschlossene Menschen ziehen Gewohnheit Neuheiten vor; sie sind \nkonservativ und resistent gegenüber Veränderungen.\n<br /><br />\nOffenheit wird von Psychologen oft als gesünder und erwachsener \ngehalten, wenn sie selbst offen gegenüber neuen Erfahrungen sind. \nAllerdings sind beide Denkweisen in verschiedenen Umgebungen nützlich. \nDer intellektuelle Stil der offenen Person könnte für einen \nProfessoren brauchbar sein, während Forschungen zeigten, dass \ngeschlossene Denkweisen zu überlegenden Arbeitsleistungen in der \nPolizeiarbeit, im Verkauf und einigen Dienstleistungsberufen führen.",
+    "results": [
+      {
+        "score": "low",
+        "text": "Deine Punktzahl in Offenheit für Erfahrungen ist niedrig, \nwas darauf schließen lässt, dass du gerne in schlichter und einfacher \nWeise denkst. Andere beschreiben dich als bodenständig, pragmatisch und \nkonservativ."
+      },
+      {
+        "score": "neutral",
+        "text": "Deine Punktzahl in Offenheit für Erfahrungen ist \ndurchschnittlich, was darauf schließen lässt, dass du gerne \ntraditionell denkst, aber offen für neue Dinge bist. Deine Denkweise ist \nweder simpel noch komplex. Auf andere wirkst du wie eine gebildete \nPerson, aber nicht wie ein Intellektueller."
+      },
+      {
+        "score": "high",
+        "text": "Deine Punktzahl in Offenheit für Erfahrungen ist hoch, was \ndarauf schließen lässt, dass du Neuheiten, Abwechslung und Veränderungen \nmagst. Du bist neugierig, einfallsreich und kreativ."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Einbildungskraft",
+        "text": "Für einfallsreiche Individuen ist die reale Welt\noft zu einfach und gewöhnlich. Menschen mit hoher Punktzahl in dieser \nSkala nutzen die Fantasie als einen Weg um eine reichere, interessantere \nWelt zu schaffen. Menschen mit niedriger Punktzahl auf diesem Gebiet \nsind mehr an Fakten als an Fantasie interessiert."
+      },
+      {
+        "facet": 2,
+        "title": "Künstlerisches Interesse",
+        "text": "Menschen mit hoher Punktzahl in dieser Skala lieben \nSchönheit sowohl in der Kunst als auch in der Natur. Sie vertiefen sich \nschnell und einfach in Kunst- und Naturereignisse. Sie sind oft nicht \nkünstlerisch geschult, obwohl es viele später werden. Das entscheidende \nDetail dieser Skala ist das Interesse in, und Wertschätzung von \nnatureller und künstlerischer Schönheit. Menschen mit niedriger \nPunktzahl fehlt die ästhetische Sensibilität und das Interesse an \nKunst."
+      },
+      {
+        "facet": 3,
+        "title": "Emotionalität",
+        "text": "Personen mit hoher Emotionaliät haben eine gute Kontrolle über \nund Wahrnehmung ihrer eigenen Gefühle. Menschen mit niedriger Punktzahl \nsind sich ihrer Gefühle weniger bewustt und tendieren dazu, diese nicht \noffen zu zeigen."
+      },
+      {
+        "facet": 4,
+        "title": "Abenteuerlust",
+        "text": "Menschen mit hoher Punktzahl in Abenteuerlust sind gewillt \nneue Aktivitäten zu versuchen, in fremde Länder zu reisen und \nverschiedene Dinge zu erleben. Sie finden Vertrautheit und Routine \nlangweilig und fahren einen neuen Weg nach Hause, nur weil er anders \nist. Menschen mit niedriger Punktzahl neigen zu Unwohlsein bei \nVeränderungen und ziehen vertraute Routinen vor."
+      },
+      {
+        "facet": 5,
+        "title": "Intellekt",
+        "text": "Intellekt und künstlerisches Interesse sind die zwei \nwichtigsten, zentralen Aspekte von Offenheit für Erfahrungen. Menschen \nmit hoher Punktzahl in Intellekt lieben es mit Ideen zu spielen. Sie \nsind unvoreingenommen gegenüber neuen und ungewöhnlichen Ideen, und \nmögen es über intellektuelle Probleme zu diskutieren. Ihnen gefallen \nRätsel, Puzzle und Denkaufgaben. Menschen mit niedriger Punktzahl \nbevorzugen es mit Menschen oder Dingen statt Ideen zu arbeiten. Sie \nsehen intellektuelle Übungen als eine Zeitverschwendung. Intellekt \nsollte nicht mit Intelligenz verwechselt werden. Intellekt ist eine \nDenkweise, keine Fähigkeit, auch wenn Menschen mit hoher Punktzahl in \nstandardisierten Intelligenztests meist besser abschneiden als Menschen \nmit niedriger Punktzahl."
+      },
+      {
+        "facet": 6,
+        "title": "Liberalismus",
+        "text": "Psychologischer Liberalismus bezieht sich auf eine \nBereitschaft um die Autorität, Konvention und traditionelle Werte in \nFrage zu stellen. In seiner extremsten Form zeigt psychologischer \nLiberalismus absolute Feindseligkeit gegenüber Regeln, Sympathie für \nGesetzesbrecher, und eine Liebe für Unklarheit, Chaos und Unordnung. \nPsychologische Konservative bevorzugen die Sicherheit und Stabilität \ndurch Anpassung an Traditionen. Psychologischer Liberalismus und \nKonservatismus spiegeln nicht die politische Gesinnung wieder, die \nIndividuen neigen aber oft zu bestimmten politischen Parteien."
+      }
+    ]
+  }
+]

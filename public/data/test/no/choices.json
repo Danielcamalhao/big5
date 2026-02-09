@@ -1,0 +1,46 @@
+{
+  "plus": [
+    {
+      "text": "Svært lite treffende",
+      "score": 1
+    },
+    {
+      "text": "Lite treffende",
+      "score": 2
+    },
+    {
+      "text": "Treffer verken bra eller dårlig",
+      "score": 3
+    },
+    {
+      "text": "Ganske treffende",
+      "score": 4
+    },
+    {
+      "text": "Veldig treffende",
+      "score": 5
+    }
+  ],
+  "minus": [
+    {
+      "text": "Svært lite treffende",
+      "score": 5
+    },
+    {
+      "text": "Lite treffende",
+      "score": 4
+    },
+    {
+      "text": "Treffer verken bra eller dårlig",
+      "score": 3
+    },
+    {
+      "text": "Ganske treffende",
+      "score": 2
+    },
+    {
+      "text": "Veldig treffende",
+      "score": 1
+    }
+  ]
+}

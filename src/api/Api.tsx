@@ -1,7 +1,6 @@
-// TODO Use transport
 import { Choices, Question, ResultText } from '../types'
 
-const server = process.env.REACT_APP_QUIZ_SERVER_URL || process.env.PUBLIC_URL
+const server = process.env.REACT_APP_QUIZ_SERVER_URL || ''
 
 export function getQuestions(lang: string): Promise<Question[]> {
   return getData('test', 'questions.json', lang)
@@ -20,5 +19,10 @@ const getData = async (
   filename: string,
   lang: string
 ) => {
-  return (await fetch(server + `/data/${dir}/${lang}/` + filename)).json()
+  const url = server + `/data/${dir}/${lang}/` + filename
+  const response = await fetch(url)
+  if (!response.ok) {
+    throw new Error(`Failed to fetch ${url}: ${response.status}`)
+  }
+  return response.json()
 }

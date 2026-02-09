@@ -1,0 +1,46 @@
+{
+  "plus": [
+    {
+      "text": "Muy en desacuerdo",
+      "score": 1
+    },
+    {
+      "text": "Moderadamente en desacuerdo",
+      "score": 2
+    },
+    {
+      "text": "Ni de acuerdo, ni en desacuerdo",
+      "score": 3
+    },
+    {
+      "text": "Moderadamente de acuerdo",
+      "score": 4
+    },
+    {
+      "text": "Muy de acuerdo",
+      "score": 5
+    }
+  ],
+  "minus": [
+    {
+      "text": "Muy en desacuerdo",
+      "score": 5
+    },
+    {
+      "text": "Moderadamente en desacuerdo",
+      "score": 4
+    },
+    {
+      "text": "Ni de acuerdo, ni en desacuerdo",
+      "score": 3
+    },
+    {
+      "text": "Moderadamente de acuerdo",
+      "score": 2
+    },
+    {
+      "text": "Muy de acuerdo",
+      "score": 1
+    }
+  ]
+}

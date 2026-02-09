@@ -1,0 +1,46 @@
+{
+  "plus": [
+    {
+      "text": "Zeer onnauwkeurig",
+      "score": 1
+    },
+    {
+      "text": "Matig onnauwkeurig",
+      "score": 2
+    },
+    {
+      "text": "Noch nauwkeurig, noch onnauwkeurig",
+      "score": 3
+    },
+    {
+      "text": "Matig nauwkeurig",
+      "score": 4
+    },
+    {
+      "text": "Zeer accuraat",
+      "score": 5
+    }
+  ],
+  "minus": [
+    {
+      "text": "Zeer onnauwkeurig",
+      "score": 5
+    },
+    {
+      "text": "Matig onnauwkeurig",
+      "score": 4
+    },
+    {
+      "text": "Noch nauwkeurig, noch onnauwkeurig",
+      "score": 3
+    },
+    {
+      "text": "Matig nauwkeurig",
+      "score": 2
+    },
+    {
+      "text": "Zeer accuraat",
+      "score": 1
+    }
+  ]
+}

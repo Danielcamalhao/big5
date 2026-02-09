@@ -1,0 +1,46 @@
+{
+  "plus": [
+    {
+      "text": "Sehr unzutreffend",
+      "score": 1
+    },
+    {
+      "text": "Unzutreffend",
+      "score": 2
+    },
+    {
+      "text": "Weder zutreffend noch unzutreffend",
+      "score": 3
+    },
+    {
+      "text": "Zutreffend",
+      "score": 4
+    },
+    {
+      "text": "Sehr zutreffend",
+      "score": 5
+    }
+  ],
+  "minus": [
+    {
+      "text": "Sehr unzutreffend",
+      "score": 5
+    },
+    {
+      "text": "Unzutreffend",
+      "score": 4
+    },
+    {
+      "text": "Weder zutreffend noch unzutreffend",
+      "score": 3
+    },
+    {
+      "text": "Zutreffend",
+      "score": 2
+    },
+    {
+      "text": "Sehr zutreffend",
+      "score": 1
+    }
+  ]
+}

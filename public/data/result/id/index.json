@@ -1,0 +1,262 @@
+[
+  {
+    "domain": "A",
+    "title": "Kepersetujuan",
+    "shortDescription": "Kepersetujuan mencerminkan perbedaan individu dalam hal kerjasama dan harmoni sosial. Individu yang bersetuju menghargai bergaul dengan orang lain.",
+    "description": "Mereka jadinya penuh perhatian, ramah, murah hati, suka membantu, dan bersedia berkompromi dengan kepentingan orang lain. Orang yang bersetuju juga memiliki pandangan optimis tentang sifat manusia. Mereka percaya bahwa orang pada dasarnya jujur, sopan, dan dapat dipercaya. <br /><br /> \n  Individu yang tidak bersetuju menempatkan kepentingan pribadi di atas bergaul dengan orang lain. Mereka umumnya tidak peduli dengan kesejahteraan orang lain, dan karena itu tidak mungkin untuk memperluas diri mereka untuk orang lain. Terkadang skeptisisme mereka tentang motif orang lain menyebabkan mereka curiga, tidak ramah, dan tidak kooperatif.<br /><br />\n  Kepersetujuan jelas menguntungkan untuk mendapatkan dan mempertahankan popularitas. Orang yang bersetuju lebih disukai daripada orang yang tidak menyenangkan. Di sisi lain, kepersetujuan tidak berguna dalam situasi yang membutuhkan keputusan objektif yang keras atau mutlak. Orang yang tidak bersetuju bisa menjadi ilmuwan, kritikus, atau tentara yang hebat.",
+    "results": [
+      {
+        "score": "low",
+        "text": "Nilai Anda pada Kepersetujuan rendah, yang menunjukkan perhatian terhadap kebutuhan orang lain lebih kecil dibandingkan dengan kebutuhan sendiri. Orang-orang melihat Anda sebagai sosok yang tangguh, kritis, dan tanpa kompromi."
+      },
+      {
+        "score": "neutral",
+        "text": "Tingkat Kepersetujuan Anda rata-rata, menunjukkan beberapa perhatian dengan Kebutuhan orang lain, tetapi, umumnya, keengganan untuk mengorbankan diri Anda untuk orang lain."
+      },
+      {
+        "score": "high",
+        "text": "Tingkat Kepersetujuan Anda yang tinggi menunjukkan minat yang kuat pada kebutuhan dan kesejahteraan orang lain. Anda menyenangkan, simpatik, dan kooperatif."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Kepercayaan",
+        "text": "Seseorang dengan tingkat kepercayaan yang tinggi menganggap bahwa kebanyakan orang adil, jujur, dan mendapat niat baik. Orang yang kurang percaya melihat orang lain sebagai egois, licik, dan berpotensi berbahaya."
+      },
+      {
+        "facet": 2,
+        "title": "Moralitas",
+        "text": "Orang-orang yang mendapat nilai tinggi pada skala ini melihat ketidakperluan untuk berpura-pura atau manipulasi ketika berhadapan dengan orang lain, sehingga mereka jujur dan tulus. Orang-orang yang mendapat nilai rendah percaya bahwa didalam hubungan sosial diperlukan sejumlah penipuan. Orang-orang merasa relatif mudah untuk berhubungan langsung dengan para pemilik nilai tinggi pada skala ini. Mereka umumnya merasa lebih sulit untuk berhubungan dengan orang-orang yang mendapat nilai rendah dalam skala ini. Harus dijelaskan bahwa orang-orang yang mendapat nilai rendah bukanlah tidak berprinsip atau tidak bermoral; mereka hanya lebih berjaga dan kurang bersedia untuk mengungkapkan seluruh kebenaran secara terbuka."
+      },
+      {
+        "facet": 3,
+        "title": "Alturisme",
+        "text": "Orang yang altruistik merasa bahwa membantu orang lain benar-benar bermanfaat. Akibatnya, mereka umumnya bersedia membantu mereka yang membutuhkan. Orang altruistik menemukan bahwa melakukan sesuatu untuk orang lain adalah bentuk pemenuhan diri daripada pengorbanan diri. Orang-orang yang mendapat nilai rendah pada skala ini tidak terlalu suka membantu mereka yang membutuhkan. Mereka merasa permintaan bantuan adalah sebuah pemaksaan daripada sebuah kesempatan untuk pemenuhan diri. "
+      },
+      {
+        "facet": 4,
+        "title": "Kooperasi",
+        "text": "Individu yang mendapat nilai tinggi pada skala ini tidak menyukai konfrontasi. Mereka sangat bersedia untuk berkompromi atau menyangkal kebutuhan mereka sendiri untuk bergaul dengan orang lain. Mereka yang mendapat nilai rendah pada skala ini lebih cenderung mengintimidasi orang lain untuk mendapatkan apa yang mereka inginkan."
+      },
+      {
+        "facet": 5,
+        "title": "Kesopanan",
+        "text": "Orang-orang yang mendapat nilai tinggi pada skala ini tidak suka mengklaim bahwa mereka lebih baik dari orang lain. Dalam beberapa kasus sikap ini mungkin berasal dari rendahnya kepercayaan diri atau harga diri. Meskipun demikian, beberapa orang dengan harga diri yang tinggi menganggap ketidaksopanan sebagai hal yang tidak pantas. Mereka yang bersedia menggambarkan diri mereka sebagai superior cenderung dianggap arogan oleh orang lain. "
+      },
+      {
+        "facet": 6,
+        "title": "Simpati",
+        "text": "Orang-orang yang mendapat nilai tinggi pada skala ini berhati lembut dan penuh kasih sayang. Mereka merasakan penderitaan orang lain secara perwakilan dan mudah tergerak untuk kasihan. Orang-orang yang mendapat nilai rendah tidak terlalu terpengaruh oleh penderitaan manusia. Mereka bangga membuat penilaian objektif yang berdasar alasan. Mereka lebih mementingkan kebenaran dan keadilan yang tidak memihak daripada belas kasihan."
+      }
+    ]
+  },
+  {
+    "domain": "E",
+    "title": "Ekstraversi",
+    "shortDescription": "Ekstraversi ditandai dengan keterlibatan yang nyata dengan dunia luar .",
+    "description": "Para ekstrovert menikmati kebersamaan dengan orang-orang, penuh energi, dan sering mengalami emosi positif. Mereka cenderung antusias, berorientasi pada tindakan, individu yang cenderung mengatakan \"Ya!\" atau \"Ayo!\" untuk mendapatkan kesempatan kegembiraan. Dalam kelompok mereka suka berbicara, menegaskan diri mereka sendiri, dan menarik perhatian pada diri mereka sendiri.<br /><br />\n  Para introvert tidak memiliki tingkat kegembiraan, energi, dan aktivitas seperti para ekstrovert. Mereka cenderung pendiam, rendah hati, berhati-hati, dan melepaskan diri dari dunia sosial. Kurangnya keterlibatan sosial mereka tidak boleh ditafsirkan sebagai rasa malu atau depresi; introvert hanya membutuhkan lebih sedikit stimulasi daripada ekstrovert dan lebih suka menyendiri.<br /><br />\n  Kemandirian dan sikap tertutup dari seorang introvert terkadang disalahartikan sebagai tidak ramah atau arogan. Pada kenyataannya, seorang introvert yang mendapat nilai tinggi pada dimensi Kepersetujuan tidak akan mencari orang lain tetapi akan sangat menyenangkan ketika didekati.",
+    "results": [
+      {
+        "score": "low",
+        "text": "Nilai Anda pada Kehati-hatian rendah, yang menunjukkan Anda adalh seorang yang introvert dan pendiam. Anda menikmati kesendirian dan aktivitas menyendiri. Sosialisasi Anda cenderung terbatas pada beberapa teman dekat."
+      },
+      {
+        "score": "neutral",
+        "text": "Nilai Anda pada Kehati-hatian adalah rata-rata, yang menunjukkan bahwa Anda bukanlah seorang penyendiri yang pendiam atau orang yang suka mengobrol. Anda menikmati waktu bersama orang lain tetapi juga waktu sendirian."
+      },
+      {
+        "score": "high",
+        "text": "Nilai Anda pada Kehati-hatian tinggi, yang menunjukkan Anda mudah bergaul, ramah, energik, dan lincah. Kamu lebih suka berada di sekitar orang-orang sepanjang waktu."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Keramahan",
+        "text": "Orang yang ramah benar-benar menyukai orang lain dan secara terbuka menunjukkan perasaan positif terhadap orang lain. Mereka berteman dengan cepat dan mudah bagi mereka untuk membentuk hubungan yang dekat dan intim. Orang-orang yang mendapat nilai rendah pada Keramahan tidak selalu dingin dan bermusuhan, tetapi mereka tidak menjangkau orang lain dan dianggap jauh dan pendiam."
+      },
+      {
+        "facet": 2,
+        "title": "Kebersamaan",
+        "text": "Orang-orang yang suka bersama merasa bahwa kebersamaan dengan orang lain sangat menyenangkan dan bermanfaat. Mereka menikmati kegembiraan orang banyak. Orang-orang yang mendapat nilai rendah cenderung merasa kewalahan oleh, dan karena itu secara aktif menghindari, kerumunan besar. Mereka tidak selalu tidak suka bersama orang kadang-kadang, tetapi kebutuhan mereka akan privasi dan waktu untuk diri mereka sendiri jauh lebih besar daripada individu yang mendapat nilai tinggi pada skala ini."
+      },
+      {
+        "facet": 3,
+        "title": "Ketegasan",
+        "text": "Orang-orang yang mendapat nilai Ketegasan yang tinggi suka berbicara, bertanggung jawab, dan mengarahkan aktivitas orang lain. Mereka cenderung menjadi pemimpin dalam kelompok. Orang-orang yang mendapat nilai rendah cenderung tidak banyak bicara dan membiarkan orang lain mengontrol aktivitas kelompok."
+      },
+      {
+        "facet": 4,
+        "title": "Tingkat Aktivitas",
+        "text": "Individu yang aktif menjalani kehidupan yang serba cepat dan sibuk. Mereka bergerak cepat, penuh semangat, dan penuh semangat, dan mereka terlibat dalam banyak kegiatan. Orang-orang yang mendapat nilai rendah pada skala ini mengikuti langkah yang lebih lambat dan lebih santai."
+      },
+      {
+        "facet": 5,
+        "title": "Pencarian Kegembiraan",
+        "text": "Pencetak nilai tinggi pada skala ini mudah bosan tanpa stimulasi tingkat tinggi. Mereka menyukai lampu terang dan hiruk pikuk. Mereka cenderung mengambil risiko dan mencari sensasi. Pencetak nilai rendah kewalahan oleh kebisingan dan keributan dan tidak cocok dengan pencarian sensasi."
+      },
+      {
+        "facet": 6,
+        "title": "Kebahagiaan",
+        "text": "Skala ini mengukur suasana hati dan perasaan positif, bukan emosi negatif (yang merupakan bagian dari domain Neurotikisme). Orang yang mendapat nilai tinggi pada skala ini biasanya mengalami berbagai perasaan positif, termasuk kebahagiaan, antusiasme, optimisme, dan kegembiraan. Orang-orang yang mendapat nilai rendah tidak rentan terhadap semangat tinggi dan energik seperti itu."
+      }
+    ]
+  },
+  {
+    "domain": "N",
+    "title": "Neurotisisme",
+    "shortDescription": "Neurotisisme mengacu pada kecenderungan untuk mengalami perasaan negatif.",
+    "description": "Freud awalnya menggunakan istilah neurosis untuk menggambarkan suatu kondisi yang ditandai dengan tekanan mental, penderitaan emosional, dan ketidakmampuan untuk mengatasi secara efektif tuntutan hidup yang normal. Dia menyarankan bahwa setiap orang menunjukkan beberapa tanda neurosis, tetapi kita berbeda dalam tingkat penderitaan dan gejala spesifik kita. Sekarang neurotisisme mengacu pada kecenderungan untuk mengalami perasaan negatif.<br /><br />\n  Mereka yang mendapat nilai tinggi pada Neurotisisme mungkin mengalami satu perasaan negatif tertentu yang utama, seperti kecemasan, kemarahan, atau depresi, tetapi cenderung mengalami beberapa dari emosi ini.<br /><br />\n  Orang-orang yang memiliki tingkat neurotisisme tinggi secara emosional reaktif. Mereka merespons secara emosional terhadap peristiwa yang tidak akan mempengaruhi kebanyakan orang, dan reaksi mereka cenderung lebih intens dari biasanya. Mereka lebih cenderung menafsirkan situasi biasa sebagai ancaman, dan frustrasi kecil sebagai hal yang sangat sulit.<br /><br />\n  Reaksi emosional negatif mereka cenderung bertahan untuk jangka waktu yang sangat lama, yang berarti mereka sering dalam suasana hati yang buruk. Masalah-masalah dalam pengaturan emosi ini dapat mengurangi kemampuan seorang neurotik untuk berpikir jernih, membuat keputusan, dan mengatasi stres secara efektif.",
+    "results": [
+      {
+        "score": "low",
+        "text": "Nilai Anda pada Neurotisisme rendah, yang menunjukkan bahwa Anda sangat tenang dan tak tergoyahkan. Anda tidak bereaksi dengan emosi yang kuat, bahkan terhadap situasi yang kebanyakan orang akan gambarkan sebagai stres."
+      },
+      {
+        "score": "neutral",
+        "text": "Nilai Anda pada Neurotisisme adalah rata-rata, yang menunjukkan bahwa tingkat reaktivitas emosional Anda adalah rata-rata populasi umum. Situasi yang membuat stres dan membuat frustrasi agak membuat Anda kesal, tetapi Anda biasanya dapat mengatasi perasaan ini dan mengatasi situasi ini."
+      },
+      {
+        "score": "high",
+        "text": "Nilai Anda pada Neurotisisme tinggi, yang menunjukkan bahwa Anda mudah marah, bahkan oleh apa yang kebanyakan orang anggap sebagai tuntutan hidup yang normal. Orang-orang menganggap Anda sensitif dan emosional."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Kegelisahan",
+        "text": "Sistem \"fight-or-flight\" (bertarung atau berlari) otak seseorang yang cemas terlalu mudah dan terlalu sering digunakan. Dengan demikian, orang yang memiliki kecemasan tinggi sering merasa seperti sesuatu yang berbahaya akan terjadi. Mereka mungkin takut pada situasi tertentu atau hanya takut pada umumnya. Mereka merasa tegang, gelisah, dan gugup. Orang yang tingkat kecemasannya rendah umumnya tenang dan tidak takut."
+      },
+      {
+        "facet": 2,
+        "title": "Kemarahan",
+        "text": "Orang-orang yang mendapat nilai tinggi dalam Kemarahan merasa marah ketika segala sesuatunya tidak berjalan sesuai keinginan mereka. Mereka sensitif tentang diperlakukan secara adil dan merasa kesal dan pahit ketika mereka merasa dicurangi. Skala ini mengukur kecenderungan untuk merasa marah; apakah orang tersebut mengungkapkan kekesalan dan permusuhan tergantung pada tingkat Agreeableness individu tersebut. Orang-orang yang mendapat nilai rendah tidak sering atau mudah marah."
+      },
+      {
+        "facet": 3,
+        "title": "Depresi",
+        "text": "Skala ini mengukur kecenderungan untuk merasa sedih, sedih, dan putus asa. Orang-orang yang mendapat nilai tinggi kekurangan energi dan mengalami kesulitan memulai aktivitas. Orang-orang yang mendapat nilai rendah cenderung bebas dari perasaan depresi ini."
+      },
+      {
+        "facet": 4,
+        "title": "Kesadaran Diri",
+        "text": "Individu yang sadar diri sensitif tentang apa yang orang lain pikirkan tentang mereka. Kekhawatiran mereka tentang penolakan dan ejekan menyebabkan mereka merasa malu dan tidak nyaman di sekitar orang lain. Mereka mudah dan sering merasa malu. Ketakutan mereka bahwa orang lain akan mengkritik atau mengolok-olok mereka dibesar-besarkan dan tidak realistis, tetapi kecanggungan dan ketidaknyamanan mereka dapat membuat ketakutan ini menjadi ramalan yang terpenuhi dengan sendirinya. Sebaliknya, orang-orang yang mendapat nilai rendah tidak menderita dari kesan yang salah bahwa semua orang menonton dan menilai mereka. Mereka tidak merasa gugup dalam situasi sosial."
+      },
+      {
+        "facet": 5,
+        "title": "Ketidaktahanan",
+        "text": "Individu yang tidak moderat merasakan keinginan yang kuat dan desakan yang sulit mereka tolak. Mereka cenderung berorientasi pada kesenangan dan penghargaan jangka pendek daripada konsekuensi jangka panjang. Orang-orang yang mendapat nilai rendah tidak mengalami hasrat yang kuat dan tak tertahankan dan akibatnya tidak tergoda untuk memanjakan diri secara berlebihan."
+      },
+      {
+        "facet": 6,
+        "title": "Kerentanan",
+        "text": "Orang-orang yang mendapat nilai tinggi pada Kerentanan mengalami kepanikan, kebingungan, dan ketidakberdayaan saat berada di bawah tekanan atau stres. Nilai rendah merasa lebih tenang, percaya diri, dan berpikir jernih saat stres."
+      }
+    ]
+  },
+  {
+    "domain": "C",
+    "title": "Kehati-hatian",
+    "shortDescription": "Kehati-hatian menyangkut cara kita mengendalikan, mengatur, dan mengarahkan impuls kita.",
+    "description": "Pada dasarnya, impuls tidaklah buruk; kadang kendala waktu membutuhkan keputusan cepat, dan bertindak berdasarkan dorongan pertama kita dapat menjadi respons yang efektif. Lalu, di saat bermain daripada bekerja, bertindak secara spontan dan impulsif bisa menyenangkan. Individu yang impulsif dapat dilihat oleh orang lain sebagai orang yang penuh warna, menyenangkan, dan lucu.<br /><br />\n  Meskipun demikian, bertindak berdasarkan impuls dapat menyebabkan masalah dalam beberapa cara. Beberapa impuls bersifat antisosial. Tindakan antisosial yang tidak terkendali tidak hanya merugikan orang lain, tetapi juga dapat mengakibatkan pembalasan terhadap pelaku tindakan impulsif tersebut. Masalah lainnya dengan tindakan impulsif adalah bahwa mereka sering menghasilkan manfaat yang langsung namun dengan konsekuensi jangka panjang yang tidak diinginkan, seperti bersosialisasi secara berlebihan yang berujung pada pemecatan dari pekerjaan, melontarkan hinaan yang menyebabkan putusnya suatu hubungan penting, atau menggunakan obat-obatan yang menimbulkan kesenangan yang pada akhirnya merusak kesehatan seseorang. <br /><br />\n  Perilaku impulsif, meskipun bisa tidak merusak secara serius, dapat mengurangi keefektifan seseorang secara signifikan. Bertindak impulsif melarang merenungkan tindakan alternatif, beberapa di antaranya akan lebih bijaksana daripada pilihan impulsif. Impulsivitas juga mengalihkan orang selama proyek yang membutuhkan urutan langkah atau tahapan yang terorganisir. Prestasi orang impulsif karena itu kecil, tersebar, dan tidak konsisten.<br /><br />\n  Ciri kecerdasan, yang berpotensi memisahkan manusia dari bentuk kehidupan sebelumnya, adalah kemampuan untuk memikirkan konsekuensi masa depan sebelum bertindak berdasarkan impuls. Aktivitas yang cerdas melibatkan perenungan tujuan jangka panjang, pengorganisasian dan perencanaan rute ke tujuan ini, dan bertahan menuju tujuan seseorang dibandingkan menghadapi impuls berumur pendek. Gagasan bahwa kecerdasan melibatkan kontrol impuls ditangkap dengan baik oleh istilah kebijaksanaan, label alternatif untuk domain Kehati-hatian. Kebijaksanaan berarti bersikap bijaksana dan berhati-hati.<br /><br/>\n  Orang yang mendapat nilai tinggi pada skala Kehati-hatian, pada kenyataannya, dianggap sebagai orang yang cerdas. Manfaat dari Kehati-hatian yang tinggi sudah jelas. Individu yang teliti menghindari masalah dan mencapai tingkat keberhasilan yang tinggi melalui perencanaan dan ketekunan yang bertujuan. Mereka juga secara positif dianggap sebagai orang yang cerdas dan dapat diandalkan. Sisi negatifnya, mereka bisa menjadi perfeksionis kompulsif dan pecandu kerja. Selain itu, individu yang sangat teliti mungkin dianggap pengap dan membosankan.<br /><br />\n  Orang yang tidak hati-hati mungkin dikritik karena tidak dapat diandalkan, kurangnya ambisi, dan kegagalan untuk tetap berada di dalam garis, tetapi mereka akan mengalami banyak kesenangan berumur pendek dan mereka tidak akan pernah disebut pengap.",
+    "results": [
+      {
+        "score": "low",
+        "text": "Nilai Anda pada Kehati-hatian rendah, yang menunjukkan Anda suka hidup untuk saat ini dan melakukan apa yang terasa baik sekarang. Pekerjaan Anda cenderung ceroboh dan tidak teratur."
+      },
+      {
+        "score": "neutral",
+        "text": "Nilai Anda pada Kehati-hatian adalah rata-rata. Ini berarti Anda cukup dapat diandalkan, terorganisir, dan dapat mengendalikan diri."
+      },
+      {
+        "score": "high",
+        "text": "Nilai Anda pada Kehati-hatian tinggi. Ini berarti Anda menetapkan tujuan yang jelas dan mengejarnya dengan tekad. Orang-orang menganggap Anda sebagai orang yang dapat diandalkan dan pekerja keras."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Efikasi Diri",
+        "text": "Efikasi Diri menggambarkan kepercayaan diri pada kemampuan seseorang untuk mencapai sesuatu. Orang-orang yang mendapat nilai tinggi percaya bahwa mereka memiliki kecerdasan (akal sehat), dorongan, dan pengendalian diri yang diperlukan untuk mencapai kesuksesan. Orang-orang yang mendapat nilai rendah tidak merasa efektif, dan mungkin merasa bahwa mereka tidak mengendalikan hidup mereka."
+      },
+      {
+        "facet": 2,
+        "title": "Keteraturan",
+        "text": "Orang-orang dengan nilai tinggi pada Keteraturan terorganisir dengan baik. Mereka suka hidup sesuai dengan rutinitas dan jadwal. Mereka menyimpan daftar dan membuat rencana. Orang-orang yang mendapat nilai rendah cenderung tidak terorganisir dan tersebar."
+      },
+      {
+        "facet": 3,
+        "title": "Ketaatan",
+        "text": "Skala ini mencerminkan kekuatan rasa kewajiban seseorang. Mereka yang mendapat nilai tinggi pada skala ini memiliki rasa kewajiban moral yang kuat. Orang-orang yang mendapat nilai rendah merasa kontrak, aturan, dan peraturan terlalu membatasi. Mereka cenderung dianggap tidak dapat diandalkan atau bahkan tidak bertanggung jawab."
+      },
+      {
+        "facet": 4,
+        "title": "Perjuangan akan Prestasi",
+        "text": "Individu yang mendapat nilai tinggi pada skala ini berusaha keras untuk mencapai keunggulan. Dorongan mereka untuk diakui sebagai sukses membuat mereka tetap di jalur menuju tujuan mulia mereka. Mereka sering memiliki rasa arah yang kuat dalam hidup, tetapi nilai yang sangat tinggi mungkin terlalu berpikiran tunggal dan terobsesi dengan pekerjaan mereka.  Orang-orang yang mendapat nilai rendah puas dengan pekerjaan minimal, dan mungkin dilihat oleh orang lain sebagai malas."
+      },
+      {
+        "facet": 5,
+        "title": "Disiplin Diri",
+        "text": "Disiplin Diri, yang oleh banyak orang disebut kemauan, mengacu pada kemampuan untuk bertahan pada tugas-tugas yang sulit atau tidak menyenangkan sampai tugas itu selesai. Orang yang memiliki disiplin diri yang tinggi mampu mengatasi keengganan untuk memulai tugas dan tetap pada jalurnya meskipun ada gangguan. Mereka dengan disiplin diri yang rendah menunda-nunda dan menunjukkan tindak lanjut yang buruk, sering gagal menyelesaikan tugas-bahkan tugas yang sangat ingin mereka selesaikan."
+      },
+      {
+        "facet": 6,
+        "title": "Keawasan",
+        "text": "Keawasan menggambarkan disposisi untuk memikirkan kemungkinan sebelum bertindak. Orang-orang yang mendapat nilai tinggi pada skala Kewaspadaan meluangkan waktu mereka saat membuat keputusan. Orang-orang yang mendapat nilai rendah sering mengatakan atau melakukan hal pertama yang terlintas dalam pikiran tanpa mempertimbangkan alternatif dan kemungkinan konsekuensi dari alternatif tersebut."
+      }
+    ]
+  },
+  {
+    "domain": "O",
+    "title": "Keterbukaan terhadap Pengalaman",
+    "shortDescription": "Keterbukaan terhadap Pengalaman menggambarkan dimensi gaya kognitif yang membedakan orang yang imajinatif dan kreatif dari orang yang sederhana dan konvensional.",
+    "description": "Orang-orang terbuka ingin tahu secara intelektual, menghargai seni, dan peka terhadap keindahan. Mereka cenderung, dibandingkan dengan orang tertutup, lebih menyadari perasaan mereka. Mereka cenderung berpikir dan bertindak dengan cara yang individualistis dan tidak sesuai. Kaum intelektual biasanya mendapat nilai tinggi pada Keterbukaan terhadap Pengalaman. Akibatnya, faktor ini juga disebut Budaya atau Intelek.<br /><br />\n  Meskipun demikian, Intelek mungkin paling baik dianggap sebagai salah satu aspek Keterbukaan terhadap Pengalaman. Nilai pada Keterbukaan terhadap Pengalaman hanya sedikit terkait dengan tahun pendidikan dan nilai pada tes kecerdasan standar.<br /><br />\n  Karakteristik lain dari gaya kognitif terbuka adalah fasilitas untuk berpikir dalam simbol dan abstraksi yang jauh dari pengalaman konkret. Bergantung pada kemampuan intelektual spesifik individu, kognisi simbolik ini dapat berbentuk pemikiran matematika, logis, atau geometris, penggunaan bahasa secara artistik dan metaforis, komposisi atau pertunjukan musik, atau salah satu dari banyak seni visual atau pertunjukan.<br /><br />\n  Orang dengan nilai rendah pada Keterbukaan terhadap Pengalaman cenderung memiliki minat yang sempit dan sama. Mereka lebih menyukai yang polos, lugas, dan jelas,daripada yang rumit, ambigu, dan halus. Mereka mungkin menganggap seni dan sains dengan curiga, menganggap upaya ini sebagai muskil atau tidak berguna secara praktis. Orang tertutup lebih menyukai keakraban daripada hal baru; mereka konservatif dan tahan terhadap perubahan. Keterbukaan sering kali ditampilkan sebagai lebih sehat atau lebih dewasa oleh psikolog, yang seringkali juga terbuka untuk pengalaman. Namun, gaya berpikir terbuka dan tertutup berguna dalam lingkungan yang berbeda. Gaya intelektual orang terbuka mungkin dapat melayani seorang profesor dengan baik, tetapi penelitian telah menunjukkan bahwa pemikiran tertutup terkait dengan kinerja kerja yang unggul dalam pekerjaan polisi, penjualan, dan sejumlah pekerjaan layanan.",
+    "results": [
+      {
+        "score": "low",
+        "text": "Nilai Anda pada Keterbukaan terhadap Pengalaman rendah, yang menunjukkan bahwa Anda suka berpikir secara lugas dan sederhana. Orang lain menggambarkan Anda sebagai orang yang sederhana, praktis, dan konservatif."
+      },
+      {
+        "score": "neutral",
+        "text": "Nilai Anda pada Keterbukaan terhadap Pengalaman adalah rata-rata, yang menunjukkan Anda menikmati tradisi tetapi bersedia mencoba hal-hal baru. Pemikiran Anda tidak sederhana atau kompleks. Bagi orang lain, Anda tampak seperti orang yang terdidik tetapi bukan intelektual."
+      },
+      {
+        "score": "high",
+        "text": "Nilai Anda pada Keterbukaan terhadap Pengalaman tinggi, menunjukkan bahwa Anda menikmati hal baru, variasi, dan perubahan. Anda memiliki sifat ingin tahu, imajinatif, dan kreatif."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Imajinasi",
+        "text": "Bagi individu yang imajinatif, dunia nyata seringkali terlalu sederhana dan biasa. Orang-orang yang mendapat nilai tinggi pada skala ini menggunakan fantasi sebagai cara untuk menciptakan dunia yang lebih kaya dan lebih menarik. Orang-orang yang mendapat nilai rendah pada skala ini lebih berorientasi pada fakta daripada fantasi."
+      },
+      {
+        "facet": 2,
+        "title": "Minat Artistik",
+        "text": "Orang-orang yang mendapat nilai tinggi pada skala ini menyukai keindahan, baik dalam seni maupun alam. Mereka menjadi mudah terlibat dan terserap dalam peristiwa seni dan alam. Mereka belum tentu terlatih secara artistik atau berbakat, meskipun banyak yang akan melakukannya. Ciri-ciri yang menentukan dari skala ini adalah ketertarikan, dan apresiasi terhadap keindahan alam dan buatan. Orang-orang yang mendapat nilai rendah kurang memiliki kepekaan estetika dan minat pada seni."
+      },
+      {
+        "facet": 3,
+        "title": "Emosionalitas",
+        "text": "Orang-orang yang mendapat Emosionalitas tinggi memiliki akses dan kesadaran yang baik akan perasaan mereka sendiri. Orang-orang yang mendapat nilai rendah kurang menyadari perasaan mereka dan cenderung tidak mengekspresikan emosi mereka secara terbuka."
+      },
+      {
+        "facet": 4,
+        "title": "Kepetualangan",
+        "text": "Orang-orang yang mendapat nilai tinggi dalam Kepetualangan sangat ingin mencoba aktivitas baru, bepergian ke negeri asing, dan mengalami hal yang berbeda. Mereka menemukan keakraban dan rutinitas yang membosankan, dan akan mengambil jalan baru pulang hanya karena itu berbeda. Orang-orang yang mendapat nilai rendah cenderung merasa tidak nyaman dengan perubahan dan lebih menyukai rutinitas yang sudah biasa."
+      },
+      {
+        "facet": 5,
+        "title": "Intelek",
+        "text": "Kecerdasan dan minat artistik adalah dua aspek terpenting dari Keterbukaan terhadap Pengalaman. Orang-orang yang mendapat nilai tinggi pada Intelek suka bermain-main dengan ide. Mereka berpikiran terbuka terhadap ide-ide baru dan tidak biasa, dan suka memperdebatkan masalah intelektual. Mereka menyukai teka-teki, teka-teki, dan asah otak. Orang yang mendapat nilai rendah pada Intelek lebih suka berurusan dengan orang atau benda daripada ide. Mereka menganggap latihan intelektual sebagai pemborosan waktu. Intelek tidak boleh disamakan dengan kecerdasan. Intelek adalah gaya intelektual, bukan kemampuan intelektual, meskipun nilai tinggi pada Kecerdasan mendapat nilai sedikit lebih tinggi daripada individu dengan Kecerdasan rendah pada tes kecerdasan standar."
+      },
+      {
+        "facet": 6,
+        "title": "Liberalisme",
+        "text": "Liberalisme psikologis mengacu pada kesiapan untuk menantang otoritas, konvensi, dan nilai-nilai tradisional. Dalam bentuknya yang paling ekstrem, liberalisme psikologis bahkan dapat mewakili permusuhan langsung terhadap aturan, simpati bagi pelanggar hukum, dan cinta ambiguitas, kekacauan, dan kekacauan. Kaum konservatif psikologis lebih menyukai keamanan dan stabilitas yang dibawa oleh kesesuaian dengan tradisi. Liberalisme psikologis dan konservatisme tidak identik dengan afiliasi politik, tetapi yang pasti mengarahkan individu ke partai politik tertentu."
+      }
+    ]
+  }
+]

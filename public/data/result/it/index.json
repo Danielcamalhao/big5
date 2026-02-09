@@ -1,0 +1,262 @@
+[
+  {
+    "domain": "A",
+    "title": "Piacevolezza",
+    "shortDescription": "Riflette le differenze individuali riguardo alla cooperazione e alla armonia sociale. Piacevoli individui trovano valore nello stare bene con gli altri.",
+    "description": "Loro sono inoltre considerati amichevoli, generosi, utili e disposti a compromettere i loro interessi per gli altri.\n  Loro hanno una ottimista visione della natura umana. \n  Credono che le persone sono principalmente oneste, decenti e meritevoli di fiducia.<br /><br />\n  Quelli poco piacevoli mettono i loro propri interessi sopra ogni cosa \n  A loro generalmente non interessa e non amano sforzarsi per gli altri.\n  Qualche volta il loro scettiscimo sugli altri motiva la ragione per cui a volte sono non amichevoli e poco cooperativi.<br /><br />\n  Essere piacevoli ovviamente è un vantaggio per ottenere e mantenere popolarità. La gente piacevole sono migliori di quelli non.\n  Però la gente non piacevole sono utili quando è necessario prendere una assoluta e oggettiva decisione. Queste ultime possono essere\n  eccellenti scienziati, critici o soldati.",
+    "results": [
+      {
+        "score": "low",
+        "text": "Il tuo punteggio è basso, indica meno preoccupazioni per gli altri. Gli altri ti vedono come un critico."
+      },
+      {
+        "score": "neutral",
+        "text": "Sei nella media, indica che ti preoccupi il giusto degli altri ma generalmente non ti sforzi molto per loro"
+      },
+      {
+        "score": "high",
+        "text": "Il livello alto indica che hai molto interesse nelle altre persone. Sei simpatico e riesci a cooperare senza problemi."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Fiducia",
+        "text": "Una persona con un'alta fiducia assume che la maggioranza delle persone è giusta, onesta, e ha buone intenzioni.\n      Persone con una bassa fiducia vedono gli altri come egoisti e potenzialmente pericolosi."
+      },
+      {
+        "facet": 2,
+        "title": "Moralità",
+        "text": "Alti punteggi su questa scala non hanno bisogno di mentire \n      o di manipolare quando trattano con gli altri e quindi sono candidi, franchi e sinceri.\n      Chi ha un punteggio basso crede che certe quantità di inganni sono necessarie nelle relazioni sociali.\n      Le persone trovano che è relativamente semplice relazionarsi con chi ha punteggi alti su questa scala.\n      Le persone trovano che è più difficile relazionarsi con chi ha un punteggio più basso.\n      Bisogna chiarire che chi ha un basso punteggio non è senza principi o immorali, \n      loro sono più guardinghi e meno disposti a mostrare a tutti come sono in realtà."
+      },
+      {
+        "facet": 3,
+        "title": "Altruismo",
+        "text": "Le persone altruistiche trovano genuinamente gratificante aiutare gli altri. \n      Conseguentemente, loro sono generalmente predisposti ad aiutare chi ne ha di bisogno. Le persone altruistiche trovano che fare cose per gli altri è una forma di autorealizzazione\n      pittosto che un sacrificio. Chi ha un basso punteggio non ama particolarmente aiutare chi ha bisogno. \n      Pensano che le richieste di aiuto siano come una imposizione piuttosto che una opportunità di rendersi utili."
+      },
+      {
+        "facet": 4,
+        "title": "Cooperazione",
+        "text": "Individui che hanno un punteggio alto su questa scala non amano confrontarsi.\n      Sono perfettamente disposti a compromettere o negare i loro bisogni per farsi accettare dagli altri.\n      Quelli con un basso punteggio sono più intimidatori."
+      },
+      {
+        "facet": 5,
+        "title": "Modestia",
+        "text": "Alti punteggi su questa scala non amano richiamare l'attenzione\n      mostrando che sono migliori di altr. In alcuni casi l'attitudine può derivare da una bassa autostima.\n      Nonostante alcune persone con un'alta autostima trovano la modestia sconveniente. \n      Quelli che sono disposti a descrivere loro stessi come superiori tendono ad essere visti come arroganti dagli altri."
+      },
+      {
+        "facet": 6,
+        "title": "Compassione",
+        "text": "Chi ha un alto punteggio è considerato tenero e compassionevole. Loro sentono il dolore degli altri e facilmente se ne fanno carico.\n      Chi ha un punteggio basso non è particolarmente affetto dalla sofferenza umana.\n      Loro sono orgogliosi di loro stessi nel giudicare basandosi su alcune ragioni.\n      Loro sono molto più interessati alla verità e alla giustizia imparziale piuttosto che alla clemenza."
+      }
+    ]
+  },
+  {
+    "domain": "E",
+    "title": "estroversione",
+    "shortDescription": "L'extraversione è segnato dall'impegno pronunciato con il mondo esterno.  ",
+    "description": "L'extraversione è segnato dall'impegno pronunciato con il mondo esterno.\nGli estranei si divertono a stare con le persone, sono pieni di energia e\nspesso volte provano emozioni positive. Tendono ad essere entusiasti,\norientati all'azione, persone che probabilmente diranno \"Sì!\" oppure \"Andiamo!\"\nalle opportunità di eccitazione. Nei gruppi a loro piace parlare,\naffermarsi e attirare l'attenzione su se stessi.\n<br /><br />\nGli introversi mancano dell'esuberanza, dell'energia e dei livelli di attività di\nestroversi. Tendono ad essere silenziosi, di basso profilo, deliberati e\ndisimpegnato dal mondo sociale. La loro mancanza di coinvolgimento sociale\nnon dovrebbe essere interpretato come timidezza o depressione; il\nl'introverso ha semplicemente bisogno di meno stimoli di un extra e preferisce\nessere solo.\n<br /><br /> L'indipendenza e la riserva dell'introverso è\na volte scambiato per scortesia o arroganza. In realtà, a\nl'introverso che ottiene un punteggio elevato nella gradevolezza non lo farà\ncercare gli altri, ma sarà abbastanza piacevole quando ci si avvicina.\n",
+    "results": [
+      {
+        "score": "low",
+        "text": "Il tuo punteggio su Extraversion è basso, a indicare che lo sei\n      introverso, riservato e tranquillo. Ti piacciono la solitudine e solitari\n      attività.La tua socializzazione è limitata a pochi amici intimi."
+      },
+      {
+        "score": "neutral",
+        "text": "Il tuo punteggio su Extraversion è medio, a indicare che lo sei\n      né un solitario sottomesso o entrambi gioviale. Ti piace il tempo con\n      altri ma anche il tempo da solo."
+      },
+      {
+        "score": "high",
+        "text": "Il tuo punteggio su Extraversion è alto, a indicare che lo sei\n      socievole, estroverso, energico e vivace. Tu preferisci stare in giro\n      le persone per la maggior parte del tempo."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Amichevolezza",
+        "text": "Le persone amichevoli amano sinceramente gli altri\n      e dimostrare apertamente sentimenti positivi verso gli altri. Essi fanno\n      amici in fretta ed è facile per loro formare una stretta, intima\n      relazioni. I punteggi bassi di Friendliness non sono necessariamente freddi\n      e ostili, ma non raggiungono gli altri e vengono percepiti\n      come distante e riservato"
+      },
+      {
+        "facet": 2,
+        "title": "Socievolezza",
+        "text": "Le persone socievolezza trovano la compagnia di\n      altri piacevolmente, stimolanti e gratificanti. Godono il\n      eccitazione delle folle. I punteggi bassi tendono a sentirsi subissare da, e\n      quindi evitate attivamente, grandi folle. Non necessariamente\n      non mi piace stare con le persone a volte, ma il loro bisogno di privacy e\n      il tempo per se stessi è molto più grande che per le persone che segnano\n      alto su questa scala."
+      },
+      {
+        "facet": 3,
+        "title": "Assertività",
+        "text": "A loro piace parlare fuori,\n      prendere in carico e dirigere le attività degli altri. Tendono a\n      essere leader in gruppi. I punteggi bassi tendono a non parlare molto e lasciano\n      altri controllano le attività dei gruppi."
+      },
+      {
+        "facet": 4,
+        "title": "Livello di attività",
+        "text": "Individui attivi condurre ritmo frenetico, occupato\n      vive. Si muovono rapidamente, energicamente e vigorosamente, e\n      sono coinvolti in molte attività. Le persone che ottengono un punteggio basso su questo\n      la scala segue un ritmo più lento e più rilassato."
+      },
+      {
+        "facet": 5,
+        "title": "Eccitazione-cerca di",
+        "text": "I punteggi più alti di questa scala sono facilmente\n      annoiato senza alti livelli di stimolazione. Amano le luci brillanti\n      e il trambusto. È probabile che corrano dei rischi e cerchino\n      emozioni. I punteggi bassi sono sopraffatti dal rumore e dalla confusione e lo sono\n      avverso alla ricerca del brivido."
+      },
+      {
+        "facet": 6,
+        "title": "Allegria",
+        "text": "Questa scala misura l'umore positivo e\n      sentimenti, nessuna emozione negativae (che fanno parte del\n      Dominio del nevroticismo). Le persone che ottengono punteggi elevati su questa scala in genere\n      sperimentare una serie di sentimenti positivi, inclusa la felicità,\n      entusiasmo, ottimismo e gioia. I punteggi bassi non sono così inclini a tale\n      energico, buon umore."
+      }
+    ]
+  },
+  {
+    "domain": "N",
+    "title": "Nevroticismo",
+    "shortDescription": "Il termine nevroticismo si riferisce alla tendente costanza di provare sentimenti negativi.",
+    "description": "In origine Freud era solito usare il termine nevroticismo \nper descrivere una condizione marcata da stress mentale, sofferenza \nemozionale, e l’inabilità a far fronte alle normali richieste della vita. \nEgli supponeva che chiunque mostri segni di nevroticismo, ma che questi \ndifferiscono in base al nostro grado di sofferenza e ai nostri specifici \nsintomi di angoscia. Oggi il termine nevroticismo si riferisca alla tendenza \na sperimentare sentimenti negativi. <br/><br/>Coloro che ottengono punteggi \nalti in nevroticismo potrebbero sperimentare principalmente un sentimento negativo \ncome ansia, rabbia, o depressione, ma sono soliti provare diverse \ndi queste emozioni. <br/><br/> Gli individui alti in nevroticismo sono \nemotivamente reattivi. Rispondono emotivamente ad eventi che non influenzerebbero \nla maggior parte delle persone e le loro reazioni tendono ad essere più intense \ndel normale. Essi tendono ad interpretare situazioni ordinarie come \nminacciose, e minori frustrazioni come difficoltà senza speranze. <br/><br/> \nLe loro reazioni emotivamente negative rendono a persistere per lunghi ed \nanormali periodi di tempo, il che risulta in un costante malumore. Questi \nproblemi di regolazione emotiva possono diminuire l’abilità nevrotica di \npensare chiaramente, prendere decisioni e far fronte allo stress.",
+    "results": [
+      {
+        "score": "low",
+        "text": "'Il tuo punteggio in Nevroticismo è basso, indica che sei eccezionalmente \ncalmo, composto e imperturbabile. Non reagisci con intense emozioni, anche \nin situazioni che la maggior parte delle persone describerebbe come stressanti.'"
+      },
+      {
+        "score": "neutral",
+        "text": "Il tuo punteggio in Nevroticismo è nella media, indica che il \ntuo livello di reattività emotiva è tipico alla popolazione generale. \nSituazioni stressanti e frustranti sono in qualche modo causa di rabbia \nper te, ma sei generalmente capace di passare sopra a questi sentimenti \ne far fronte a queste situazioni."
+      },
+      {
+        "score": "high",
+        "text": "Il tuo punteggio in Nevroticismo è alto, indica che sei \nspesso arrabbiato, anche per le situazioni affrontate senza \nproblemi dalla maggior parte degli altri individui. Le persone \nti considerano sensibile ed emozionale."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Anxiety",
+        "text": "Il sistema \"lotta-o-fuga\" del cervello degli individui \nansiosi è spesso impegnato. A causa di ciò, le persone la cui ansia \nè alta provano spesso un presentimento di allerta come se qualcosa \ndi pericoloso stesse per accadere.\nEssi sono spesso impauriti da specifiche situazioni o generalmente \npaurosi. Altri sentimenti presenti sono tensione e nervosismo. Le \npersone basse in Ansia sono generalmente calme e impavidi."
+      },
+      {
+        "facet": 2,
+        "title": "Anger",
+        "text": "Le persone il cui punteggio in Rabbia è alto si arrabbiano \nspesso quando le cose non vanno nella direzione desiderata. Essi tengono \nmolto ad essere trattati correttamente e si risentono quando sentono di \nessere abbindolate. Questa scala misura la tendenza a sentirsi arrabbiati; \nche la persona esprima noia e ostilità dipende dal livello di piaceolezza \ndell'individuo."
+      },
+      {
+        "facet": 3,
+        "title": "Depression",
+        "text": "Questa scala misura la tendenza al sentirsi tristi, sconsolati \ne scoraggiati. Alti punteggi implicano mancanza di energie e difficoltà ad \niniziare un'attività. I punteggi bassi tendono ad essere liberi da questi \nsentimenti depressivi."
+      },
+      {
+        "facet": 4,
+        "title": "Self-Consciousness",
+        "text": "Gli individui coscienti sono sensibili ai giudizi esterni. \nLa loro preoccupazione per il rifiuto e il ridicolo li fa sentire timidi \ne a disagio abbandonando gli altri. Sono spesso imbarazzati e provano \nspesso vergogna. Le loro paure relative a critiche o prese in giro altrui \nrisultano spesso esagerate e irreali ma il loro disagio e sconforto possono \nfar avverare queste profezie auto indotte. I punteggi bassi, contrariamente, \nnon si fanno sconfortare da false impressioni di giudizio e osservazione. \nEssi non risultano nervosi in situazioni sociali. "
+      },
+      {
+        "facet": 5,
+        "title": "Immoderation",
+        "text": "Gli individui Immoderati si sentono forti bisogni e voglie \nalle quali difficilmente resistono. Essi tendono a cercare e provare piaceri \ne riconoscimenti a corto termine piuttosto che conseguenze a lungo termine. \nI punteggi bassi non provano forti e irresistibili voglie e conseguentemente \nnon si trovano tentati a lasciarsi andare."
+      },
+      {
+        "facet": 6,
+        "title": "Vulnerability",
+        "text": "Punteggi alti in Vulnerabilità sperimentano panico, confusione \ned impotenza quando sotto pressione o stress. I punteggi bassi si sentono più \ncomposti, sicuri e riescono a pensare a mente lucida quando sotto stress."
+      }
+    ]
+  },
+  {
+    "domain": "C",
+    "title": "Conscientiousness",
+    "shortDescription": "Conscientiousness concerns the way in which we control, regulate, and direct our impulses.",
+    "description": "Impulses are not inherently bad;\noccasionally time constraints require a snap decision, and acting on\nour first impulse can be an effective response. Also, in times of\nplay rather than work, acting spontaneously and impulsively can be\nfun. Impulsive individuals can be seen by others as colorful,\nfun-to-be-with, and zany.\n<br /><br />\nNonetheless, acting on impulse can lead to trouble in a number of\nways. Some impulses are antisocial. Uncontrolled antisocial acts\nnot only harm other members of society, but also can result in\nretribution toward the perpetrator of such impulsive acts. Another\nproblem with impulsive acts is that they often produce immediate\nrewards but undesirable, long-term consequences. Examples include\nexcessive socializing that leads to being fired from one's job,\nhurling an insult that causes the breakup of an important\nrelationship, or using pleasure-inducing drugs that eventually\ndestroy one's health.\n<br /><br />\nImpulsive behavior, even when not seriously destructive, diminishes\na person's effectiveness in significant ways. Acting impulsively\ndisallows contemplating alternative courses of action, some of which\nwould have been wiser than the impulsive choice. Impulsivity also\nsidetracks people during projects that require organized sequences\nof steps or stages. Accomplishments of an impulsive person are\ntherefore small, scattered, and inconsistent.\n<br /><br />\nA hallmark of intelligence, what potentially separates human beings\nfrom earlier life forms, is the ability to think about future\nconsequences before acting on an impulse. Intelligent activity\ninvolves contemplation of long-range goals, organizing and planning\nroutes to these goals, and persisting toward one's goals in the face\nof short-lived impulses to the contrary. The idea that intelligence\ninvolves impulse control is nicely captured by the term prudence, an\nalternative label for the Conscientiousness domain. Prudent means\nboth wise and cautious.\n<br /><br/>\nPersons who score high on the\nConscientiousness scale are, in fact, perceived by others as intelligent.\nThe benefits of high conscientiousness are obvious. Conscientious\nindividuals avoid trouble and achieve high levels of success through\npurposeful planning and persistence. They are also positively\nregarded by others as intelligent and reliable. On the negative\nside, they can be compulsive perfectionists and workaholics.\nFurthermore, extremely conscientious individuals might be regarded\nas stuffy and boring.\n<br /><br />\nUnconscientious people may be criticized for\ntheir unreliability, lack of ambition, and failure to stay within\nthe lines, but they will experience many short-lived pleasures and\nthey will never be called stuffy.",
+    "results": [
+      {
+        "score": "low",
+        "text": "Your score on Conscientiousness is low, indicating you like to live\nfor the moment and do what feels good now. Your work tends to be\ncareless and disorganized."
+      },
+      {
+        "score": "neutral",
+        "text": "Your score on Conscientiousness is average. This means you are\nreasonably reliable, organized, and self-controlled."
+      },
+      {
+        "score": "high",
+        "text": "Your score on Conscientiousness is high. This means you set clear\ngoals and pursue them with determination. People regard you as\nreliable and hard-working."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Self-Efficacy",
+        "text": "Self-Efficacy describes confidence in one's ability\nto accomplish things. High scorers believe they have the intelligence\n(common sense), drive, and self-control necessary for achieving success.\nLow scorers do not feel effective, and may have a sense that they are not\nin control of their lives."
+      },
+      {
+        "facet": 2,
+        "title": "Orderliness",
+        "text": "Persons with high scores on orderliness are\nwell-organized. They like to live according to routines and schedules. They\nkeep lists and make plans. Low scorers tend to be disorganized and\nscattered."
+      },
+      {
+        "facet": 3,
+        "title": "Dutifulness",
+        "text": "This scale reflects the strength of a person's sense\n of duty and obligation. Those who score high on this scale have a strong\n sense of moral obligation. Low scorers find contracts, rules, and\n regulations overly confining. They are likely to be seen as unreliable or\n even irresponsible."
+      },
+      {
+        "facet": 4,
+        "title": "Achievement-Striving",
+        "text": "Individuals who score high on this\nscale strive hard to achieve excellence. Their drive to be recognized as\nsuccessful keeps them on track toward their lofty goals. They often have\na strong sense of direction in life, but extremely high scores may\nbe too single-minded and obsessed with their work. Low scorers are content\nto get by with a minimal amount of work, and might be seen by others\nas lazy."
+      },
+      {
+        "facet": 5,
+        "title": "Self-Discipline",
+        "text": "Self-discipline-what many people call\nwill-power-refers to the ability to persist at difficult or unpleasant\ntasks until they are completed. People who possess high self-discipline\nare able to overcome reluctance to begin tasks and stay on track despite\ndistractions. Those with low self-discipline procrastinate and show poor\nfollow-through, often failing to complete tasks-even tasks they want very\nmuch to complete."
+      },
+      {
+        "facet": 6,
+        "title": "Cautiousness",
+        "text": "Cautiousness describes the disposition to\nthink through possibilities before acting. High scorers on the Cautiousness\nscale take their time when making decisions. Low scorers often say or do\nfirst thing that comes to mind without deliberating alternatives and the\nprobable consequences of those alternatives."
+      }
+    ]
+  },
+  {
+    "domain": "O",
+    "title": "Openness To Experience",
+    "shortDescription": "Openness to Experience describes a dimension of cognitive style that distinguishes imaginative, creative people from down-to-earth, conventional people.",
+    "description": "Open people are intellectually curious,\nappreciative of art, and sensitive to beauty. They tend to be,\ncompared to closed people, more aware of their feelings. They tend to\nthink and act in individualistic and nonconforming\nways. Intellectuals typically score high on Openness to Experience;\nconsequently, this factor has also been called Culture or\nIntellect. <br /><br />Nonetheless, Intellect is probably best regarded as one aspect of openness\nto experience. Scores on Openness to Experience are only modestly\nrelated to years of education and scores on standard intelligent tests.\n<br /><br />\nAnother characteristic of the open cognitive style is a facility for thinking\nin symbols and abstractions far removed from concrete experience. Depending on\nthe individual's specific intellectual abilities, this symbolic cognition may\ntake the form of mathematical, logical, or geometric thinking, artistic and\nmetaphorical use of language, music composition or performance, or one of the\nmany visual or performing arts.\n<br /><br />\nPeople with low scores on openness to experience tend to have narrow, common\ninterests. They prefer the plain, straightforward, and obvious over the\ncomplex, ambiguous, and subtle. They may regard the arts and sciences with\nsuspicion, regarding these endeavors as abstruse or of no practical use.\nClosed people prefer familiarity over novelty; they are conservative and\nresistant to change.\n<br /><br />\nOpenness is often presented as healthier or more mature by psychologists, who\nare often themselves open to experience. However, open and closed styles of\nthinking are useful in different environments. The intellectual style of the\nopen person may serve a professor well, but research has shown that closed\nthinking is related to superior job performance in police work, sales, and\na number of service occupations.",
+    "results": [
+      {
+        "score": "low",
+        "text": "Your score on Openness to Experience is low, indicating you like to think in\nplain and simple terms. Others describe you as down-to-earth, practical,\nand conservative."
+      },
+      {
+        "score": "neutral",
+        "text": "Your score on Openness to Experience is average, indicating you enjoy\ntradition but are willing to try new things. Your thinking is neither\nsimple nor complex. To others you appear to be a well-educated person\nbut not an intellectual."
+      },
+      {
+        "score": "high",
+        "text": "Your score on Openness to Experience is high, indicating you enjoy novelty,\nvariety, and change. You are curious, imaginative, and creative."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Imagination",
+        "text": "To imaginative individuals, the real world is\noften too plain and ordinary. High scorers on this scale use fantasy as a\nway of creating a richer, more interesting world. Low scorers are on this\nscale are more oriented to facts than fantasy."
+      },
+      {
+        "facet": 2,
+        "title": "Artistic Interests",
+        "text": "High scorers on this scale love beauty, both in\nart and in nature. They become easily involved and absorbed in artistic\nand natural events. They are not necessarily artistically trained nor\ntalented, although many will be. The defining features of this scale are\ninterest in, and appreciation of natural and\nartificial beauty. Low scorers lack aesthetic sensitivity and interest in\nthe arts."
+      },
+      {
+        "facet": 3,
+        "title": "Emotionality",
+        "text": "Persons high on Emotionality have good access\nto and awareness of their own feelings. Low scorers are less aware of\ntheir feelings and tend not to express their emotions openly."
+      },
+      {
+        "facet": 4,
+        "title": "Adventurousness",
+        "text": "High scorers on adventurousness are eager to\ntry new activities, travel to foreign lands, and experience different\nthings. They find familiarity and routine boring, and will take a new\nroute home just because it is different. Low scorers tend to feel\nuncomfortable with change and prefer familiar routines."
+      },
+      {
+        "facet": 5,
+        "title": "Intellect",
+        "text": "Intellect and artistic interests are the two most\nimportant, central aspects of openness to experience. High scorers on\nIntellect love to play with ideas. They are open-minded to new and unusual\nideas, and like to debate intellectual issues. They enjoy riddles, puzzles,\nand brain teasers. Low scorers on Intellect prefer dealing with either\npeople or things rather than ideas. They regard intellectual exercises as a\nwaste of time. Intellect should not be equated with intelligence.\nIntellect is an intellectual style, not an intellectual ability, although\nhigh scorers on Intellect score slightly higher than low-Intellect\nindividuals on standardized intelligence tests."
+      },
+      {
+        "facet": 6,
+        "title": "Liberalism",
+        "text": "Psychological liberalism refers to a readiness to\nchallenge authority, convention, and traditional values. In its most\nextreme form, psychological liberalism can even represent outright\nhostility toward rules, sympathy for law-breakers, and love of ambiguity,\nchaos, and disorder. Psychological conservatives prefer the security and\nstability brought by conformity to tradition. Psychological liberalism\nand conservatism are not identical to political affiliation, but certainly\nincline individuals toward certain political parties."
+      }
+    ]
+  }
+]

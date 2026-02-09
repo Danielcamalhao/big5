@@ -1,0 +1,262 @@
+[
+  {
+    "domain": "A",
+    "title": "Samvinnuþýði",
+    "shortDescription": "Þátturinn Samvinnuþýði er skilgreindur út frá samskiptum við aðra og endurspeglar mun einstaklinga þegar kemur að þörfinni fyrir því að vera í sátt og samlyndi við annað fólk og hvort einstaklingarnir sýna öðrum samkennd og kurteisi í samskiptum.",
+    "description": "Einstaklingar sem skora hátt á þessum þætti meta þess mikils að semja vel við aðra og eru yfirleitt taldir vera umhyggjusamir, kurteisir, vinalegir, gjafmildir, hjálpsamir og gjarnir á að setja þarfir annarra ofar eigin þörfum. Samvinnuþýðir einstaklingar líta yfirleitt svo á að aðrir einstaklingar séu góðhjartaðir og telja sem svo að það sé hægt að treysta á aðra og að fólk sé almennt heiðarlegt og finni fyrir samkennd með öðrum. Þegar kemur að því að vinna með öðru fólki þá eiga einstaklingar sem skora hátt á þættinum yfirleitt mjög auðvelt með það. Það að skora hátt á samvinnuþýði getur augljóslega gagnast fólki sem vill að öðrum líki vel við sig en getur reynst þeim erfiðlega í aðstæðum sem krefjast þess að taka erfiðar ákvarðanir eða þegar kemur að því að standa fast á sínu.<br/><br/>\nEinstaklingar sem skora lágt á þessum þætti eiga það til að setja þarfir sínar framar þörfum annarra og hafa ekki sömu þörf fyrir því að semja vel við aðra og þeir sem skora hátt á þættinum. Þeir geta átt það til að gruna aðra um græsku og reiða sig því yfirleitt ekki á velvild eða hjálpsemi annarra. Þar sem einstaklingar sem skora lágt á þessum þætti eru yfirleitt taldir vera ákveðnir þá geta þeir átt það til að vera álitnir kaldir og óviðkunnanlegir þó að það sé ekki raunin. Þeir eiga það til að keppast mjög og bera sig saman við aðra og hefur verið sýnt fram á það að stjórnendur í stórum fyrirtækjum, þar sem oft þarf að taka erfiðar ákvarðanir, skori yfirleitt lágt á þessum þætti.",
+    "results": [
+      {
+        "score": "low",
+        "text": "Þú skorar lágt á þættinum Samvinnuþýði, sem gefur til kynna að þú hefur frekar áhyggjur af þörfum þínum en þörfum annarra. Fólk sem skorar lágt á samvinnuþýði á yfirleitt erfitt með að fyrirgefa öðrum, er oft langrækið, setur þarfir sínar ofar þarfir annarra, er ákveðið og þrjóskt og tekur það ekki nærri sér þegar aðrir eru ekki sammála þeim."
+      },
+      {
+        "score": "neutral",
+        "text": "Þú skorar í meðallagi á þættinum Samvinnuþýði sem gefur til kynna að þú hefur stundum áhyggjur af þörfum annarra en ert yfirleitt ekki tilbúin/n að setja þarfir þeirra ofar þínum eigin."
+      },
+      {
+        "score": "high",
+        "text": "Þú skorar hátt á þættinum Samvinnuþýði sem gefur til kynna að þú hefur mikinn áhuga á og áhyggjur af þörfum annarra og reynir oft fara úr vegi þínum til að geðjast öðrum. Fólk sem skorar hátt á samvinnuþýði á yfirleitt auðvelt með að vinna með öðru fólki, fyrirgefur öðrum auðveldlega, er almennt umhugað um það hvernig öðrum líður en getur þó átt erfitt með að standa fast á sínu."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Trust",
+        "text": "A person with high trust assumes that most people\nare fair, honest, and have good intentions. Persons low in trust\nsee others as selfish, devious, and potentially dangerous."
+      },
+      {
+        "facet": 2,
+        "title": "Morality",
+        "text": "High scorers on this scale see no need for\npretense or manipulation when dealing with others and are therefore\ncandid, frank, and sincere. Low scorers believe that a certain\namount of deception in social relationships is necessary. People\nfind it relatively easy to relate to the straightforward\nhigh-scorers on this scale. They generally find it more difficult\nto relate to the unstraightforward low-scorers on this scale. It\nshould be made clear that low scorers are not unprincipled\nor immoral; they are simply more guarded and less willing to openly\nreveal the whole truth."
+      },
+      {
+        "facet": 3,
+        "title": "Altruism",
+        "text": "Altruistic people find helping other people\ngenuinely rewarding. Consequently, they are generally willing to\nassist those who are in need. Altruistic people find that doing\nthings for others is a form of self-fulfillment rather than\nself-sacrifice. Low scorers on this scale do not particularly like\nhelping those in need. Requests for help feel like an imposition\nrather than an opportunity for self-fulfillment."
+      },
+      {
+        "facet": 4,
+        "title": "Cooperation",
+        "text": "Individuals who score high on this scale\ndislike confrontations. They are perfectly willing to compromise or\nto deny their own needs in order to get along with others. Those\nwho score low on this scale are more likely to intimidate others to\nget their way."
+      },
+      {
+        "facet": 5,
+        "title": "Modesty",
+        "text": "High scorers on this scale do not like to claim\nthat they are better than other people. In some cases this attitude\nmay derive from low self-confidence or self-esteem. Nonetheless,\nsome people with high self-esteem find immodesty unseemly. Those\nwhoare willing to describe themselves as superior tend to\nbe seen as disagreeably arrogant by other people."
+      },
+      {
+        "facet": 6,
+        "title": "Sympathy",
+        "text": "People who score high on this scale are\ntenderhearted and compassionate. They feel the pain of others\nvicariously and are easily moved to pity. Low scorers are not\naffected strongly by human suffering. They pride themselves on\nmaking objective judgments based on reason. They are more concerned\nwith truth and impartial justice than with mercy."
+      }
+    ]
+  },
+  {
+    "domain": "E",
+    "title": "Úthverfa",
+    "shortDescription": "Úthverfa er þáttur sem endurspeglar þörf einstaklinga til þess að sækja í félagsleg samskipti við umheiminn af fyrra bragði.",
+    "description": "Einstaklingar sem skora hátt á þessum þætti eru yfirleitt sagðir vera úthverfir og njóta þess að vera í kringum annað fólk, gefa oft mikið af sér, þykja orkumiklir, með góða félagsfærni, eru jákvæðir og eiga auðvelt með að eignast vini. Þeir eru oftast ákveðnir og málglaðir og hafa oftast gott sjálfstraust og eru því líklegri til að búa til tækifæri til félagslegra samskipta í umhverfi sínu frekar en að bregðast passíft við tækifærunum sem blasa við þeim. Úthverfir einstaklingar þrífast yfirleitt í störfum sem krefjast mikillar samskipta við annað fólk og eru þó nokkuð næmir fyrir umbununum sem hafa félagslegt gildi eins og til dæmis bros eða hlátur, þ.e. það að fá annað fólk til að hlæja og brosa lætur þeim líða vel. Þeir hafa gaman af alls kyns félagslegum samkomum og njóta þess að fanga og veita öðrum athygli og hefur verið sýnt fram á að þessi þáttur geti haft jákvæð áhrif í sölustörfum og stjórnunarstöðum. Þar sem úthverfir einstaklingar sækja yfirleitt í félagsleg samskipti þá kunnu þeir yfirleitt betur við það að leysa verkefni í hópum frekar en alein.<br/><br/>\nEinstaklingar sem skora lágt á þessum þætti eru sagðir vera innhverfir og sækjast síður eftir því að eiga í meiri samskiptum við aðra en nauðsyn krefur. Þó að einstaklingar sem skora lágt á þessum þætti sækja síður eftir því að vera miðpunktur athyglinnar þá eru þeir oftast langt frá því að vera feimnir. Innhverfir einstaklingar hafa einfaldlega bara minni þörf fyrir félagsleg samskipti en úthverfir einstaklingar og kjósa því oft frekar að vera einir. Þetta getur til dæmis nýst þeim mjög vel í bóknámi þar sem fá síður leiða en aðrir. Þeir geta átt það til að vera hlédrægir í stórum hópum og láta lítið fyrir sér fara og sækja því síður í störf sem krefjast mikilla samskipta. Innhverfir einstaklingar sækja því oft frekar í störf líkt og bókhaldsstörf, störf í forritunar- eða tölvunarfræðigeiranum og verkfræði- og framleiðslustörf. ",
+    "results": [
+      {
+        "score": "low",
+        "text": "Þú skorar lágt á þættinum Úthverfa sem gefur til kynna að þú sért innhverf/ur, hæglát/ur og lætur oftast lítið fyrir þig fara. Þú sækist frekar eftir því að gera eitthvað rólegt sem krefst þess ekki að vera mikið innan um annað fólk og nýtur þess að dunda þér ein/n. Þú átt líklegast vinahóp í smærri kantinum sem samanstendur af þínum nánustu vinum."
+      },
+      {
+        "score": "neutral",
+        "text": "Þú skorar í meðallagi á þættinum Úthverfu sem bendir til þess að þú hafir enga sérstaka löngun til þess að vera ein/n eða með öðrum. Þú kýst ekki að vera ein/n mest allan tímann en nýtur þess þó þegar færi gefst."
+      },
+      {
+        "score": "high",
+        "text": "Þú skorar hátt á þættinum Úthverfa sem gefur til kynna að þú sért mjög félagslynd/ur, hefur gaman af samkvæmum, átt marga vini og ert oftast mjög kát/ur. Þú hefur þörf fyrir því að vera í kringum annað fólk og þrífst illa og leiðist mjög í aðstæðum þar sem þú ert einsamall/einsömul í langan tíma."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Friendliness",
+        "text": "Friendly people genuinely like other people\nand openly demonstrate positive feelings toward others. They make\nfriends quickly and it is easy for them to form close, intimate\nrelationships. Low scorers on Friendliness are not necessarily cold\nand hostile, but they do not reach out to others and are perceived\nas distant and reserved."
+      },
+      {
+        "facet": 2,
+        "title": "Gregariousness",
+        "text": "Gregarious people find the company of\nothers pleasantly stimulating and rewarding. They enjoy the\nexcitement of crowds. Low scorers tend to feel overwhelmed by, and\ntherefore actively avoid, large crowds. They do not necessarily\ndislike being with people sometimes, but their need for privacy and\ntime to themselves is much greater than for individuals who score\nhigh on this scale."
+      },
+      {
+        "facet": 3,
+        "title": "Assertiveness",
+        "text": "High scorers Assertiveness like to speak\n out, take charge, and direct the activities of others. They tend to\n be leaders in groups. Low scorers tend not to talk much and let\n others control the activities of groups."
+      },
+      {
+        "facet": 4,
+        "title": "Activity Level",
+        "text": "Active individuals lead fast-paced, busy\n lives. They move about quickly, energetically, and vigorously, and\n they are involved in many activities. People who score low on this\n scale follow a slower and more leisurely, relaxed pace."
+      },
+      {
+        "facet": 5,
+        "title": "Excitement-Seeking",
+        "text": "High scorers on this scale are easily\nbored without high levels of stimulation. They love bright lights\nand hustle and bustle. They are likely to take risks and seek\nthrills. Low scorers are overwhelmed by noise and commotion and are\nadverse to thrill-seeking."
+      },
+      {
+        "facet": 6,
+        "title": "Cheerfulness",
+        "text": "This scale measures positive mood and\nfeelings, not negative emotions (which are a part of the\nNeuroticism domain). Persons who score high on this scale typically\nexperience a range of positive feelings, including happiness,\nenthusiasm, optimism, and joy. Low scorers are not as prone to such\nenergetic, high spirits."
+      }
+    ]
+  },
+  {
+    "domain": "N",
+    "title": "Tilfinninganæmi",
+    "shortDescription": "Tilfinninganæmi er þáttur sem lýsir tilhneigingu einstaklinga til þess að skynja aðstæður sem ógnandi og lýsir því að hve miklu leyti þeir eru líklegri til að upplifa neikvæðar tilfinningar á borð við kvíða og skömm.",
+    "description": "Einstaklingar sem skora hátt á þessum þætti er líklegri til að forðast aðstæður sem geta átt í för með sér líkamlega hættu og eru yfirleitt næmari fyrir streitu en aðrir. Þeir sækja yfirleitt í mikla nánd, samúð og tilfinningalegan stuðning frá öðrum. Einstaklingar sem skora hátt á þættinum geta átt það til að telja að þeir hafi enga stjórn á hlutum eða aðstæðum og forðast því yfirleitt streituvaldandi aðstæður. Þar sem þeir eru líklegri til að upplifa sterkar tilfinningar en aðrir eru þeir yfirleitt taldir vera miklar tilfinningaverur sem eru næmir fyrir tilfinningum sínum og annarra.<br/><br/>\nEinstaklingar sem skora lágt á þessum þætti eru yfirleitt í góðu tilfinningalegu jafnvægi og eru að öllu jafna mjög jafnlyndir. Þeir finna síður fyrir streitu í erfiðum og krefjandi aðstæðum og ná yfirleitt að halda ró sinni þegar reynir á.",
+    "results": [
+      {
+        "score": "low",
+        "text": "Þú skorar lágt á þættinum Tilfinninganæmi sem bendir til þess að þú sért mjög róleg/ur og yfirveguð/aður í streituvaldandi aðstæðum. Þú missir ekki stjórn á skapi þínu eða tilfinningum þó að annað fólk í kringum þig sé í miklu uppnámi yfir aðstæðunum."
+      },
+      {
+        "score": "neutral",
+        "text": "Þú skorar í meðallagi á þættinum Tilfinninganæmi sem gefur til kynna að þú bregst þó nokkuð eðlilega við erfiðum og streituvaldandi aðstæðum. Aðstæðurnar koma þér í þónokkuð uppnám en þú átt tiltölulega auðvelt með að ná völdum á tilfinningum þínum og takast á við þær."
+      },
+      {
+        "score": "high",
+        "text": "Þú skorar hátt á þættinum Tilfinninganæmi sem gefur til kynna að þú kemst auðveldlega í uppnám og lætur jafnvel litla hluti sem aðrir pæla ekki í pirra þig. Flestir líta á þig sem mikla tilfinningaveru sem getur upplifað sterkar tilfinningar í ýmsum aðstæðum."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Anxiety",
+        "text": "The \"fight-or-flight\" system of the brain of anxious\nindividuals is too easily and too often engaged. Therefore, people who\nare high in anxiety often feel like something dangerous is about to happen.\nThey may be afraid of specific situations or be just generally fearful.\nThey feel tense, jittery, and nervous. Persons low in Anxiety are generally\ncalm and fearless."
+      },
+      {
+        "facet": 2,
+        "title": "Anger",
+        "text": "Persons who score high in Anger feel enraged when\nthings do not go their way. They are sensitive about being treated fairly\nand feel resentful and bitter when they feel they are being cheated.\nThis scale measures the tendency to feel angry; whether or not the\nperson expresses annoyance and hostility depends on the individual's\nlevel on Agreeableness. Low scorers do not get angry often or easily."
+      },
+      {
+        "facet": 3,
+        "title": "Depression",
+        "text": "This scale measures the tendency to feel sad, dejected,\nand discouraged. High scorers lack energy and have difficult initiating\nactivities. Low scorers tend to be free from these depressive feelings."
+      },
+      {
+        "facet": 4,
+        "title": "Self-Consciousness",
+        "text": "Self-conscious individuals are sensitive\nabout what others think of them. Their concern about rejection and\nridicule cause them to feel shy and uncomfortable abound others. They\nare easily embarrassed and often feel ashamed. Their fears that others\nwill criticize or make fun of them are exaggerated and unrealistic, but\ntheir awkwardness and discomfort may make these fears a self-fulfilling\nprophecy. Low scorers, in contrast, do not suffer from the mistaken\nimpression that everyone is watching and judging them. They do not feel\nnervous in social situations."
+      },
+      {
+        "facet": 5,
+        "title": "Immoderation",
+        "text": "Immoderate individuals feel strong cravings and\nurges that they have have difficulty resisting. They tend to be\noriented toward short-term pleasures and rewards rather than long-\nterm consequences. Low scorers do not experience strong, irresistible\ncravings and consequently do not find themselves tempted to overindulge."
+      },
+      {
+        "facet": 6,
+        "title": "Vulnerability",
+        "text": "High scorers on Vulnerability experience\npanic, confusion, and helplessness when under pressure or stress.\nLow scorers feel more poised, confident, and clear-thinking when\nstressed."
+      }
+    ]
+  },
+  {
+    "domain": "C",
+    "title": "Samviskusemi",
+    "shortDescription": "Þátturinn Samviskusemi snýr að því hvernig einstaklingar takast á við verkefni, þrautseigju þeirra í hegðun og sjálfsstjórnun þegar kemur að eigin hvötum og gefur þó nokkuð góða vísbendingu um það hversu skipulagðir, vinnusamir og áreiðanlegir einstaklingar eru.",
+    "description": "Einstaklingar sem skora hátt á þættinum samviskusemi eru yfirleitt mjög skipulagðir, áreiðanlegir, agaðir og yfirleitt mjög nákvæmir í því sem þeir taka sér fyrir hendur. Þeir pæla oft vel og vandlega í hlutum áður en þeir taka ákvarðanir og vinna jafnt og þétt að markmiðum sínum. Enn fremur þrífast þeir yfirleitt betur í umhverfi þar sem eru röð og regla og sinna námi og starfi mjög vel. Einstaklingar sem skora hátt á þessum þætti eiga tiltölulega auðvelt með að stjórna eigin hvötum sem getur reynst þeim sérstaklega vel þegar kemur að því að ná markmiðum sínum. Þeir standa sig yfirleitt vel í öllu sem þeir taka þátt í og eru yfirleitt taldir vera klárir og duglegir. Þó að einstaklingar sem skora hátt á þessum þætti séu oftast ekki hrifnir af aðstæðum sem þeir hafa ekki stjórn á, þá er samviskusemi talinn vera sá þáttur sem spáir best fyrir um frammistöðu í starfi, óháð starfinu.<br/><br/> \nEinstaklingar sem skora lágt á þættinum eru yfirleitt taldir vera kærulausir, hvatvísir og latir. Þeir geta átt það til að fresta hlutum og eru líklegri til að sætta sig við hálfkláruð verk til að losna undan erfiðum verkefnum. Þetta getur meðal annars verið vegna þess að þeir séu síður líklegir til að skipuleggja tímann sinn og eiga það til að taka hvatvísar ákvarðanir. Þeir kunna einnig síður að meta reglusemi og skipulag í umhverfi sínu og því getur þeim verið alveg sama þótt allt í nánasta umhverfi þeirra sé í óreglu.",
+    "results": [
+      {
+        "score": "low",
+        "text": "Þú skorar lágt á þættinum Samviskusemi sem bendir til þess að þú eigir það til að vera óskipulagður/óskipulögð og sért þónokkuð kærulaus í því sem þú aðhefst. Þú sækir líklegast frekar í það sem krefst lítils af þér og veitir þér skammtíma ánægju og lifir oftast í núinu frekar en að hafa áhyggjur af því sem seinna kemur."
+      },
+      {
+        "score": "neutral",
+        "text": "Þú skorar í meðallagi á þættinum Samviskusemi sem gefur til kynna að þú hefur sæmilega sjálfsstjórnun, hefur þó nokkuð góð tök á flestu í lífi þínu og líkar að mesta að hafa reglu á því sem gerist í lífi þínu."
+      },
+      {
+        "score": "high",
+        "text": "Þú skorar hátt á þættinum Samviskusemi sem gefur til kynna að þú átt auðvelt með að setja þér markmið og ná þeim. Flestir líta á þig sem skipulagðan og duglegan einstakling sem vill hafa röð og reglu á hlutum og hægt er að reiða sig á."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Self-Efficacy",
+        "text": "Self-Efficacy describes confidence in one's ability\nto accomplish things. High scorers believe they have the intelligence\n(common sense), drive, and self-control necessary for achieving success.\nLow scorers do not feel effective, and may have a sense that they are not\nin control of their lives."
+      },
+      {
+        "facet": 2,
+        "title": "Orderliness",
+        "text": "Persons with high scores on orderliness are\nwell-organized. They like to live according to routines and schedules. They\nkeep lists and make plans. Low scorers tend to be disorganized and\nscattered."
+      },
+      {
+        "facet": 3,
+        "title": "Dutifulness",
+        "text": "This scale reflects the strength of a person's sense\n of duty and obligation. Those who score high on this scale have a strong\n sense of moral obligation. Low scorers find contracts, rules, and\n regulations overly confining. They are likely to be seen as unreliable or\n even irresponsible."
+      },
+      {
+        "facet": 4,
+        "title": "Achievement-Striving",
+        "text": "Individuals who score high on this\nscale strive hard to achieve excellence. Their drive to be recognized as\nsuccessful keeps them on track toward their lofty goals. They often have\na strong sense of direction in life, but extremely high scores may\nbe too single-minded and obsessed with their work. Low scorers are content\nto get by with a minimal amount of work, and might be seen by others\nas lazy."
+      },
+      {
+        "facet": 5,
+        "title": "Self-Discipline",
+        "text": "Self-discipline-what many people call\nwill-power-refers to the ability to persist at difficult or unpleasant\ntasks until they are completed. People who possess high self-discipline\nare able to overcome reluctance to begin tasks and stay on track despite\ndistractions. Those with low self-discipline procrastinate and show poor\nfollow-through, often failing to complete tasks-even tasks they want very\nmuch to complete."
+      },
+      {
+        "facet": 6,
+        "title": "Cautiousness",
+        "text": "Cautiousness describes the disposition to\nthink through possibilities before acting. High scorers on the Cautiousness\nscale take their time when making decisions. Low scorers often say or do\nfirst thing that comes to mind without deliberating alternatives and the\nprobable consequences of those alternatives."
+      }
+    ]
+  },
+  {
+    "domain": "O",
+    "title": "Víðsýni",
+    "shortDescription": "Víðsýni lýsir meðal annars hugsunarstíl sem einkennist af mikilli sköpunargleði, forvitni og hugmyndaauðgi.",
+    "description": "Einstaklingar sem skora hátt á þessum þætti eru yfirleitt með mikla sköpunargleði, eru forvitnir, dást mjög að fegurð í umhverfinu og listum og sækja oft í bækur til að svala námsfýsi sinni. Víðsýnir einstaklingar eru yfirleitt ekki vanafastir, heillast auðveldlega af list, reyna oft að sjá hlutina frá mismunandi sjónarhornum og eru gjarnir á að breyta til. Þeir eru yfirleitt opnari fyrir framandi menningu og hafa oftast fjölbreytileg áhugamál og áhugasvið. Enn fremur hafa rannsóknir sýnt fram á það að einstaklingar sem skora hátt á þessum þætti eigi auðvelt með að aðlaga sér að mismunandi aðstæðum eins og til dæmis nýju starfsumhverfi.<br/><br/>\nEinstaklingar sem skora lágt á þessum þætti eru stundum taldir vera vanafastir í hegðun sinni og eiga það til að vera taldir íhaldssamir þegar kemur að mögulegum breytingum. Þeir eru yfirleitt mjög jarðbundnir og kjósa yfirleitt frekar það sem þeim þykir kunnuglegt fram yfir það að prófa eitthvað nýtt. Einnig eiga þeir síður til að vilja lýsa tilfinningum sínum opinberlega og hafa yfirleitt síður áhuga á óvenjulegum og róttækum hugmyndum.",
+    "results": [
+      {
+        "score": "low",
+        "text": "Þú skorar lágt á þættinum Víðsýni sem bendir til að þess að þú sért tiltölulega vanaföst/fastur. Flestir myndu lýsa þér sem mjög jarðbundnum og praktískum einstaklingi sem eyðir ekki miklum tíma í óvenjulegar eða fjarstæðukenndar pælingar."
+      },
+      {
+        "score": "neutral",
+        "text": "Þú skorar í meðallagi á þættinum Víðsýni sem bendir til þess að þú sért tiltölulega venjuleg/ur þegar kemur að því að pæla í og prófa nýja hluti. Þú ert tiltölulega vanafastur/föst en ert samt tilbúin/n að prófa nýja hluti ef tækifærið gefst."
+      },
+      {
+        "score": "high",
+        "text": "Þú skorar hátt á þættinum Víðsýni sem gefur til kynna að þú hefur gaman af nýjum hlutum og pælingum og ert opin/n fyrir breytingum í lífi þínu. Þú ert yfirleitt mjög forvitin/n, hugmyndarík/ur og hefur frjóan hug."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Imagination",
+        "text": "To imaginative individuals, the real world is\noften too plain and ordinary. High scorers on this scale use fantasy as a\nway of creating a richer, more interesting world. Low scorers are on this\nscale are more oriented to facts than fantasy."
+      },
+      {
+        "facet": 2,
+        "title": "Artistic Interests",
+        "text": "High scorers on this scale love beauty, both in\nart and in nature. They become easily involved and absorbed in artistic\nand natural events. They are not necessarily artistically trained nor\ntalented, although many will be. The defining features of this scale are\ninterest in, and appreciation of natural and\nartificial beauty. Low scorers lack aesthetic sensitivity and interest in\nthe arts."
+      },
+      {
+        "facet": 3,
+        "title": "Emotionality",
+        "text": "Persons high on Emotionality have good access\nto and awareness of their own feelings. Low scorers are less aware of\ntheir feelings and tend not to express their emotions openly."
+      },
+      {
+        "facet": 4,
+        "title": "Adventurousness",
+        "text": "High scorers on adventurousness are eager to\ntry new activities, travel to foreign lands, and experience different\nthings. They find familiarity and routine boring, and will take a new\nroute home just because it is different. Low scorers tend to feel\nuncomfortable with change and prefer familiar routines."
+      },
+      {
+        "facet": 5,
+        "title": "Intellect",
+        "text": "Intellect and artistic interests are the two most\nimportant, central aspects of openness to experience. High scorers on\nIntellect love to play with ideas. They are open-minded to new and unusual\nideas, and like to debate intellectual issues. They enjoy riddles, puzzles,\nand brain teasers. Low scorers on Intellect prefer dealing with either\npeople or things rather than ideas. They regard intellectual exercises as a\nwaste of time. Intellect should not be equated with intelligence.\nIntellect is an intellectual style, not an intellectual ability, although\nhigh scorers on Intellect score slightly higher than low-Intellect\nindividuals on standardized intelligence tests."
+      },
+      {
+        "facet": 6,
+        "title": "Liberalism",
+        "text": "Psychological liberalism refers to a readiness to\nchallenge authority, convention, and traditional values. In its most\nextreme form, psychological liberalism can even represent outright\nhostility toward rules, sympathy for law-breakers, and love of ambiguity,\nchaos, and disorder. Psychological conservatives prefer the security and\nstability brought by conformity to tradition. Psychological liberalism\nand conservatism are not identical to political affiliation, but certainly\nincline individuals toward certain political parties."
+      }
+    ]
+  }
+]

@@ -14,6 +14,7 @@ type State = {
   choices: Choices | null
   answers: Answer[]
   lang: string
+  error: string | null
 }
 
 export class Quiz extends Component<Props, State> {
@@ -24,6 +25,7 @@ export class Quiz extends Component<Props, State> {
     choices: null,
     answers: [],
     lang: 'en',
+    error: null,
   }
 
   constructor(props: Props) {
@@ -74,6 +76,23 @@ export class Quiz extends Component<Props, State> {
       )
     }
 
+    if (this.state.error) {
+      return (
+        <div className='text-center p-5 m-5'>
+          <p className='text-red-500 text-lg'>Failed to load quiz data.</p>
+          <button
+            className='mt-3 text-primary underline'
+            onClick={() => {
+              this.setState({ error: null })
+              this.initQuestionsAndAnswers(this.props.lang)
+            }}
+          >
+            Try again
+          </button>
+        </div>
+      )
+    }
+
     if (
       !this.state.choices ||
       !this.state.questions.length ||
@@ -96,12 +115,16 @@ export class Quiz extends Component<Props, State> {
   }
 
   private initQuestionsAndAnswers(lang: string) {
-    getQuestions(lang).then((res) =>
-      this.setState((state, props) => ({
-        questions: res, //.slice(0, 5),
-        currentQuestion: res[state.currentQuestionNumber],
-      }))
-    )
-    getChoices(lang).then((res) => this.setState({ choices: res }))
+    getQuestions(lang)
+      .then((res) =>
+        this.setState((state) => ({
+          questions: res,
+          currentQuestion: res[state.currentQuestionNumber],
+        }))
+      )
+      .catch(() => this.setState({ error: 'Failed to load questions' }))
+    getChoices(lang)
+      .then((res) => this.setState({ choices: res }))
+      .catch(() => this.setState({ error: 'Failed to load choices' }))
   }
 }

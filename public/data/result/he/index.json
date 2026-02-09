@@ -1,0 +1,262 @@
+[
+  {
+    "domain": "A",
+    "title": "הסכמה",
+    "shortDescription": "הסכמה משקפת הבדלים בין אינדיבידואלים על מנת ליצר הרמוניה חברתית. אינדבידואלים שמסכימים מסתדרים אחד עם השני.",
+    "description": "לכן הם מתחשבים,\nנדיבים, עוזרים ומוכנים להתפשר על האינטרסים שלהם\n'. אנשים בעלי הסכמה יש השקפה אופטימית על טבע האדם הם מאמינים שאנשים הם בעצם כנים, הגונים, ו\nאמינים. <br /> <br />\nאנשים שלא מסכימים ושמים את האינטרס העצמי מעל אנשים\nאחרים. הם בדרך כלל לא מודאגים עם הרווחה של אחרים, ולכן הם לא צפויים לתת את עצמם עבור אנשים אחרים.\nלפעמים הספקנות שלהם לגבי המניעים של אחרים גורמת להם להיות\nחשודים, לא ידידותים וגורם להם לא משתף פעולה.\n<br /> <br />\nהסכמה היא ללא ספק יתרון על מנת להשיג ולשמור\nפּוֹפּוּלָרִיוּת. אנשים שמסכימים עם דעותיהם הם אהובים יותר\n. מצד שני, הסכמה אינה שימושית במצבים\nהדורשות החלטות אובייקטיביות קשות או מוחלטות.\nאנשים שלא מסכימים יכולים לעשות מדענים מצוינים, מבקרים או חיילים.",
+    "results": [
+      {
+        "score": "low",
+        "text": "הציון שלך ביכולה ההסכמה הוא נמוך, יש לך פחות דאגה לאחר מאשר לעצמך. אנשים רואים אותך קשוח ,ביקורתי וחסר פשרות"
+      },
+      {
+        "score": "neutral",
+        "text": "רמת ההסכה שלך היא ממוצעת יש לך דאגה לצרכים של אחרים, אבל באופן כללי לא תקריב את עצמך בשבילם."
+      },
+      {
+        "score": "high",
+        "text": "רמה ההסכה שלך היא גבוה יש לך דאגה עניין רב בצרכים של אנשים אחרים. אני סימפטי וקואפרטיבי"
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "אמון",
+        "text": "A person with high trust assumes that most people\nare fair, honest, and have good intentions. Persons low in trust\nsee others as selfish, devious, and potentially dangerous."
+      },
+      {
+        "facet": 2,
+        "title": "מוסריות",
+        "text": "ציון גבוה בסולם זה לא רואים צורך\nהעמדת פנים או מניפולציה בעת התמודדות עם אחרים ולכן הם\nכנה, כנה, כנה. ציון נמוך מאמינים כי מסוים\nכמות ההונאה ביחסים חברתיים היא הכרחית. אֲנָשִׁים\nלמצוא את זה יחסית קל להתייחס ישר\nגבוהה- ציון בקנה מידה זה. הם בדרך כלל מוצאים את זה יותר קשה\nכדי להתייחס לבלתי-מתפשרים הנמוכה ביותר בסולם זה. זה\nצריך להבהיר כי נמוך ציון הם נגד עקרונות\nאו לא מוסרי; הם פשוט נשמרים יותר ופחות מוכנים בגלוי\nלחשוף את כל האמת."
+      },
+      {
+        "facet": 3,
+        "title": "אלטרואיזם",
+        "text": "אנשים אלטרואיסטים מוצאים עזרה לאנשים אחרים\nבאמת מתגמלת. כתוצאה מכך, הם מוכנים בדרך כלל\nלסייע לנזקקים. אנשים אלטרואיסטים מוצאים את זה עושה\nדברים עבור אחרים היא צורה של הגשמה עצמית ולא\nהקרבה עצמית. סקוררים נמוכים בסולם הזה לא אוהבים במיוחד\nסיוע לנזקקים. בקשות לעזרה מרגישות כמו הטלה\nולא הזדמנות להגשמה עצמית."
+      },
+      {
+        "facet": 4,
+        "title": "שיתוף פעולה",
+        "text": "אנשים אשר ניקוד גבוה בסולם זה\nלא אוהבים עימותים. הם מוכנים לחלוטין להתפשר או\nלהתכחש לצרכיהם כדי להסתדר עם אחרים. הָהֵן\nאשר ניקוד נמוך בסולם זה נוטים יותר להפחיד אחרים\nלעשות את דרכם."
+      },
+      {
+        "facet": 5,
+        "title": "צנוע",
+        "text": "ניקוד גבוה בסולם זה לא אוהב לתבוע\nכי הם טובים יותר מאשר אנשים אחרים. במקרים מסוימים, יחס זה\nעשויה לנבוע מבטחון עצמי נמוך או הערכה עצמית. בְּכָל זֹאת,\nכמה אנשים עם הערכה עצמית גבוהה למצוא חוסר צניעות. הָהֵן\nשמוכנים לתאר את עצמם כמיטב יכולתם\nייראה בעיני אנשים אחרים."
+      },
+      {
+        "facet": 6,
+        "title": "סימפטיות",
+        "text": "אנשים אשר ניקוד גבוה בסולם זה הם\nאדיב ורחום. הם מרגישים את הכאב של אחרים\nבעקיפין והם מועברים בקלות לרחמים.ציון נמוך הם לא\nמושפע מאוד מסבל אנושי. הם גאים על עצמם\nקבלת החלטות אובייקטיביות המבוססות על התבונה. הם מודאגים יותר\nעם האמת וצדק ללא משוא פנים מאשר ברחמים."
+      }
+    ]
+  },
+  {
+    "domain": "E",
+    "title": "חוצפה",
+    "shortDescription": "החריגה מתבטאת באינטראקציה בולטת עם העולם החיצוני.",
+    "description": "חוצפה נהנית להיות עם אנשים, מלאים באנרגיה, ו\nלעתים קרובות לחוות רגשות חיוביים. הם נוטים להיות נלהבים,\nאקטיביים, אנשים שעשויים לומר \"כן!\" או \"בואו\nללכת! \"להזדמנויות להתרגשות: בקבוצות הם אוהבים לדבר,\nלהתווכח, למשוך תשומת לב לעצמם.\n<br /> <br />\nמופנמים חסרים את התרוממות רוח, אנרגיה, ופעילות הרמות\n. הם נוטים להיות שקטים, נמוכים, מכוונים, ו\nמנותקים מן העולם החברתי. חוסר המעורבות החברתית שלהם\nלא צריך להתפרש כמו ביישנות או דיכאון; ה\nמופנם פשוט צריך פחות גירוי מאשר אקסטרוורט ומעדיף\nלהיות לבד. <br /> <br /> עצמאות ושמירה של מופנם הוא\nלפעמים טועה כמו חוסר ידידות או יהירות. במציאות, א\nמופנם מי ציונים גבוהים על הממד הנועם לא\nלחפש אחרים, אבל יהיה די נעים כאשר התקרב.",
+    "results": [
+      {
+        "score": "low",
+        "text": "הציון שלך על אקסטרסיה הוא נמוך, מה שמעיד על כך\nמופנם, שמור ושקט. אתה נהנה בדידות בודד\nפעילויות. החבר שלך נוטה להיות מוגבל למספר חברים קרובים."
+      },
+      {
+        "score": "neutral",
+        "text": "הניקוד שלך על ההחצנה הוא ממוצע, המציין שאתה\nלא מתבודד מאופק וגם לא פטפטן עליז. אתה נהנה עם הזמן\nאחרים, אלא גם לבד."
+      },
+      {
+        "score": "high",
+        "text": "הניקוד שלך על ההחצנה הוא גבוה, המציין שאתה\nחברותי, יוצא, אנרגטי, תוסס. אתה מעדיף להיות בסביבה\nאנשים רוב הזמן."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "חַברוּתִיוּת",
+        "text": "אנשים ידידותיים באמת כמו אנשים אחרים\nולהפגין בגלוי רגשות חיוביים כלפי אחרים. הם מכינים\nחברים במהירות וקל להם ליצור קרוב, אינטימי\nיחסים. סקוררים נמוכים על ידידות הם לא בהכרח קר\nועוינות, אבל הם לא להושיט יד לאחרים נתפסים\nמרוחק ומרוחק."
+      },
+      {
+        "facet": 2,
+        "title": "גמישות",
+        "text": "אנשים גמישים מוצאים את החברה של\nאחרים מגרים ומעניקים נעימה. הם נהנים\nההתרגשות של ההמונים. ציון נמוך נוטים להרגיש המום, ו\nולכן פעיל להימנע, קהל גדול. הם לא בהכרח\nלא אוהב להיות עם אנשים לפעמים, אבל הצורך שלהם לפרטיות\nהזמן לעצמם הוא הרבה יותר גדול מאשר עבור אנשים ציון\nגבוה בסולם זה."
+      },
+      {
+        "facet": 3,
+        "title": "Assertiveness",
+        "text": "High scorers Assertiveness like to speak\n out, take charge, and direct the activities of others. They tend to\n be leaders in groups. Low scorers tend not to talk much and let\n others control the activities of groups."
+      },
+      {
+        "facet": 4,
+        "title": "רמת הפעילות",
+        "text": "אנשים פעילים להוביל המהיר, עסוק\nחיים. הם נעים במהירות, במרץ, במרץ\nהם מעורבים בפעילויות רבות. אנשים אשר ניקוד נמוך על זה\nבקנה מידה איטי יותר ויותר נינוח, רגוע קצב."
+      },
+      {
+        "facet": 5,
+        "title": "חיפוש ריגושים",
+        "text": "ציון גבוה בסולם זה בקלות\nמשועמם ללא רמות גבוהות של גירוי. הם אוהבים אורות בהירים\nואת המהומה ואת ההמולה. הם צפויים לקחת סיכונים ולחפש\nריגושים. קלעים נמוכים הם המום רעש ומהומה והם\nשלילי כדי ריגוש המבקשים."
+      },
+      {
+        "facet": 6,
+        "title": "עליזות",
+        "text": "סולם זה מודד מצב רוח חיובי\nרגשות, לא רגשות שליליים (שהם חלק\nתחום נוירוטיזם). אנשים אשר ציון גבוה בסולם זה בדרך כלל\nלחוות מגוון של רגשות חיוביים, כולל אושר,\nהתלהבות, אופטימיות ושמחה. ציון נמוך אינם נוטים כזה\nאנרגטית, רוחות גבוהות."
+      }
+    ]
+  },
+  {
+    "domain": "N",
+    "title": "נוירוטיזם",
+    "shortDescription": "נוירוטיזם מתייחס לנטייה לחוות רגשות שליליים.",
+    "description": "פרויד השתמש במקור במונח נוירוזה כדי לתאר א\nמצב המסומן במצוקה נפשית, סבל נפשי ו\nחוסר היכולת להתמודד בצורה יעילה עם הדרישות הרגילות של החיים. הוא\nהציע שכולם יראו סימנים של נוירוזה, אבל זה אנחנו\nשונים במידת הסבל שלנו ואת הסימפטומים הספציפיים שלנו\nמְצוּקָה. היום נוירוטיזם מתייחס לנטייה לחוות\nרגשות שליליים. <br /> <br /> אלה אשר ניקוד גבוה על נוירוטיות עשוי\nניסיון בעיקר תחושה שלילית ספציפית כגון חרדה,\nכעס או דיכאון, אך סביר שהם יחוו כמה מהם\nרגשות. <br /> <br /> אנשים בעלי רמות גבוהות של נוירוטיות הם תגובה רגשית. הֵם\nלהגיב רגשית לאירועים שלא ישפיעו על רוב האנשים, ו\nהתגובות שלהם נוטות להיות אינטנסיביות יותר מהרגיל. הם יותר\nסביר לפרש מצבים רגילים כמאיימים, וקטנים\nהתסכולים קשים עד כדי תקווה. <br /> <br /> הרגשות השליליים שלהם\nהתגובות נוטות להתעקש על תקופות זמן ארוכות במיוחד, אשר\nכלומר, הם במצב רוח רע. בעיות אלה רגשית\nהרגולציה יכולה להפחית את יכולתו של הנוירוטי לחשוב בבהירות\nהחלטות, להתמודד בצורה יעילה עם מתח",
+    "results": [
+      {
+        "score": "low",
+        "text": "הציון שלך על נוירוטיזם הוא נמוך, המציין כי אתה\nרגוע באופן יוצא דופן, מורכב ולא ניתן להחלפה. אתה לא מגיב\nרגשות עזים, אפילו למצבים שרוב האנשים יתארו\nמלחיץ."
+      },
+      {
+        "score": "neutral",
+        "text": "הציון שלך על נוירוטיזם הוא ממוצע, המציין כי רמת שלך\nתגובתיות רגשית אופיינית לכלל האוכלוסייה.\nמצבים מלחיצים ומתסכלים מרגיזים אותך במקצת,\nאבל בדרך כלל אפשר להתגבר על הרגשות האלה ולהתמודד אתם\nבמצבים אלה."
+      },
+      {
+        "score": "high",
+        "text": "הציון שלך על נוירוטיזם הוא גבוה, המציין כי אתה בקלות\nנסער, אפילו על ידי מה שרוב האנשים רואים את הדרישות הרגילות של\nחַי. אנשים חושבים שאתה רגיש ורגשי."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "חרדה",
+        "text": "מערכת \"להילחם או הטיסה\" של המוח של חרדה\nאנשים הוא קל מדי לעתים קרובות מדי עוסקת. לכן, אנשים אשר\nהם גבוהים חרדה לעתים קרובות מרגיש כמו משהו מסוכן עומד לקרות.\nהם עלולים לפחד ממצבים ספציפיים או להיות פשוט חוששים בדרך כלל.\nהם מרגישים מתוחים, עצבניים ועצבניים. אנשים עם חרדה נמוכה הם בדרך כלל\nרגוע וחסר פחד."
+      },
+      {
+        "facet": 2,
+        "title": "כעס",
+        "text": "אנשים שמקבלים ציון גבוה באנגר מרגישים זועמים מתי\nדברים לא הולכים בדרכם. הם רגישים כלפי טיפול הוגן\nומרגישים טינה ומרירות כאשר הם מרגישים שמרמים אותם.\nסולם זה מודד את הנטייה להרגיש כעס; בין אם\nאדם מבטא מטרד ועוינות תלוי של הפרט\nרמה על הסכמה. ציון נמוך לא מתרגזים לעתים קרובות או בקלות."
+      },
+      {
+        "facet": 3,
+        "title": "דכאונות",
+        "text": "סולם זה מודד את הנטייה להרגיש עצובים, מדוכאים,\nו להרתיע. ניקוד גבוה חסר אנרגיה וקשה ליזום\nפעילויות. ציון נמוך נוטים להיות חופשיים מן הרגשות האלה דיכאוניים."
+      },
+      {
+        "facet": 4,
+        "title": "מודעות עצמיץ",
+        "text": "אנשים בעלי מודעות עצמית רגישים\nעל מה שאחרים חושבים עליהם. החשש שלהם לגבי דחייה ו\nללעג לגרום להם להרגיש ביישן ולא נוח בשפע אחרים. הֵם\nמתביישים בקלות ולעתים קרובות מתביישים. הפחדים שלהם כי אחרים\nיבקרו או יגחקו עליהם מוגזמים ולא מציאותיים, אבל\nחוסר הנוחות והאי-נוחות עלולים להפוך את הפחדים האלה להגשמה עצמית\nנְבוּאָה. לעומת זאת, קלעים נמוכים אינם סובלים מהטעות\nהרושם שכולם צופים ושופטים אותם. הם לא מרגישים\nעצבני במצבים חברתיים."
+      },
+      {
+        "facet": 5,
+        "title": "אימפרציה",
+        "text": "אנשים חסרי תחושה חשים תשוקה עזה\nדוחק כי הם מתקשים להתנגד. הם נוטים להיות\nמכוונת לתענוגות קצרי טווח ולתגמולים ולא לטווח ארוך,\nלטווח הארוך. קלעים נמוכים לא חווים  חזק, שאין לעמוד בפניו\nהתשוקה ולכן אינם מוצאים עצמם מתפתים להתרברב."
+      },
+      {
+        "facet": 6,
+        "title": "פגיעות",
+        "text": "ציון גבוה על חוויית הפגיעות\nפאניקה, בלבול וחוסר אונים בעת לחץ או לחץ.\nמקלטים נמוכים מרגישים יותר שקולים, בטוחים וחושבים בהירה\nלחוץ."
+      }
+    ]
+  },
+  {
+    "domain": "C",
+    "title": "Conscientiousness",
+    "shortDescription": "Conscientiousness concerns the way in which we control, regulate, and direct our impulses.",
+    "description": "Impulses are not inherently bad;\noccasionally time constraints require a snap decision, and acting on\nour first impulse can be an effective response. Also, in times of\nplay rather than work, acting spontaneously and impulsively can be\nfun. Impulsive individuals can be seen by others as colorful,\nfun-to-be-with, and zany.\n<br /><br />\nNonetheless, acting on impulse can lead to trouble in a number of\nways. Some impulses are antisocial. Uncontrolled antisocial acts\nnot only harm other members of society, but also can result in\nretribution toward the perpetrator of such impulsive acts. Another\nproblem with impulsive acts is that they often produce immediate\nrewards but undesirable, long-term consequences. Examples include\nexcessive socializing that leads to being fired from one's job,\nhurling an insult that causes the breakup of an important\nrelationship, or using pleasure-inducing drugs that eventually\ndestroy one's health.\n<br /><br />\nImpulsive behavior, even when not seriously destructive, diminishes\na person's effectiveness in significant ways. Acting impulsively\ndisallows contemplating alternative courses of action, some of which\nwould have been wiser than the impulsive choice. Impulsivity also\nsidetracks people during projects that require organized sequences\nof steps or stages. Accomplishments of an impulsive person are\ntherefore small, scattered, and inconsistent.\n<br /><br />\nA hallmark of intelligence, what potentially separates human beings\nfrom earlier life forms, is the ability to think about future\nconsequences before acting on an impulse. Intelligent activity\ninvolves contemplation of long-range goals, organizing and planning\nroutes to these goals, and persisting toward one's goals in the face\nof short-lived impulses to the contrary. The idea that intelligence\ninvolves impulse control is nicely captured by the term prudence, an\nalternative label for the Conscientiousness domain. Prudent means\nboth wise and cautious.\n<br /><br/>\nPersons who score high on the\nConscientiousness scale are, in fact, perceived by others as intelligent.\nThe benefits of high conscientiousness are obvious. Conscientious\nindividuals avoid trouble and achieve high levels of success through\npurposeful planning and persistence. They are also positively\nregarded by others as intelligent and reliable. On the negative\nside, they can be compulsive perfectionists and workaholics.\nFurthermore, extremely conscientious individuals might be regarded\nas stuffy and boring.\n<br /><br />\nUnconscientious people may be criticized for\ntheir unreliability, lack of ambition, and failure to stay within\nthe lines, but they will experience many short-lived pleasures and\nthey will never be called stuffy.",
+    "results": [
+      {
+        "score": "low",
+        "text": "Your score on Conscientiousness is low, indicating you like to live\nfor the moment and do what feels good now. Your work tends to be\ncareless and disorganized."
+      },
+      {
+        "score": "neutral",
+        "text": "Your score on Conscientiousness is average. This means you are\nreasonably reliable, organized, and self-controlled."
+      },
+      {
+        "score": "high",
+        "text": "Your score on Conscientiousness is high. This means you set clear\ngoals and pursue them with determination. People regard you as\nreliable and hard-working."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Self-Efficacy",
+        "text": "Self-Efficacy describes confidence in one's ability\nto accomplish things. High scorers believe they have the intelligence\n(common sense), drive, and self-control necessary for achieving success.\nLow scorers do not feel effective, and may have a sense that they are not\nin control of their lives."
+      },
+      {
+        "facet": 2,
+        "title": "Orderliness",
+        "text": "Persons with high scores on orderliness are\nwell-organized. They like to live according to routines and schedules. They\nkeep lists and make plans. Low scorers tend to be disorganized and\nscattered."
+      },
+      {
+        "facet": 3,
+        "title": "Dutifulness",
+        "text": "This scale reflects the strength of a person's sense\n of duty and obligation. Those who score high on this scale have a strong\n sense of moral obligation. Low scorers find contracts, rules, and\n regulations overly confining. They are likely to be seen as unreliable or\n even irresponsible."
+      },
+      {
+        "facet": 4,
+        "title": "Achievement-Striving",
+        "text": "Individuals who score high on this\nscale strive hard to achieve excellence. Their drive to be recognized as\nsuccessful keeps them on track toward their lofty goals. They often have\na strong sense of direction in life, but extremely high scores may\nbe too single-minded and obsessed with their work. Low scorers are content\nto get by with a minimal amount of work, and might be seen by others\nas lazy."
+      },
+      {
+        "facet": 5,
+        "title": "Self-Discipline",
+        "text": "Self-discipline-what many people call\nwill-power-refers to the ability to persist at difficult or unpleasant\ntasks until they are completed. People who possess high self-discipline\nare able to overcome reluctance to begin tasks and stay on track despite\ndistractions. Those with low self-discipline procrastinate and show poor\nfollow-through, often failing to complete tasks-even tasks they want very\nmuch to complete."
+      },
+      {
+        "facet": 6,
+        "title": "Cautiousness",
+        "text": "Cautiousness describes the disposition to\nthink through possibilities before acting. High scorers on the Cautiousness\nscale take their time when making decisions. Low scorers often say or do\nfirst thing that comes to mind without deliberating alternatives and the\nprobable consequences of those alternatives."
+      }
+    ]
+  },
+  {
+    "domain": "O",
+    "title": "פתוח לחוויות",
+    "shortDescription": "פתיחות לחוויה מתארת מימד של סגנון קוגניטיבי שמבדיל בין אנשים דמיוניים ויצירתיים לבין אנשים רגילים.",
+    "description": "אנשים פתוחים הם סקרנים מבחינה אינטלקטואלית,\nהערכה של אמנות, רגיש יופי. הם נוטים להיות,\nלעומת אנשים סגורים, מודעים יותר לרגשותיהם. הם נוטים\nלחשוב ולפעול באופן אינדיווידואליסטי ולא מתפשר\nדרכים. אינטלקטואלים בדרך כלל ציון גבוה על פתיחות לחוויה;\nכתוצאה מכך, גורם זה נקרא גם תרבות או\nאינטלקט. <br /> <br /> יחד עם זאת, האינטלקט הוא כנראה הטוב ביותר נחשב היבט אחד של פתיחות\nלחוות. ציונים על פתיחות לחוויה הם רק בצניעות\nהקשורים שנים של חינוך וציונים על בדיקות אינטליגנטיות סטנדרטיות.\n<br /> <br />\nמאפיין נוסף של הסגנון הקוגניטיבי הפתוח הוא מתקן לחשיבה\nבסמלים ובהפשטות רחוקים מהניסיון הקונקרטי. תלוי ב\nיכולותיו האינטלקטואליות הספציפיות של היחיד, יכולה להיות הכרה סמלית זו\nלובשים צורה של חשיבה מתמטית, לוגית או גיאומטרית, אמנותית ו\nשימוש מטאפורי של שפה, הרכב מוסיקה או ביצועים, או אחד\nאמנות חזותית או ביצוע רבים.\n<br /> <br />\nאנשים עם ציונים נמוכים על פתיחות לחוות נוטים להיות צרים, נפוצים\nאינטרסים. הם מעדיפים את פשוט, פשוט, ברור על פני\nמורכבת, מעורפלת, מתוחכמת. הם יכולים לראות את האמנות והמדעים עם\nבחשדנות, ביחס למאמצים אלה כמשתמטים או ללא שימוש מעשי.\nאנשים סגורים מעדיפים היכרות על חידוש; הם שמרנים\nעמיד בפני שינוי.\n<br /> <br />\nפתיחות מוצגת לעתים קרובות יותר בריאה או בוגרת יותר על ידי פסיכולוגים, מי\nהם לעתים קרובות עצמם פתוחים לחוות. עם זאת, סגנונות פתוחים וסגורים של\nחשיבה שימושית בסביבות שונות. הסגנון האינטלקטואלי של\nאדם פתוח יכול לשמש פרופסור היטב, אך מחקרים הראו כי סגור\nהחשיבה קשורה בביצוע עבודה מעולה בעבודה המשטרה, מכירות, ו\nמספר מקצועות שירות.",
+    "results": [
+      {
+        "score": "low",
+        "text": "הציון שלך על פתיחות לחוויה הוא נמוך, המציין שאתה אוהב לחשוב\nפשוט ופשוט. אחרים מתארים אותך כמו על הקרקע, מעשי,\nו שמרני."
+      },
+      {
+        "score": "neutral",
+        "text": "הציון שלך על פתיחות לחוויה הוא ממוצע, המציין שאתה נהנה\nאבל הם מוכנים לנסות דברים חדשים. החשיבה שלך היא לא\nפשוט ולא מורכב. לאחרים אתה נראה אדם משכיל\nאבל לא אינטלקטואל."
+      },
+      {
+        "score": "high",
+        "text": "הציון שלך על פתיחות לחוויה הוא גבוה, המציין שאתה נהנה חידוש,\nמגוון, שינוי. אתה סקרן, דמיון ויצירתי."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "דמיון",
+        "text": "לאנשים אמיתיים, העולם האמיתי הוא\nלעתים קרובות מדי רגיל רגיל. ניקוד גבוה בקנה מידה זה להשתמש פנטזיה כמו\nדרך ליצירת עולם עשיר, מעניין יותר. ניקוד נמוך הם על זה\nבקנה מידה יותר מכוונת לעובדות מאשר פנטזיה."
+      },
+      {
+        "facet": 2,
+        "title": "עניין אומנותי",
+        "text": "ניקוד גבוה על היופי הזה יופי אהבה, הן ב\nהאמנות והטבע. הם נעשים בקלות וקלטים באמנות\nואירועים טבעיים. הם לא בהכרח מאומנים בצורה אומנותית ולא\nמוכשר, אם כי רבים יהיו. המאפיינים המגדירים של סולם זה הם\nעניין, הערכה של הטבע\nיופי מלאכותי. לניקויים נמוכים חסרים רגישות ועניין אסתטיים\nהאומנויות."
+      },
+      {
+        "facet": 3,
+        "title": "רגשיות",
+        "text": "לאנשים בעלי רמת רגש גבוהה יש גישה טובה\nאל המודעות והרגשות שלהם. ציון נמוך פחות מודעים\nהרגשות שלהם נוטים לא להביע את רגשותיהם בגלוי."
+      },
+      {
+        "facet": 4,
+        "title": "הרפתקנות",
+        "text": "אנשים בעלי ניקוד גבוה על הרפתקנות הם להוטים\nלנסות פעילויות חדשות, לנסוע לארצות זרות, ניסיון שונה\nדברים. הם מוצאים היכרות משעמם שגרתית, ויקח חדש\nהמסלול הביתה רק בגלל זה שונה. נמוך scorers נוטים להרגיש\nלא נוח עם שינוי ומעדיפים שגרות מוכרות."
+      },
+      {
+        "facet": 5,
+        "title": "אינטלקט",
+        "text": "אינטלקט ואינטרסים אמנותיים הם השניים ביותר\nהיבטים חשובים, מרכזיים של פתיחות להתנסות. ניקוד גבוה\nאינטלקט אוהב לשחק עם רעיונות. הם פתוחים לחדשים ולא יוצאי דופן\nרעיונות ורוצים לדון בסוגיות אינטלקטואליות. הם נהנים חידות, פאזלים,\nואת טייסס המוח. ציון נמוך על אינטלקט מעדיפים להתמודד עם אחד\nאנשים או דברים במקום רעיונות. הם מתייחסים לתרגילים אינטלקטואליים כאל\nבזבוז זמן. אינטלקט לא צריך להיות שווה עם אינטליגנציה.\nהאינטלקט הוא סגנון אינטלקטואלי, לא יכולת אינטלקטואלית, אם כי\nציון גבוה על ניקוד אינטלקט מעט גבוה יותר מאשר אינטלקט נמוך\nאנשים על בדיקות מודיעיניות סטנדרטיות."
+      },
+      {
+        "facet": 6,
+        "title": "ליברליזם",
+        "text": "הליברליזם הפסיכולוגי מתייחס לנכונות\nאתגר סמכות, מוסכמה וערכים מסורתיים. הכי הרבה שלה\nקיצונית, הליברליזם הפסיכולוגי יכול אפילו לייצג באופן גלוי\nעוינות לכללים, אהדה לשוברים חוק, ואהבת עמימות,\nכאוס והפרעה. השמרנים הפסיכולוגיים מעדיפים את הביטחון\nיציבות הנובעת מהתאמה למסורת. ליברליזם פסיכולוגי\nהשמרנות אינה זהה לזיקה הפוליטית, אבל בהחלט\nאנשים משופעים כלפי מפלגות מסוימות."
+      }
+    ]
+  }
+]
