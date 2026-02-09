@@ -1,0 +1,4 @@
+ignoredBuiltDependencies:
+  - contentlayer
+  - esbuild
+  - protobufjs

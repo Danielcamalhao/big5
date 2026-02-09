@@ -1,30 +1,68 @@
-# Big Five personality traits
+# bigfive-web
 
-The project implements a website with a quiz: 120 questions of [The Big Five Test](https://en.wikipedia.org/wiki/Big_Five_personality_traits) and summary.
+https://bigfive-test.com
 
-## Live demo
-The website is hosted on the Github pages at [https://bigfive.top/](https://bigfive.top/)
+Website for five factor model of personality based on work from [IPIP-NEO-PI](https://github.com/kholia/IPIP-NEO-PI).
 
-## Sources
-- [Questions](https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r)
-- [Result Texts](https://github.com/Alheimsins/b5-result-text)
-- [Calculation](https://github.com/Alheimsins/bigfive-calculate-score)
+Tests and evaluation is gathered from [ipip.ori.org](http://ipip.ori.org).
 
-## Database
-The application gets data info from https://github.com/lis-dev/big5-data repository. This behavior can be changed via `REACT_APP_QUIZ_SERVER_URL` environment variable
+See it live @ [bigfive-test.com](https://bigfive-test.com)
 
-## Localization
-All supported languages can be found on https://github.com/lis-dev/big5-data/tree/master/data/result . The default language is `en` (can be changed via `REACT_APP_DEFAULT_LANG` environment variable)
+The frontend is written in [nodejs](https://nodejs.org) using the
+[Next.js](https://nextjs.org/) framework.
 
-## Stack
-- TypeScript
-- NodeJs
+## Installation
 
-## Main dependencies
-- [React](https://reactjs.org/), [React Create App](https://github.com/facebook/create-react-app)
-- [Tailwind](https://tailwindcss.com)
-- [Kutty](https://kutty.netlify.app/docs/)
-- [Vatio](https://github.com/pmndrs/valtio/)
+Download and install [nodejs](https://nodejs.org),
+[git](https://git-scm.com/downloads) and [vercel-cli](https://vercel.com/download)
 
-## Deployment
-For deploying to Github Pages run `yarn deploy`
+Install [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#debian-stable)
+
+```
+npm install --global yarn
+```
+
+Install docker and docker-compose
+
+The results are saved to a [mongodb](https://www.mongodb.com/) database, so for a full test you either need a running mongodb or an instance at [mlab](https://mlab.com/)
+
+## Development
+
+add .env.local file
+
+```
+NEXT_PUBLIC_ENV=development
+DB_URL=mongodb://root:example@localhost:27017
+DB_NAME=b5
+DB_COLLECTION=results
+```
+
+Run the setup script to install all dependencies
+
+```
+yarn
+```
+
+Start mongodb server
+
+```
+docker-compose up -d
+```
+
+Run the development server
+
+```
+yarn dev
+```
+
+## Linting
+
+Run the linter
+
+```
+yarn lint && yarn format:fix
+```
+
+## License
+
+Licensed under the [MIT license](../LICENSE).

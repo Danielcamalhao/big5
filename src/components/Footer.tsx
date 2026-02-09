@@ -1,42 +1,79 @@
-import React, { MouseEvent } from 'react'
-import { getTelegraphPage } from '../api/ApiPages'
-import { state } from '../state'
-import { PageLinks } from '../types'
+import { Link as NextUILink } from '@nextui-org/link';
+import { Link } from '../navigation';
 
-// TODO Unharcode
-const termPages: PageLinks[] = [
-  { title: 'Terms', url: 'https://telegra.ph/Terms-and-Conditions-11-23' },
-  { title: 'Privacy', url: 'https://telegra.ph/Privacy-Policy-11-23-13' },
-]
+import {
+  TwitterIcon,
+  GithubIcon,
+  LinkedInIcon,
+  FacebookIcon,
+  Logo
+} from '@/components/icons';
+import { siteConfig } from '@/config/site';
 
-export function Footer() {
+interface FooterProps {
+  footerLinks: {
+    label: string;
+    href: string;
+  }[];
+}
+
+export default function Footer({ footerLinks }: FooterProps) {
+  const year = new Date().getFullYear();
   return (
-    <footer className="px-4 py-12 mx-auto max-w-7xl">
-      <div className="flex flex-col items-start justify-between pt-10 mt-10 border-t border-gray-100 md:flex-row md:items-center">
-        <p className="mb-6 text-sm text-left text-gray-600 md:mb-0">
-          © Copyright {new Date().getFullYear()}{' '}
-          <a href="https://github.com/lis-dev">lis-dev</a>
-        </p>
-        <div className="flex items-start justify-start space-x-6 md:items-center md:justify-center">
-          {termPages.map((link) => (
-            <a
-              key={link.title}
-              onClick={(e) => {
-                goToPage(e)
-              }}
-              href={link.url}
-              className="text-sm text-gray-600 transition hover:text-primary"
-            >
-              {link.title}
-            </a>
-          ))}
+    <footer className='container mx-auto max-w-7xl py-24 px-12'>
+      <div className='container mx-auto flex justify-between'>
+        <div className='w-1/2'>
+          <span className='text-center'>
+            <Logo />
+          </span>
+        </div>
+        <div className='w-1/2 flex justify-end'>
+          <NextUILink
+            isExternal
+            href={siteConfig.links.twitter}
+            aria-label='Twitter'
+          >
+            <TwitterIcon size={48} className='text-default-500' />
+          </NextUILink>
+          <NextUILink
+            isExternal
+            href={siteConfig.links.github}
+            aria-label='Github'
+          >
+            <GithubIcon size={48} className='text-default-500' />
+          </NextUILink>
+          <NextUILink
+            isExternal
+            href={siteConfig.links.linkedIn}
+            aria-label='LinkedIn'
+          >
+            <LinkedInIcon size={48} className='text-default-500' />
+          </NextUILink>
+          <NextUILink
+            isExternal
+            href={siteConfig.links.facebook}
+            aria-label='Facebook'
+          >
+            <FacebookIcon size={48} className='text-default-500' />
+          </NextUILink>
         </div>
       </div>
+
+      <div className='w-full flex justify-center mt-12'>
+        <ul className='flex mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0'>
+          {footerLinks.map((item, index) => (
+            <li key={index}>
+              <Link href={item.href} className='hover:underline me-4 md:me-6'>
+                {item.label}
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <div className='flex text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:py-2 mt-14 justify-center'>
+        © {year} — B5 Holding AS - all rights reserved.
+      </div>
     </footer>
-  )
-}
-async function goToPage(e: MouseEvent) {
-  e.preventDefault()
-  const href = (e.target as any).getAttribute('href')
-  state.page = await getTelegraphPage(href)
+  );
 }
