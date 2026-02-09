@@ -14,5 +14,6 @@ export const languages: Languages = {
   it: 'Italiano',
   nl: 'Nederlands',
   no: 'Norsk',
+  pt: 'Português',
   'pt-br': 'Português do Brasil',
 }

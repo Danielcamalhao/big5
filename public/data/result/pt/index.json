@@ -1,0 +1,262 @@
+[
+  {
+    "domain": "A",
+    "title": "Amabilidade",
+    "shortDescription": "Pessoas agradáveis, simpáticas e preocupadas com a cooperação e a harmonia social. Relacionam-se bem com os outros.",
+    "description": "São atenciosas, amigáveis, generosas e comprometem-se com os interesses do próximo. Pessoas com este perfil têm uma visão otimista sobre a humanidade. Acreditam que as pessoas são honestas, decentes e dignas de confiança por natureza. Já os que não se enquadram neste perfil são considerados mais individualistas, colocam o interesse próprio acima do interesse alheio e geralmente não se preocupam com o bem-estar dos outros, nem estão dispostos a ajudar. Por vezes, a sua desconfiança faz com que suspeitem dos outros, sejam hostis e não pensem na cooperação.\nA amabilidade é uma virtude para alcançar e manter popularidade. Pessoas amáveis tendem a conquistar admiração sem terem de se esforçar para isso. Por outro lado, essa busca por aceitação pode atrapalhar em situações que requerem decisões objetivas e mais complexas, pois a opinião externa e a harmonia entre os demais pesam mais do que o seu próprio ponto de vista. Esforçam-se demasiado para que as suas ações agradem à maioria.",
+    "results": [
+      {
+        "score": "low",
+        "text": "A sua pontuação para amabilidade é baixa, indicando que se preocupa mais com as próprias necessidades do que com as dos outros. As pessoas podem considerá-lo(a) rigoroso(a), crítico(a) e inflexível."
+      },
+      {
+        "score": "neutral",
+        "text": "O seu nível de amabilidade é médio, indicando que se preocupa com as necessidades alheias, mas dificilmente se sacrifica para as satisfazer ou agradar aos outros."
+      },
+      {
+        "score": "high",
+        "text": "O seu alto nível de amabilidade indica um forte interesse em atender às necessidades dos outros, promover o bem-estar de quem o(a) rodeia e a cooperação. É agradável, simpático(a) e solidário(a)."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Confiança",
+        "text": "Quem pontua alto para confiança normalmente acredita que a maioria das pessoas são justas, honestas e bem-intencionadas por natureza. Pessoas com baixa pontuação são desconfiadas, veem os outros como egoístas, desonestos e perigosos."
+      },
+      {
+        "facet": 2,
+        "title": "Moralidade",
+        "text": "Pessoas que se baseiam na ética e na justiça, sinceras e francas. Este grupo tem facilidade em lidar com outras pessoas e normalmente não gosta de manipulações nas relações. Pontuação baixa caracteriza pessoas que acreditam ser necessário ou comum que as relações sociais causem deceções."
+      },
+      {
+        "facet": 3,
+        "title": "Altruísmo",
+        "text": "Sentem-se recompensadas ao ajudar outras pessoas como forma de autorrealização, fortemente movidas pela compaixão e dedicadas a promover o bem-estar dos outros. Extremamente generosas e dispostas a ajudar quem está em necessidade. Pontuação baixa para altruísmo indica pessoas que não se sentem bem a ajudar os necessitados. Ajudar parece mais uma obrigação do que uma ação gratificante."
+      },
+      {
+        "facet": 4,
+        "title": "Cooperação",
+        "text": "Indivíduos que não gostam de confrontos ou agressividade. Preferem comprometer ou negar as suas próprias necessidades se isso resultar em harmonia entre os demais. Já os que pontuam pouco são mais propensos a intimidar os outros para conseguir o que querem."
+      },
+      {
+        "facet": 5,
+        "title": "Modéstia",
+        "text": "Pessoas que falam das suas realizações com bastante humildade. Não gostam de ser consideradas superiores ou melhores do que os outros. Em alguns casos, esta atitude pode ocasionar baixa autoconfiança ou autoestima. Os que têm pontuação baixa consideram-se superiores e podem ser vistos como arrogantes por outras pessoas."
+      },
+      {
+        "facet": 6,
+        "title": "Empatia",
+        "text": "Pontuação alta indica capacidade de se pôr no lugar do outro. Sentem a dor alheia com compaixão e preocupam-se com os demais. O sofrimento humano é algo que os afeta fortemente. Os que pontuam baixo nesta competência não se afetam muito pelo sofrimento humano. Acreditam na meritocracia e que os julgamentos devem basear-se na razão. Estão mais preocupados com a verdade e a justiça imparcial do que com a misericórdia."
+      }
+    ]
+  },
+  {
+    "domain": "E",
+    "title": "Extroversão",
+    "shortDescription": "A extroversão é marcada pela sociabilidade e pelo envolvimento com o mundo exterior.",
+    "description": "Os extrovertidos gostam de estar rodeados de pessoas, são cheios de energia e normalmente os seus dias são carregados de emoções positivas. Tendem a ser animados e orientados para a ação. É provável ouvi-los dizer palavras motivadoras como \"Vamos a isso!\" Quando estão em grupo, gostam de falar, de se destacar e de chamar a atenção. Ao contrário, os introvertidos tendem a ser discretos e mais sossegados, gostam de passar o tempo sozinhos. A sua falta de envolvimento social não deve ser interpretada como timidez ou depressão. O introvertido simplesmente precisa de menos estímulo do que um extrovertido e prefere a sua própria companhia. A independência e reserva do introvertido é por vezes confundida com falta de amizade ou arrogância. Na verdade, um introvertido que pontua alto na amabilidade é o tipo de pessoa que não procura a ajuda de outros, mas será bastante simpático e solícito quando o chamarem.",
+    "results": [
+      {
+        "score": "low",
+        "text": "A sua pontuação para extroversão é baixa, indicando que tende a ser mais introvertido(a), reservado(a) e tranquilo(a). Aprecia a solidão e atividades individuais. Ter alguns amigos próximos já é um grande nível de socialização para si."
+      },
+      {
+        "score": "neutral",
+        "text": "A sua pontuação para extroversão é média, indicando que não é nem muito tímido(a) nem o(a) mais comunicativo(a) do seu grupo. Aproveita o tempo com outros, mas também gosta de estar sozinho(a)."
+      },
+      {
+        "score": "high",
+        "text": "A sua pontuação para extroversão é alta, indicando que é bastante sociável, extrovertido(a), enérgico(a) e animado(a). Prefere estar perto de pessoas a maior parte do tempo."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Simpatia",
+        "text": "Pessoas amigáveis, que fazem amigos rapidamente e com muita facilidade. Os que pontuam baixo para simpatia não são necessariamente frios e hostis, são apenas menos comunicativos, mais distantes e reservados."
+      },
+      {
+        "facet": 2,
+        "title": "Sociabilidade",
+        "text": "Preferência pela companhia dos outros e evitam estar sozinhos. Sentem-se bem em multidões. Já os que pontuam pouco tendem a sentir-se tensos em grandes multidões e por isso evitam aglomerações. Não são antissociais ou antipáticos, apenas sentem mais necessidade de privacidade e tempo para si mesmos do que as pessoas que têm pontuação alta."
+      },
+      {
+        "facet": 3,
+        "title": "Assertividade",
+        "text": "Gostam de assumir o comando e direcionar as atividades dos outros. Tendem a conquistar cargos de liderança e a dominar situações sociais. Já as pessoas com pontuação baixa tendem a ser mais quietas e não se incomodam quando os outros comandam as atividades em grupo."
+      },
+      {
+        "facet": 4,
+        "title": "Atividade",
+        "text": "Pessoas com estilo de vida acelerado e propensas a estarem ativas. Gostam de estar em movimento e normalmente estão envolvidas em muitas atividades ao mesmo tempo. Pessoas com pontuação baixa seguem um ritmo mais lento e tranquilo, são mais relaxadas."
+      },
+      {
+        "facet": 5,
+        "title": "Busca de Sensações",
+        "text": "Alegres e estimuladas. Têm preferência por barulho. Ficam entediadas facilmente, adoram luzes brilhantes e movimento. São mais propensas a arriscar-se e a viver fortes emoções. Os que pontuam baixo não gostam de barulho e tumulto e fogem de experiências com fortes emoções."
+      },
+      {
+        "facet": 6,
+        "title": "Emoções Positivas",
+        "text": "Pessoas bem-dispostas, bem-humoradas, lidam com as situações com emoções positivas como felicidade, entusiasmo e alegria. As pessoas que alcançam uma pontuação baixa não têm um temperamento tão enérgico e bem-disposto."
+      }
+    ]
+  },
+  {
+    "domain": "N",
+    "title": "Neuroticismo",
+    "shortDescription": "Neuroticismo: tendência a sentir emoções negativas.",
+    "description": "O termo neurose foi utilizado por Freud para descrever uma condição marcada por sofrimento mental e emocional, e pela incapacidade de lidar com as circunstâncias normais da vida. O psicanalista defendia a ideia de que todos os seres humanos mostram alguns sinais de neurose, mas que cada indivíduo lida de maneira diferente com o sofrimento e tem sintomas específicos quando em situações de perigo. Hoje, a psicologia retrata o neuroticismo como a tendência à experiência de sentimentos negativos. As pessoas com esta personalidade tendem a sentir, dentro desses sentimentos negativos, ansiedade, raiva ou depressão. São pessoas emocionalmente reativas, ou seja, respondem emocionalmente a acontecimentos que não afetariam a maioria das pessoas, e as suas reações tendem a ser mais intensas do que o normal. Interpretam situações comuns como ameaçadoras e pequenas frustrações são extremamente difíceis de gerir. As reações negativas tendem a persistir por períodos longos de tempo, o que significa que estão frequentemente de mau humor. Estes problemas emocionais podem diminuir a capacidade de pensar com clareza, tomar decisões e lidar com o stress.",
+    "results": [
+      {
+        "score": "low",
+        "text": "A sua pontuação para neuroticismo é baixa, indicando que é bastante calmo(a), equilibrado(a) e estável. Não reage com emoções intensas em situações difíceis. Em momentos de stress tende a ser bastante tranquilo(a) e não responde emocionalmente com raiva. Geralmente confia na sua capacidade de lidar com situações adversas ou desconfortáveis."
+      },
+      {
+        "score": "neutral",
+        "text": "A sua pontuação para neuroticismo é média, indicando que o seu nível de reatividade emocional é típico da população em geral. Situações stressantes e frustrantes são um pouco perturbadoras para si, mas geralmente é capaz de superar esses sentimentos e lidar bem com essas situações."
+      },
+      {
+        "score": "high",
+        "text": "A sua pontuação para neuroticismo é alta, indicando que tende a experimentar emoções negativas muito intensas e tem dificuldade em controlá-las quando surgem. As pessoas consideram-no(a) sensível e emotivo(a). Pessoas com esta personalidade são mais vulneráveis à angústia psicológica do que os indivíduos que pontuam mais baixo."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Ansiedade",
+        "text": "Tipo de pessoa que está sempre em alerta. Sente ansiedade e que algo perigoso está prestes a acontecer. São mais propensas a sentir medo e tensão em situações comuns. Pessoas com baixa pontuação para ansiedade geralmente não têm medo, são calmas e tranquilas."
+      },
+      {
+        "facet": 2,
+        "title": "Raiva",
+        "text": "As pessoas com alta pontuação nesta categoria frustram-se quando as coisas não correm como querem e têm tendência a sentir amargura e raiva. Gostam de ser tratadas de forma justa e sentem-se injustiçadas quando enganadas. Pessoas com pontuação baixa dificilmente sentem raiva."
+      },
+      {
+        "facet": 3,
+        "title": "Melancolia",
+        "text": "Pontuações altas identificam pessoas que têm dificuldade em iniciar atividades e propensão maior a experimentar sintomas depressivos, como perda de energia, dificuldade de concentração e problemas com o sono. Já as pessoas com pontuação baixa tendem a não sentir estes sentimentos depressivos."
+      },
+      {
+        "facet": 4,
+        "title": "Autoconsciência",
+        "text": "Pessoas autoconscientes são sensíveis ao que os outros pensam delas. A sua preocupação com a rejeição e o ridículo faz com que se sintam tímidas e desconfortáveis em público. Têm tendência a sentir vergonha. Os que pontuam baixo não se preocupam com a opinião dos outros e sentem-se à vontade em situações sociais."
+      },
+      {
+        "facet": 5,
+        "title": "Impulsividade",
+        "text": "Pessoas impulsivas são incapazes de controlar desejos ou impulsos. Sentem dificuldade em resistir a vontades. Tendem a satisfazer os seus prazeres e procuram recompensas instantâneas em vez de a longo prazo. Já pessoas pouco impulsivas não experimentam necessidades exageradas ou desejos impossíveis de resistir, por esse motivo costumam ser mais moderadas."
+      },
+      {
+        "facet": 6,
+        "title": "Vulnerabilidade",
+        "text": "Pessoas que pontuam alto nesta competência têm dificuldade em lidar com o stress. Estão mais propensas a passar por situações de pânico, confusão e desamparo quando sob pressão. Pessoas com pouca pontuação para vulnerabilidade sentem-se mais equilibradas, confiantes e pensam com clareza quando passam por momentos de stress."
+      }
+    ]
+  },
+  {
+    "domain": "C",
+    "title": "Conscienciosidade",
+    "shortDescription": "Diz respeito à forma como controlamos, conduzimos e direcionamos os nossos impulsos.",
+    "description": "A conscienciosidade gira em torno da ideia de organização e perseverança. Indivíduos conscienciosos são normalmente considerados inteligentes, pois idealizam metas a longo prazo, planeiam como vão alcançar os seus objetivos e persistem até concluí-los. Por esse motivo, a sua inteligência também está ligada à capacidade de controlar impulsos. São extremamente capazes de pensar sobre consequências futuras antes de agir. Em vez de procurar recompensas rápidas, o consciencioso tende a dedicar-se a grandes projetos, onde é devidamente cauteloso nas suas atividades. As pessoas consideram-no prudente e sábio. Os benefícios de ser uma pessoa desta categoria é a consciência dos seus atos, pois evitam problemas e ajuda-os a alcançar altos níveis de assertividade e sucesso através de planeamento, propósito e persistência. Também são considerados extremamente fiáveis. Porém, podem ser perfeccionistas, obcecados e viciados em trabalho. Já as pessoas que não estão nesta categoria podem ser criticadas por não serem tão fiáveis, terem pouca ou nenhuma ambição e por serem desobedientes. Agem sem pensar. Porém, ao agir com espontaneidade e impulsivamente, podem ser considerados divertidos e alegres.",
+    "results": [
+      {
+        "score": "low",
+        "text": "A sua pontuação em conscienciosidade é baixa, indicando que gosta de viver o momento e faz as coisas de maneira impulsiva. O seu trabalho tende a ser desorganizado e costumam avaliá-lo(a) como descuidado(a)."
+      },
+      {
+        "score": "neutral",
+        "text": "A sua pontuação em conscienciosidade é média. Isso significa que é razoavelmente organizado(a) e tem autocontrolo."
+      },
+      {
+        "score": "high",
+        "text": "A sua pontuação em conscienciosidade é alta. É uma pessoa que define bem os seus objetivos e os realiza com determinação. Consideram-no(a) fiável e trabalhador(a)."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Autoeficácia",
+        "text": "Quem pontua alto normalmente tem confiança para realizar as coisas. Sente-se capaz, acredita que tem a inteligência (senso comum) e autocontrolo necessários para alcançar o sucesso e lida tranquilamente com os desafios e dificuldades da vida. Pessoas com pontuação baixa não se sentem eficazes e podem sentir-se perdidas, como se não estivessem no controlo das suas vidas."
+      },
+      {
+        "facet": 2,
+        "title": "Ordem",
+        "text": "Pontuação alta indica clareza e abordagem metódica das tarefas. Estas pessoas gostam de viver de acordo com rotinas e horários, costumam criar listas e fazer planeamento. Organização é o seu lema. Pessoas com baixa pontuação tendem a ser desorganizadas e dispersas."
+      },
+      {
+        "facet": 3,
+        "title": "Sentido de Dever",
+        "text": "Pessoas conscienciosas, muito apegadas aos seus valores. Valorizam o dever e a obrigação. Têm um forte sentido de moral. Pessoas com pontuação baixa consideram regras, contratos e regulamentações exageradas, podendo ser vistas como não fiáveis ou até mesmo irresponsáveis."
+      },
+      {
+        "facet": 4,
+        "title": "Empenho",
+        "text": "Disposição para trabalhar arduamente e motivados por metas (esforçam-se para alcançar a excelência). Gostam de se sentir reconhecidos e têm objetivos claros na vida. Por vezes, a busca pela perfeição torna-os viciados em trabalho, obcecados com as suas tarefas. Pessoas que pontuam pouco nesta competência sentem-se realizadas quando cumprem determinada tarefa com o mínimo de trabalho ou esforço, podendo ser vistas como preguiçosas."
+      },
+      {
+        "facet": 5,
+        "title": "Autodisciplina",
+        "text": "Alta capacidade de prosseguir com as tarefas e limitar a distração. Mantêm-se persistentes mesmo em tarefas difíceis ou que não gostem de fazer. Não procrastinam para começar e finalizar tarefas e são extremamente focadas quando iniciam uma atividade. Aqueles com pouca autodisciplina procrastinam e têm mais dificuldade em acompanhar o ritmo. Muitas vezes não conseguem completar tarefas, mesmo as que querem muito finalizar."
+      },
+      {
+        "facet": 6,
+        "title": "Cautela",
+        "text": "Tendem a refletir cuidadosamente sobre as decisões antes de agir. Pensam nas possibilidades e consequências das ações antes de tomar uma decisão. Já os que pontuam baixo normalmente dizem ou fazem a primeira coisa que lhes vem à mente sem pensar muito nas consequências das suas palavras e ações."
+      }
+    ]
+  },
+  {
+    "domain": "O",
+    "title": "Abertura à Experiência",
+    "shortDescription": "Pessoas criativas, apreciadoras da arte e da beleza e que gostam do novo.",
+    "description": "A abertura à experiência retrata pessoas intelectualmente curiosas, apreciadoras da arte e sensíveis à beleza. Tendem a ser, em comparação com pessoas mais fechadas, mais conscientes dos seus sentimentos. Tendem a pensar e agir de maneira individualista. A abertura à experiência está ligada ao intelecto, a pessoas consideradas intelectuais. Outra característica desta categoria é a facilidade para assimilação de símbolos e do abstrato. Pessoas com notas baixas para abertura à experiência tendem a interessar-se pelo comum. Preferem o simples, direto e óbvio, são conservadoras e resistentes à mudança. Pessoas nesta categoria são normalmente consideradas mais maduras e adaptam-se com mais facilidade. No entanto, estilos de pensamento abertos e fechados são úteis em diferentes ambientes. O estilo intelectual da pessoa aberta pode servir bem a um professor, já o indivíduo que não pontua tanto para abertura à experiência pode desempenhar melhor no trabalho policial, vendas e numa série de outras ocupações.",
+    "results": [
+      {
+        "score": "low",
+        "text": "A sua pontuação para abertura à experiência é baixa, indicando que gosta de pensar em termos simples e claros. Descrevem-no(a) como prático(a) e realista."
+      },
+      {
+        "score": "neutral",
+        "text": "A sua pontuação para abertura à experiência é média, indicando que gosta da tradição, mas está disposto(a) a experimentar coisas novas. Costuma pensar de maneira neutra, nem simples nem complicada. Os outros veem-no(a) como uma pessoa educada mas não super intelectual."
+      },
+      {
+        "score": "high",
+        "text": "A sua pontuação para abertura à experiência é alta, indicando que gosta de novidades, de variar as atividades e de mudanças. É curioso(a) e criativo(a)."
+      }
+    ],
+    "facets": [
+      {
+        "facet": 1,
+        "title": "Fantasia",
+        "text": "Vida mental ativa, criativa e de forte imaginação. Para estas pessoas, o mundo real é muito comum, normal e rotineiro, por isso estão sempre a criar maneiras de fantasiar um mundo mais interessante e fabuloso. Quem não tem uma pontuação alta para fantasia é mais orientado por factos do que pela imaginação."
+      },
+      {
+        "facet": 2,
+        "title": "Estética",
+        "text": "Forte valorização da arte e da beleza, interesse pela poesia, arte e música. Estas pessoas normalmente desenvolvem habilidades artísticas e têm sensibilidade a eventos naturais e à estética. Já as pessoas que têm baixa pontuação têm pouca ou nenhuma sensibilidade estética e interesse pela arte."
+      },
+      {
+        "facet": 3,
+        "title": "Emotividade",
+        "text": "Recetivas e conscientes dos seus próprios sentimentos e emoções. Sentem emoções fortes e tendem a expressá-las abertamente. As pessoas pouco emotivas tendem a não expressar as suas emoções abertamente."
+      },
+      {
+        "facet": 4,
+        "title": "Aventura",
+        "text": "Dispostas a explorar novos lugares, experimentar novos alimentos e começar novas atividades. Pessoas aventureiras estão sempre à procura do desconhecido, gostam de desbravar lugares e não gostam de rotina. É aquela pessoa que gosta de mudar o seu caminho de volta para casa todos os dias. Ao contrário, as pessoas que pontuam pouco para aventura sentem-se desconfortáveis com mudanças e preferem rotinas familiares."
+      },
+      {
+        "facet": 5,
+        "title": "Intelecto",
+        "text": "Curiosas e cheias de ideias. Interesse por argumentos filosóficos. Pessoas abertas ao novo e ao incomum, gostam de debater questões intelectuais, de decifrar enigmas e de desafios para a mente. Normalmente saem-se melhor em questões de raciocínio rápido e lógica. Já as pessoas com pontuação baixa preferem lidar com pessoas em vez de ideias. Consideram os exercícios intelectuais uma perda de tempo."
+      },
+      {
+        "facet": 6,
+        "title": "Liberalismo",
+        "text": "Gosta de explorar e avaliar os seus próprios valores sociais, políticos e religiosos. O liberalismo psicológico refere-se a uma abertura para desafiar a autoridade, o convencional e o tradicional. Demonstra aversão em relação às regras, questiona-se com frequência sobre o que é imposto e aprecia revoluções sociais. Não se importam com estabilidade e segurança, são inconformados e entram em conflito com a tradição. Já o contrário, os conservadores psicológicos, preferem a segurança e a estabilidade. Sentem-se bem com o tradicional e normalmente não saem da sua zona de conforto."
+      }
+    ]
+  }
+]
